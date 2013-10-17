@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[visualItemRect(${1:item})]]></content>
+    <tabTrigger>visualItemRect(item)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTreeWidget</description>
+</snippet>

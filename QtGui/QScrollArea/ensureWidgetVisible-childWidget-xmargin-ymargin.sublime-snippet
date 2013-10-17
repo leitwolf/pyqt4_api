@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[ensureWidgetVisible(${1:childWidget}, ${2:xmargin}, ${3:ymargin})]]></content>
+    <tabTrigger>ensureWidgetVisible(childWidget, xmargin, ymargin)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QScrollArea</description>
+</snippet>

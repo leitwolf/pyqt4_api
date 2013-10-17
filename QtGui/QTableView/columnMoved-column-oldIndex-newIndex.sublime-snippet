@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[columnMoved(${1:column}, ${2:oldIndex}, ${3:newIndex})]]></content>
+    <tabTrigger>columnMoved(column, oldIndex, newIndex)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTableView(Slot)</description>
+</snippet>

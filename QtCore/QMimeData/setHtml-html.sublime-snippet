@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setHtml(${1:html})]]></content>
+    <tabTrigger>setHtml(html)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMimeData</description>
+</snippet>

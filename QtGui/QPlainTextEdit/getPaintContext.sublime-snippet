@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[getPaintContext()]]></content>
+    <tabTrigger>getPaintContext()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPlainTextEdit</description>
+</snippet>

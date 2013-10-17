@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[currentPageChanged(${1:year}, ${2:month})]]></content>
+    <tabTrigger>currentPageChanged(year, month)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QCalendarWidget(Signal)</description>
+</snippet>

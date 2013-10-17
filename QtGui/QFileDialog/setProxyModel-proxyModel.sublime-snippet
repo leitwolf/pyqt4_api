@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setProxyModel(${1:proxyModel})]]></content>
+    <tabTrigger>setProxyModel(proxyModel)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFileDialog</description>
+</snippet>

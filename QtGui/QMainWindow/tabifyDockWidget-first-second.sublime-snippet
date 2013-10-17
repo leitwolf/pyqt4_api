@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[tabifyDockWidget(${1:first}, ${2:second})]]></content>
+    <tabTrigger>tabifyDockWidget(first, second)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMainWindow</description>
+</snippet>

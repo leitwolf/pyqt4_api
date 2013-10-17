@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setSelection(${1:rect}, ${2:flags})]]></content>
+    <tabTrigger>setSelection(rect, flags)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractItemView</description>
+</snippet>

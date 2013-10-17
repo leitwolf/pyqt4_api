@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setModal(${1:modal})]]></content>
+    <tabTrigger>setModal(modal)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDialog</description>
+</snippet>

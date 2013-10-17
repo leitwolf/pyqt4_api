@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[getWidgetPosition(${1:widget}, ${2:rowPtr}, ${3:rolePtr})]]></content>
+    <tabTrigger>getWidgetPosition(widget, rowPtr, rolePtr)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFormLayout</description>
+</snippet>

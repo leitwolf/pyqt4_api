@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setCancelButton(${1:cancelButton})]]></content>
+    <tabTrigger>setCancelButton(cancelButton)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QProgressDialog</description>
+</snippet>

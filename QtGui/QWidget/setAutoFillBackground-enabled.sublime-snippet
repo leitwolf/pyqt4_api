@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setAutoFillBackground(${1:enabled})]]></content>
+    <tabTrigger>setAutoFillBackground(enabled)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QWidget</description>
+</snippet>

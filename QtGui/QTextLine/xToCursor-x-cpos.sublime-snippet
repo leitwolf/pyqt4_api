@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[xToCursor(${1:x}, ${2:cpos})]]></content>
+    <tabTrigger>xToCursor(x, cpos)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextLine</description>
+</snippet>

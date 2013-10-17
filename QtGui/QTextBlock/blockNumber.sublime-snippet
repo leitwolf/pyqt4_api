@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[blockNumber()]]></content>
+    <tabTrigger>blockNumber()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextBlock</description>
+</snippet>

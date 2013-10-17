@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setCenterButtons(${1:center})]]></content>
+    <tabTrigger>setCenterButtons(center)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDialogButtonBox</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[keyboardModifiers()]]></content>
+    <tabTrigger>keyboardModifiers()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDropEvent</description>
+</snippet>

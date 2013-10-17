@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[exec_()]]></content>
+    <tabTrigger>exec_()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDialog(Slot)</description>
+</snippet>

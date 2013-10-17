@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[convertToFormat(${1:format}, ${2:colorTable}, ${3:flags})]]></content>
+    <tabTrigger>convertToFormat(format, colorTable, flags)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QImage</description>
+</snippet>

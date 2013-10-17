@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[findItems(${1:text}, ${2:flags}, ${3:column})]]></content>
+    <tabTrigger>findItems(text, flags, column)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTreeWidget</description>
+</snippet>

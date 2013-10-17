@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[popup(${1:p}, ${2:atAction})]]></content>
+    <tabTrigger>popup(p, atAction)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMenu</description>
+</snippet>

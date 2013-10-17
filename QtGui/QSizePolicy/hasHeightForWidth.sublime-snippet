@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[hasHeightForWidth()]]></content>
+    <tabTrigger>hasHeightForWidth()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSizePolicy</description>
+</snippet>

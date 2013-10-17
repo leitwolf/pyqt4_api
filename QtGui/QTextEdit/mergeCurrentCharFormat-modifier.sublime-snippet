@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[mergeCurrentCharFormat(${1:modifier})]]></content>
+    <tabTrigger>mergeCurrentCharFormat(modifier)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextEdit</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[editorDestroyed(${1:editor})]]></content>
+    <tabTrigger>editorDestroyed(editor)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractItemView(Slot)</description>
+</snippet>

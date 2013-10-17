@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setDecideFormatFromContent(${1:ignored})]]></content>
+    <tabTrigger>setDecideFormatFromContent(ignored)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QImageReader</description>
+</snippet>

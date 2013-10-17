@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[metric(${1:metric})]]></content>
+    <tabTrigger>metric(metric)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPaintDevice</description>
+</snippet>

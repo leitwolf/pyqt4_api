@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setProperty(${1:name}, ${2:value})]]></content>
+    <tabTrigger>setProperty(name, value)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QObject</description>
+</snippet>

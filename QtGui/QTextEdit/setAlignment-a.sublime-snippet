@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setAlignment(${1:a})]]></content>
+    <tabTrigger>setAlignment(a)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextEdit(Slot)</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[createStandardContextMenu()]]></content>
+    <tabTrigger>createStandardContextMenu()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextEdit</description>
+</snippet>

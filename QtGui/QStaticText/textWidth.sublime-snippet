@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[textWidth()]]></content>
+    <tabTrigger>textWidth()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStaticText</description>
+</snippet>

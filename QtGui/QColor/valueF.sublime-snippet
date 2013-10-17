@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[valueF()]]></content>
+    <tabTrigger>valueF()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QColor</description>
+</snippet>

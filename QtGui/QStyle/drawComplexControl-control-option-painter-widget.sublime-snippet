@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[drawComplexControl(${1:control}, ${2:option}, ${3:painter}, ${4:widget})]]></content>
+    <tabTrigger>drawComplexControl(control, option, painter, widget)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStyle</description>
+</snippet>

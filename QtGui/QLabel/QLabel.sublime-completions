@@ -1,0 +1,10 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QLabel", "contents": "QtGui.QLabel" },
+		{ "trigger": "QLabel(parent, f)", "contents": "QtGui.QLabel(${1:parent}, ${2:f})" },
+		{ "trigger": "QLabel(text, parent, f)", "contents": "QtGui.QLabel(${1:text}, ${2:parent}, ${3:f})" }
+	]
+}

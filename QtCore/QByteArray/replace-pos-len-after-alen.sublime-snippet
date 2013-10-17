@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[replace(${1:pos}, ${2:len}, ${3:after}, ${4:alen})]]></content>
+    <tabTrigger>replace(pos, len, after, alen)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QByteArray</description>
+</snippet>

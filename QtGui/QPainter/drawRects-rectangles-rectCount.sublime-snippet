@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[drawRects(${1:rectangles}, ${2:rectCount})]]></content>
+    <tabTrigger>drawRects(rectangles, rectCount)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

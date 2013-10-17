@@ -1,0 +1,13 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QTextLayout", "contents": "QtGui.QTextLayout" },
+		{ "trigger": "QTextLayout.SkipCharacters", "contents": "QtGui.QTextLayout.SkipCharacters" },
+		{ "trigger": "QTextLayout.SkipWords", "contents": "QtGui.QTextLayout.SkipWords" },
+		{ "trigger": "QTextLayout()", "contents": "QtGui.QTextLayout()" },
+		{ "trigger": "QTextLayout(text)", "contents": "QtGui.QTextLayout(${1:text})" },
+		{ "trigger": "QTextLayout(text, font, paintdevice)", "contents": "QtGui.QTextLayout(${1:text}, ${2:font}, ${3:paintdevice})" }
+	]
+}

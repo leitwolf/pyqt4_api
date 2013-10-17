@@ -1,0 +1,9 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QSplitterHandle", "contents": "QtGui.QSplitterHandle" },
+		{ "trigger": "QSplitterHandle(orientation, parent)", "contents": "QtGui.QSplitterHandle(${1:orientation}, ${2:parent})" }
+	]
+}

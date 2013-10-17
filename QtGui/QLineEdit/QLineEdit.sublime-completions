@@ -1,0 +1,14 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QLineEdit", "contents": "QtGui.QLineEdit" },
+		{ "trigger": "QLineEdit.Normal", "contents": "QtGui.QLineEdit.Normal" },
+		{ "trigger": "QLineEdit.NoEcho", "contents": "QtGui.QLineEdit.NoEcho" },
+		{ "trigger": "QLineEdit.Password", "contents": "QtGui.QLineEdit.Password" },
+		{ "trigger": "QLineEdit.PasswordEchoOnEdit", "contents": "QtGui.QLineEdit.PasswordEchoOnEdit" },
+		{ "trigger": "QLineEdit(parent)", "contents": "QtGui.QLineEdit(${1:parent})" },
+		{ "trigger": "QLineEdit(contents, parent)", "contents": "QtGui.QLineEdit(${1:contents}, ${2:parent})" }
+	]
+}

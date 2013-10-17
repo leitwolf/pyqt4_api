@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setSelectable(${1:selectable})]]></content>
+    <tabTrigger>setSelectable(selectable)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStandardItem</description>
+</snippet>

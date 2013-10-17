@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[distanceToPlane(${1:plane}, ${2:normal})]]></content>
+    <tabTrigger>distanceToPlane(plane, normal)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QVector3D</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[scaled(${1:size}, ${2:aspectRatioMode}, ${3:transformMode})]]></content>
+    <tabTrigger>scaled(size, aspectRatioMode, transformMode)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPixmap</description>
+</snippet>

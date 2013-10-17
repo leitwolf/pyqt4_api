@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setForeground(${1:brush})]]></content>
+    <tabTrigger>setForeground(brush)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QListWidgetItem</description>
+</snippet>

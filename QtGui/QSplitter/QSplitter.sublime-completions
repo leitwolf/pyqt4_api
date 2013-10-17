@@ -1,0 +1,10 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QSplitter", "contents": "QtGui.QSplitter" },
+		{ "trigger": "QSplitter(parent)", "contents": "QtGui.QSplitter(${1:parent})" },
+		{ "trigger": "QSplitter(orientation, parent)", "contents": "QtGui.QSplitter(${1:orientation}, ${2:parent})" }
+	]
+}

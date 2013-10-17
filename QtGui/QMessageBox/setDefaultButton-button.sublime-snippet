@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setDefaultButton(${1:button})]]></content>
+    <tabTrigger>setDefaultButton(button)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMessageBox</description>
+</snippet>

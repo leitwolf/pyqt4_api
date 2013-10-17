@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setDockNestingEnabled(${1:enabled})]]></content>
+    <tabTrigger>setDockNestingEnabled(enabled)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMainWindow(Slot)</description>
+</snippet>

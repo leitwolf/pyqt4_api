@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setFragment(${1:fragment})]]></content>
+    <tabTrigger>setFragment(fragment)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QUrl</description>
+</snippet>

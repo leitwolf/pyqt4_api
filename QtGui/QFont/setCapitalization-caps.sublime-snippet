@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setCapitalization(${1:caps})]]></content>
+    <tabTrigger>setCapitalization(caps)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFont</description>
+</snippet>

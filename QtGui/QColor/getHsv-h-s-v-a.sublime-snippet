@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[getHsv(${1:h}, ${2:s}, ${3:v}, ${4:a})]]></content>
+    <tabTrigger>getHsv(h, s, v, a)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QColor</description>
+</snippet>

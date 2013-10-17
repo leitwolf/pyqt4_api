@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[toWCharArray(${1:array})]]></content>
+    <tabTrigger>toWCharArray(array)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QString</description>
+</snippet>

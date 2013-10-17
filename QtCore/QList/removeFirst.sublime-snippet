@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[removeFirst()]]></content>
+    <tabTrigger>removeFirst()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QList</description>
+</snippet>

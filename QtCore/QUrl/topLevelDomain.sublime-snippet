@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[topLevelDomain()]]></content>
+    <tabTrigger>topLevelDomain()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QUrl</description>
+</snippet>

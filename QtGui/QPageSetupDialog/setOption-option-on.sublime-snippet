@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setOption(${1:option}, ${2:on})]]></content>
+    <tabTrigger>setOption(option, on)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPageSetupDialog</description>
+</snippet>

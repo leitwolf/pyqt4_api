@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[autoSipEnabled()]]></content>
+    <tabTrigger>autoSipEnabled()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QApplication(Slot)</description>
+</snippet>

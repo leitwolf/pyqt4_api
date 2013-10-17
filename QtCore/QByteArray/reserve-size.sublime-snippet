@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[reserve(${1:size})]]></content>
+    <tabTrigger>reserve(size)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QByteArray</description>
+</snippet>

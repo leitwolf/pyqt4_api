@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[dataChanged()]]></content>
+    <tabTrigger>dataChanged()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QClipboard(Signal)</description>
+</snippet>

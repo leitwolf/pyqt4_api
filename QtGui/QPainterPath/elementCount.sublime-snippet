@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[elementCount()]]></content>
+    <tabTrigger>elementCount()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainterPath</description>
+</snippet>

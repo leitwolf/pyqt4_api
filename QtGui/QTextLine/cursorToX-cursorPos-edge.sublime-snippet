@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[cursorToX(${1:cursorPos}, ${2:edge})]]></content>
+    <tabTrigger>cursorToX(cursorPos, edge)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextLine</description>
+</snippet>

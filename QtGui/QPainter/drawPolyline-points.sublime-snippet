@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[drawPolyline(${1:points})]]></content>
+    <tabTrigger>drawPolyline(points)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

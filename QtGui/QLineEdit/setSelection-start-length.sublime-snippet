@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setSelection(${1:start}, ${2:length})]]></content>
+    <tabTrigger>setSelection(start, length)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLineEdit</description>
+</snippet>

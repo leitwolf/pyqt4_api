@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[dragDropOverwriteMode()]]></content>
+    <tabTrigger>dragDropOverwriteMode()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractItemView</description>
+</snippet>

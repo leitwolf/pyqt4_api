@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[accepted]]></content>
+    <tabTrigger>accepted</tabTrigger>
+    <scope>source.python</scope>
+    <description>QEvent</description>
+</snippet>

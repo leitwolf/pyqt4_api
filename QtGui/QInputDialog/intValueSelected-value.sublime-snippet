@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[intValueSelected(${1:value})]]></content>
+    <tabTrigger>intValueSelected(value)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QInputDialog(Signal)</description>
+</snippet>

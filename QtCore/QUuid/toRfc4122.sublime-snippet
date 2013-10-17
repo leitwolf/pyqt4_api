@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[toRfc4122()]]></content>
+    <tabTrigger>toRfc4122()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QUuid</description>
+</snippet>

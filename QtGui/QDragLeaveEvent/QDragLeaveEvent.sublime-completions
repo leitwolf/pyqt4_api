@@ -1,0 +1,9 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QDragLeaveEvent", "contents": "QtGui.QDragLeaveEvent" },
+		{ "trigger": "QDragLeaveEvent()", "contents": "QtGui.QDragLeaveEvent()" }
+	]
+}

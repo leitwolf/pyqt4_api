@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[resizeRowsToContents()]]></content>
+    <tabTrigger>resizeRowsToContents()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTableView(Slot)</description>
+</snippet>

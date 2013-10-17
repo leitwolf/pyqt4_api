@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[scaledToHeight(${1:height}, ${2:mode})]]></content>
+    <tabTrigger>scaledToHeight(height, mode)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPixmap</description>
+</snippet>

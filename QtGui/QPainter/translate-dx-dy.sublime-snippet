@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[translate(${1:dx}, ${2:dy})]]></content>
+    <tabTrigger>translate(dx, dy)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

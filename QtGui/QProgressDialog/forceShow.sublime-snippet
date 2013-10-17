@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[forceShow()]]></content>
+    <tabTrigger>forceShow()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QProgressDialog(Slot)</description>
+</snippet>

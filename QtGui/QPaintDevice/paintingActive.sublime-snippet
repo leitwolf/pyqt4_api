@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[paintingActive()]]></content>
+    <tabTrigger>paintingActive()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPaintDevice</description>
+</snippet>

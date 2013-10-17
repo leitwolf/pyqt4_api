@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[dropMimeData(${1:row}, ${2:column}, ${3:data}, ${4:action})]]></content>
+    <tabTrigger>dropMimeData(row, column, data, action)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTableWidget</description>
+</snippet>

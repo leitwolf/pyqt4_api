@@ -1,0 +1,18 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QFormLayout", "contents": "QtGui.QFormLayout" },
+		{ "trigger": "QFormLayout.FieldsStayAtSizeHint", "contents": "QtGui.QFormLayout.FieldsStayAtSizeHint" },
+		{ "trigger": "QFormLayout.ExpandingFieldsGrow", "contents": "QtGui.QFormLayout.ExpandingFieldsGrow" },
+		{ "trigger": "QFormLayout.AllNonFixedFieldsGrow", "contents": "QtGui.QFormLayout.AllNonFixedFieldsGrow" },
+		{ "trigger": "QFormLayout.LabelRole", "contents": "QtGui.QFormLayout.LabelRole" },
+		{ "trigger": "QFormLayout.FieldRole", "contents": "QtGui.QFormLayout.FieldRole" },
+		{ "trigger": "QFormLayout.SpanningRole", "contents": "QtGui.QFormLayout.SpanningRole" },
+		{ "trigger": "QFormLayout.DontWrapRows", "contents": "QtGui.QFormLayout.DontWrapRows" },
+		{ "trigger": "QFormLayout.WrapLongRows", "contents": "QtGui.QFormLayout.WrapLongRows" },
+		{ "trigger": "QFormLayout.WrapAllRows", "contents": "QtGui.QFormLayout.WrapAllRows" },
+		{ "trigger": "QFormLayout(parent)", "contents": "QtGui.QFormLayout(${1:parent})" }
+	]
+}

@@ -1,0 +1,14 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QMainWindow", "contents": "QtGui.QMainWindow" },
+		{ "trigger": "QMainWindow.AnimatedDocks", "contents": "QtGui.QMainWindow.AnimatedDocks" },
+		{ "trigger": "QMainWindow.AllowNestedDocks", "contents": "QtGui.QMainWindow.AllowNestedDocks" },
+		{ "trigger": "QMainWindow.AllowTabbedDocks", "contents": "QtGui.QMainWindow.AllowTabbedDocks" },
+		{ "trigger": "QMainWindow.ForceTabbedDocks", "contents": "QtGui.QMainWindow.ForceTabbedDocks" },
+		{ "trigger": "QMainWindow.VerticalTabs", "contents": "QtGui.QMainWindow.VerticalTabs" },
+		{ "trigger": "QMainWindow(parent, flags)", "contents": "QtGui.QMainWindow(${1:parent}, ${2:flags})" }
+	]
+}

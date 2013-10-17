@@ -1,0 +1,10 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QFontInfo", "contents": "QtGui.QFontInfo" },
+		{ "trigger": "QFontInfo(font)", "contents": "QtGui.QFontInfo(${1:font})" },
+		{ "trigger": "QFontInfo(fi)", "contents": "QtGui.QFontInfo(${1:fi})" }
+	]
+}

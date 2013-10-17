@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[hasChildren()]]></content>
+    <tabTrigger>hasChildren()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStandardItem</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setSpacing(${1:spacing})]]></content>
+    <tabTrigger>setSpacing(spacing)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QBoxLayout</description>
+</snippet>

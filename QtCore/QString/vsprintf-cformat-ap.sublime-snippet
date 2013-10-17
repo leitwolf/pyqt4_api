@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[vsprintf(${1:cformat}, ${2:ap})]]></content>
+    <tabTrigger>vsprintf(cformat, ap)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QString</description>
+</snippet>

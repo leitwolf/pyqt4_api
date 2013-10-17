@@ -1,0 +1,13 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QBoxLayout", "contents": "QtGui.QBoxLayout" },
+		{ "trigger": "QBoxLayout.LeftToRight", "contents": "QtGui.QBoxLayout.LeftToRight" },
+		{ "trigger": "QBoxLayout.RightToLeft", "contents": "QtGui.QBoxLayout.RightToLeft" },
+		{ "trigger": "QBoxLayout.TopToBottom", "contents": "QtGui.QBoxLayout.TopToBottom" },
+		{ "trigger": "QBoxLayout.BottomToTop", "contents": "QtGui.QBoxLayout.BottomToTop" },
+		{ "trigger": "QBoxLayout(dir, parent)", "contents": "QtGui.QBoxLayout(${1:dir}, ${2:parent})" }
+	]
+}

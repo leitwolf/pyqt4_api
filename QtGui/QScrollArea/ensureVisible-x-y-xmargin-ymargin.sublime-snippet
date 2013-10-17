@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[ensureVisible(${1:x}, ${2:y}, ${3:xmargin}, ${4:ymargin})]]></content>
+    <tabTrigger>ensureVisible(x, y, xmargin, ymargin)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QScrollArea</description>
+</snippet>

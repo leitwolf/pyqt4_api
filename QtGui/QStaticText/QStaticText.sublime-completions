@@ -1,0 +1,13 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QStaticText", "contents": "QtGui.QStaticText" },
+		{ "trigger": "QStaticText.ModerateCaching", "contents": "QtGui.QStaticText.ModerateCaching" },
+		{ "trigger": "QStaticText.AggressiveCaching", "contents": "QtGui.QStaticText.AggressiveCaching" },
+		{ "trigger": "QStaticText()", "contents": "QtGui.QStaticText()" },
+		{ "trigger": "QStaticText(text)", "contents": "QtGui.QStaticText(${1:text})" },
+		{ "trigger": "QStaticText(other)", "contents": "QtGui.QStaticText(${1:other})" }
+	]
+}

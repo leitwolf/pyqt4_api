@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[toRectF()]]></content>
+    <tabTrigger>toRectF()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QVariant</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setIndex(${1:idx})]]></content>
+    <tabTrigger>setIndex(idx)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QUndoStack(Slot)</description>
+</snippet>

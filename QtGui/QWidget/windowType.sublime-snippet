@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[windowType()]]></content>
+    <tabTrigger>windowType()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QWidget</description>
+</snippet>

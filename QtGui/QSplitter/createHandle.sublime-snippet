@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[createHandle()]]></content>
+    <tabTrigger>createHandle()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSplitter</description>
+</snippet>

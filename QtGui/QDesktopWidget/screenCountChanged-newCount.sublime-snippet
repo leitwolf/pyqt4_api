@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[screenCountChanged(${1:newCount})]]></content>
+    <tabTrigger>screenCountChanged(newCount)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDesktopWidget(Signal)</description>
+</snippet>

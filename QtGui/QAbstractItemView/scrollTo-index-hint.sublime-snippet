@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[scrollTo(${1:index}, ${2:hint})]]></content>
+    <tabTrigger>scrollTo(index, hint)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractItemView</description>
+</snippet>

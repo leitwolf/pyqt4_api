@@ -1,0 +1,9 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QActionGroup", "contents": "QtGui.QActionGroup" },
+		{ "trigger": "QActionGroup(parent)", "contents": "QtGui.QActionGroup(${1:parent})" }
+	]
+}

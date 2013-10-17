@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setFirstColumnSpanned(${1:row}, ${2:parent}, ${3:span})]]></content>
+    <tabTrigger>setFirstColumnSpanned(row, parent, span)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTreeView</description>
+</snippet>

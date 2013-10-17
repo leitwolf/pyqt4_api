@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[toUInt(${1:ok})]]></content>
+    <tabTrigger>toUInt(ok)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QVariant</description>
+</snippet>

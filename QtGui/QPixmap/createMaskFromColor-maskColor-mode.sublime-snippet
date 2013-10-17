@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[createMaskFromColor(${1:maskColor}, ${2:mode})]]></content>
+    <tabTrigger>createMaskFromColor(maskColor, mode)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPixmap</description>
+</snippet>

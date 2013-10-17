@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[aboutToUseGpuResources()]]></content>
+    <tabTrigger>aboutToUseGpuResources()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QApplication(Signal)</description>
+</snippet>

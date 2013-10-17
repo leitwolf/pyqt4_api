@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[resizeMode(${1:logicalIndex})]]></content>
+    <tabTrigger>resizeMode(logicalIndex)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QHeaderView</description>
+</snippet>

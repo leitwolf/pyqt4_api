@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setHighlightSections(${1:highlight})]]></content>
+    <tabTrigger>setHighlightSections(highlight)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QHeaderView</description>
+</snippet>

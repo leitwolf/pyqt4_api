@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[display(${1:s})]]></content>
+    <tabTrigger>display(s)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLCDNumber(Slot)</description>
+</snippet>

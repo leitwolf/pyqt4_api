@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[charFormat()]]></content>
+    <tabTrigger>charFormat()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextBlock</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[relativeFilePath(${1:fileName})]]></content>
+    <tabTrigger>relativeFilePath(fileName)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDir</description>
+</snippet>

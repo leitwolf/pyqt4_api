@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setTextureImage(${1:image})]]></content>
+    <tabTrigger>setTextureImage(image)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QBrush</description>
+</snippet>

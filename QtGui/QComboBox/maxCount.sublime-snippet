@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[maxCount()]]></content>
+    <tabTrigger>maxCount()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QComboBox</description>
+</snippet>

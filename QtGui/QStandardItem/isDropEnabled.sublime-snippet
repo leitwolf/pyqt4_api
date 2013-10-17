@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[isDropEnabled()]]></content>
+    <tabTrigger>isDropEnabled()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStandardItem</description>
+</snippet>

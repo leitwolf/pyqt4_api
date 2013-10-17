@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setWidthForHeight(${1:dependent})]]></content>
+    <tabTrigger>setWidthForHeight(dependent)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSizePolicy</description>
+</snippet>

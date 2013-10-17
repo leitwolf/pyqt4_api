@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[swapSections(${1:first}, ${2:second})]]></content>
+    <tabTrigger>swapSections(first, second)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QHeaderView</description>
+</snippet>

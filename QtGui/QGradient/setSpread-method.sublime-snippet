@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setSpread(${1:method})]]></content>
+    <tabTrigger>setSpread(method)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QGradient</description>
+</snippet>

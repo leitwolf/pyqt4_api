@@ -1,0 +1,13 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QObject", "contents": "QtCore.QObject" },
+		{ "trigger": "QObject(parent)", "contents": "QtCore.QObject(${1:parent})" },
+		{ "trigger": "QObject.connect(sender, signal, receiver, method, type)", "contents": "QtCore.QObject.connect(${1:sender}, ${2:signal}, ${3:receiver}, ${4:method}, ${5:type})" },
+		{ "trigger": "QObject.disconnect(sender, signal, receiver, method)", "contents": "QtCore.QObject.disconnect(${1:sender}, ${2:signal}, ${3:receiver}, ${4:method})" },
+		{ "trigger": "QObject.tr(sourceText, disambiguation, n)", "contents": "QtCore.QObject.tr(${1:sourceText}, ${2:disambiguation}, ${3:n})" },
+		{ "trigger": "QObject.trUtf8(sourceText, disambiguation, n)", "contents": "QtCore.QObject.trUtf8(${1:sourceText}, ${2:disambiguation}, ${3:n})" }
+	]
+}

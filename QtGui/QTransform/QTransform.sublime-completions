@@ -1,0 +1,23 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QTransform", "contents": "QtGui.QTransform" },
+		{ "trigger": "QTransform.TxNone", "contents": "QtGui.QTransform.TxNone" },
+		{ "trigger": "QTransform.TxTranslate", "contents": "QtGui.QTransform.TxTranslate" },
+		{ "trigger": "QTransform.TxScale", "contents": "QtGui.QTransform.TxScale" },
+		{ "trigger": "QTransform.TxRotate", "contents": "QtGui.QTransform.TxRotate" },
+		{ "trigger": "QTransform.TxShear", "contents": "QtGui.QTransform.TxShear" },
+		{ "trigger": "QTransform.TxProject", "contents": "QtGui.QTransform.TxProject" },
+		{ "trigger": "QTransform()", "contents": "QtGui.QTransform()" },
+		{ "trigger": "QTransform(m11, m12, m13, m21, m22, m23, m31, m32, m33)", "contents": "QtGui.QTransform(${1:m11}, ${2:m12}, ${3:m13}, ${4:m21}, ${5:m22}, ${6:m23}, ${7:m31}, ${8:m32}, ${9:m33})" },
+		{ "trigger": "QTransform(m11, m12, m21, m22, dx, dy)", "contents": "QtGui.QTransform(${1:m11}, ${2:m12}, ${3:m21}, ${4:m22}, ${5:dx}, ${6:dy})" },
+		{ "trigger": "QTransform(matrix)", "contents": "QtGui.QTransform(${1:matrix})" },
+		{ "trigger": "QTransform.fromScale(sx, sy)", "contents": "QtGui.QTransform.fromScale(${1:sx}, ${2:sy})" },
+		{ "trigger": "QTransform.fromTranslate(dx, dy)", "contents": "QtGui.QTransform.fromTranslate(${1:dx}, ${2:dy})" },
+		{ "trigger": "QTransform.quadToQuad(one, two, trans)", "contents": "QtGui.QTransform.quadToQuad(${1:one}, ${2:two}, ${3:trans})" },
+		{ "trigger": "QTransform.quadToSquare(quad, trans)", "contents": "QtGui.QTransform.quadToSquare(${1:quad}, ${2:trans})" },
+		{ "trigger": "QTransform.squareToQuad(quad, trans)", "contents": "QtGui.QTransform.squareToQuad(${1:quad}, ${2:trans})" }
+	]
+}

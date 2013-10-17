@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[loadFromData(${1:data}, ${2:len}, ${3:format})]]></content>
+    <tabTrigger>loadFromData(data, len, format)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QImage</description>
+</snippet>

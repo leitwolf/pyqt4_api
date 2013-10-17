@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[drawLines(${1:lines}, ${2:lineCount})]]></content>
+    <tabTrigger>drawLines(lines, lineCount)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

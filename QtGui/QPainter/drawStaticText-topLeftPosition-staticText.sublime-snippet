@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[drawStaticText(${1:topLeftPosition}, ${2:staticText})]]></content>
+    <tabTrigger>drawStaticText(topLeftPosition, staticText)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setTextElideMode(${1:mode})]]></content>
+    <tabTrigger>setTextElideMode(mode)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractItemView</description>
+</snippet>

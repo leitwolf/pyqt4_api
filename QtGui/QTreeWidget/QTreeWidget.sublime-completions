@@ -1,0 +1,9 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QTreeWidget", "contents": "QtGui.QTreeWidget" },
+		{ "trigger": "QTreeWidget(parent)", "contents": "QtGui.QTreeWidget(${1:parent})" }
+	]
+}

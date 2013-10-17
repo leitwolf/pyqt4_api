@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setNavigationBarVisible(${1:visible})]]></content>
+    <tabTrigger>setNavigationBarVisible(visible)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QCalendarWidget(Slot)</description>
+</snippet>

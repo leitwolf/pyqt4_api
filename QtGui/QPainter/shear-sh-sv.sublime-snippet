@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[shear(${1:sh}, ${2:sv})]]></content>
+    <tabTrigger>shear(sh, sv)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

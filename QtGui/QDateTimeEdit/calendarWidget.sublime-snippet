@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[calendarWidget()]]></content>
+    <tabTrigger>calendarWidget()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDateTimeEdit</description>
+</snippet>

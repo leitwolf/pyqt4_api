@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setEncodedQuery(${1:query})]]></content>
+    <tabTrigger>setEncodedQuery(query)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QUrl</description>
+</snippet>

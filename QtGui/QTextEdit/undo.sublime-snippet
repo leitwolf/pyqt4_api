@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[undo()]]></content>
+    <tabTrigger>undo()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextEdit(Slot)</description>
+</snippet>

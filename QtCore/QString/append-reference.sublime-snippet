@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[append(${1:reference})]]></content>
+    <tabTrigger>append(reference)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QString</description>
+</snippet>

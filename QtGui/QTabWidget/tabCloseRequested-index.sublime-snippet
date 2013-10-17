@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[tabCloseRequested(${1:index})]]></content>
+    <tabTrigger>tabCloseRequested(index)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTabWidget(Signal)</description>
+</snippet>

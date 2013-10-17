@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setTearOffEnabled(${1:bool})]]></content>
+    <tabTrigger>setTearOffEnabled(bool)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMenu</description>
+</snippet>

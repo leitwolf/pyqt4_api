@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[cursorRect()]]></content>
+    <tabTrigger>cursorRect()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLineEdit</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setEncodedQueryItems(${1:QByteArray}, ${2:query})]]></content>
+    <tabTrigger>setEncodedQueryItems(QByteArray, query)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QUrl</description>
+</snippet>

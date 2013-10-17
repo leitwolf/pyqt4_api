@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[minute()]]></content>
+    <tabTrigger>minute()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTime</description>
+</snippet>

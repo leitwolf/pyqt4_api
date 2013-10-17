@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setCursorMoveStyle(${1:style})]]></content>
+    <tabTrigger>setCursorMoveStyle(style)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLineEdit</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setCurrentColorGroup(${1:cg})]]></content>
+    <tabTrigger>setCurrentColorGroup(cg)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPalette</description>
+</snippet>

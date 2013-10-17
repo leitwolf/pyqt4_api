@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[sizeFromContents(${1:type}, ${2:option}, ${3:contentsSize}, ${4:widget})]]></content>
+    <tabTrigger>sizeFromContents(type, option, contentsSize, widget)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStyle</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[byteCount()]]></content>
+    <tabTrigger>byteCount()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QImage</description>
+</snippet>

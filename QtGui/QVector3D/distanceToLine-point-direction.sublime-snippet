@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[distanceToLine(${1:point}, ${2:direction})]]></content>
+    <tabTrigger>distanceToLine(point, direction)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QVector3D</description>
+</snippet>

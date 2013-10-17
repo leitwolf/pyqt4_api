@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[showPopup()]]></content>
+    <tabTrigger>showPopup()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QComboBox</description>
+</snippet>

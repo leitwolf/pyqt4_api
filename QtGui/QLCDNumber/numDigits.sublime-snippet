@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[numDigits]]></content>
+    <tabTrigger>numDigits</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLCDNumber</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[contains(${1:str})]]></content>
+    <tabTrigger>contains(str)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QByteArray</description>
+</snippet>

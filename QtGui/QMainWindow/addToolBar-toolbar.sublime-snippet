@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[addToolBar(${1:toolbar})]]></content>
+    <tabTrigger>addToolBar(toolbar)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMainWindow</description>
+</snippet>

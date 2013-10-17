@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[hiddenSectionCount()]]></content>
+    <tabTrigger>hiddenSectionCount()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QHeaderView</description>
+</snippet>

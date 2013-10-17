@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[mode()]]></content>
+    <tabTrigger>mode()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLCDNumber</description>
+</snippet>

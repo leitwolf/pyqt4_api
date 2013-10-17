@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setAcceptMode(${1:mode})]]></content>
+    <tabTrigger>setAcceptMode(mode)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFileDialog</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[moveCursor(${1:operation}, ${2:mode})]]></content>
+    <tabTrigger>moveCursor(operation, mode)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPlainTextEdit</description>
+</snippet>

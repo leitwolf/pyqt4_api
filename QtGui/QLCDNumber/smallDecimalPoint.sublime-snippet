@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[smallDecimalPoint()]]></content>
+    <tabTrigger>smallDecimalPoint()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLCDNumber</description>
+</snippet>

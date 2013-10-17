@@ -1,0 +1,25 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QIcon", "contents": "QtGui.QIcon" },
+		{ "trigger": "QIcon.Normal", "contents": "QtGui.QIcon.Normal" },
+		{ "trigger": "QIcon.Disabled", "contents": "QtGui.QIcon.Disabled" },
+		{ "trigger": "QIcon.Active", "contents": "QtGui.QIcon.Active" },
+		{ "trigger": "QIcon.Selected", "contents": "QtGui.QIcon.Selected" },
+		{ "trigger": "QIcon.Off", "contents": "QtGui.QIcon.Off" },
+		{ "trigger": "QIcon.On", "contents": "QtGui.QIcon.On" },
+		{ "trigger": "QIcon()", "contents": "QtGui.QIcon()" },
+		{ "trigger": "QIcon(pixmap)", "contents": "QtGui.QIcon(${1:pixmap})" },
+		{ "trigger": "QIcon(other)", "contents": "QtGui.QIcon(${1:other})" },
+		{ "trigger": "QIcon(fileName)", "contents": "QtGui.QIcon(${1:fileName})" },
+		{ "trigger": "QIcon(engine)", "contents": "QtGui.QIcon(${1:engine})" },
+		{ "trigger": "QIcon.fromTheme(name, fallback)", "contents": "QtGui.QIcon.fromTheme(${1:name}, ${2:fallback})" },
+		{ "trigger": "QIcon.hasThemeIcon(name)", "contents": "QtGui.QIcon.hasThemeIcon(${1:name})" },
+		{ "trigger": "QIcon.setThemeName(name)", "contents": "QtGui.QIcon.setThemeName(${1:name})" },
+		{ "trigger": "QIcon.setThemeSearchPaths(paths)", "contents": "QtGui.QIcon.setThemeSearchPaths(${1:paths})" },
+		{ "trigger": "QIcon.themeName()", "contents": "QtGui.QIcon.themeName()" },
+		{ "trigger": "QIcon.themeSearchPaths()", "contents": "QtGui.QIcon.themeSearchPaths()" }
+	]
+}

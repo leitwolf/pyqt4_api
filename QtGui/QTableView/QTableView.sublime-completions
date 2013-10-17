@@ -1,0 +1,9 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QTableView", "contents": "QtGui.QTableView" },
+		{ "trigger": "QTableView(parent)", "contents": "QtGui.QTableView(${1:parent})" }
+	]
+}

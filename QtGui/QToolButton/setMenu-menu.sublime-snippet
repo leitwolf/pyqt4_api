@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setMenu(${1:menu})]]></content>
+    <tabTrigger>setMenu(menu)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QToolButton</description>
+</snippet>

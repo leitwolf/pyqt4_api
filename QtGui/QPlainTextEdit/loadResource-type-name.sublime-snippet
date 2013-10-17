@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[loadResource(${1:type}, ${2:name})]]></content>
+    <tabTrigger>loadResource(type, name)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPlainTextEdit</description>
+</snippet>

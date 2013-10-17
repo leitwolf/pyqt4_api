@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[childrenCollapsible()]]></content>
+    <tabTrigger>childrenCollapsible()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSplitter</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[exactMatch()]]></content>
+    <tabTrigger>exactMatch()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFontInfo</description>
+</snippet>

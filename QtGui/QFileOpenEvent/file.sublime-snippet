@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[file()]]></content>
+    <tabTrigger>file()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFileOpenEvent</description>
+</snippet>

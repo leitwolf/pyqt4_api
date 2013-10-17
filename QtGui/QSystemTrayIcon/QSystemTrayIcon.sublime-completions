@@ -1,0 +1,21 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QSystemTrayIcon", "contents": "QtGui.QSystemTrayIcon" },
+		{ "trigger": "QSystemTrayIcon.Unknown", "contents": "QtGui.QSystemTrayIcon.Unknown" },
+		{ "trigger": "QSystemTrayIcon.Context", "contents": "QtGui.QSystemTrayIcon.Context" },
+		{ "trigger": "QSystemTrayIcon.DoubleClick", "contents": "QtGui.QSystemTrayIcon.DoubleClick" },
+		{ "trigger": "QSystemTrayIcon.Trigger", "contents": "QtGui.QSystemTrayIcon.Trigger" },
+		{ "trigger": "QSystemTrayIcon.MiddleClick", "contents": "QtGui.QSystemTrayIcon.MiddleClick" },
+		{ "trigger": "QSystemTrayIcon.NoIcon", "contents": "QtGui.QSystemTrayIcon.NoIcon" },
+		{ "trigger": "QSystemTrayIcon.Information", "contents": "QtGui.QSystemTrayIcon.Information" },
+		{ "trigger": "QSystemTrayIcon.Warning", "contents": "QtGui.QSystemTrayIcon.Warning" },
+		{ "trigger": "QSystemTrayIcon.Critical", "contents": "QtGui.QSystemTrayIcon.Critical" },
+		{ "trigger": "QSystemTrayIcon(parent)", "contents": "QtGui.QSystemTrayIcon(${1:parent})" },
+		{ "trigger": "QSystemTrayIcon(icon, parent)", "contents": "QtGui.QSystemTrayIcon(${1:icon}, ${2:parent})" },
+		{ "trigger": "QSystemTrayIcon.isSystemTrayAvailable()", "contents": "QtGui.QSystemTrayIcon.isSystemTrayAvailable()" },
+		{ "trigger": "QSystemTrayIcon.supportsMessages()", "contents": "QtGui.QSystemTrayIcon.supportsMessages()" }
+	]
+}

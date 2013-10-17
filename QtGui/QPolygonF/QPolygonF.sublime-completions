@@ -1,0 +1,13 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QPolygonF", "contents": "QtGui.QPolygonF" },
+		{ "trigger": "QPolygonF()", "contents": "QtGui.QPolygonF()" },
+		{ "trigger": "QPolygonF(size)", "contents": "QtGui.QPolygonF(${1:size})" },
+		{ "trigger": "QPolygonF(polygon)", "contents": "QtGui.QPolygonF(${1:polygon})" },
+		{ "trigger": "QPolygonF(points)", "contents": "QtGui.QPolygonF(${1:points})" },
+		{ "trigger": "QPolygonF(rectangle)", "contents": "QtGui.QPolygonF(${1:rectangle})" }
+	]
+}

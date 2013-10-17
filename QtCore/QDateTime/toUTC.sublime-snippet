@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[toUTC()]]></content>
+    <tabTrigger>toUTC()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDateTime</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setRange(${1:minimum}, ${2:maximum}, ${3:decimals})]]></content>
+    <tabTrigger>setRange(minimum, maximum, decimals)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDoubleValidator</description>
+</snippet>

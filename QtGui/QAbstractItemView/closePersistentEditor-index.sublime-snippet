@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[closePersistentEditor(${1:index})]]></content>
+    <tabTrigger>closePersistentEditor(index)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractItemView</description>
+</snippet>

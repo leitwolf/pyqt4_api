@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[miterLimit()]]></content>
+    <tabTrigger>miterLimit()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPen</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[capitalization()]]></content>
+    <tabTrigger>capitalization()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFont</description>
+</snippet>

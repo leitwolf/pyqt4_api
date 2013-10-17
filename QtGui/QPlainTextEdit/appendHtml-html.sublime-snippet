@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[appendHtml(${1:html})]]></content>
+    <tabTrigger>appendHtml(html)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPlainTextEdit(Slot)</description>
+</snippet>

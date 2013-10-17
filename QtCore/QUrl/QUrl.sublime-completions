@@ -1,0 +1,29 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QUrl", "contents": "QtCore.QUrl" },
+		{ "trigger": "QUrl.None", "contents": "QtCore.QUrl.None" },
+		{ "trigger": "QUrl.RemoveScheme", "contents": "QtCore.QUrl.RemoveScheme" },
+		{ "trigger": "QUrl.RemovePassword", "contents": "QtCore.QUrl.RemovePassword" },
+		{ "trigger": "QUrl.RemoveUserInfo", "contents": "QtCore.QUrl.RemoveUserInfo" },
+		{ "trigger": "QUrl.StripTrailingSlash", "contents": "QtCore.QUrl.StripTrailingSlash" },
+		{ "trigger": "QUrl.TolerantMode", "contents": "QtCore.QUrl.TolerantMode" },
+		{ "trigger": "QUrl.StrictMode", "contents": "QtCore.QUrl.StrictMode" },
+		{ "trigger": "QUrl()", "contents": "QtCore.QUrl()" },
+		{ "trigger": "QUrl(url)", "contents": "QtCore.QUrl(${1:url})" },
+		{ "trigger": "QUrl(other)", "contents": "QtCore.QUrl(${1:other})" },
+		{ "trigger": "QUrl(url, parsingMode)", "contents": "QtCore.QUrl(${1:url}, ${2:parsingMode})" },
+		{ "trigger": "QUrl.fromAce(domain)", "contents": "QtCore.QUrl.fromAce(${1:domain})" },
+		{ "trigger": "QUrl.fromEncoded(input)", "contents": "QtCore.QUrl.fromEncoded(${1:input})" },
+		{ "trigger": "QUrl.fromEncoded(input, parsingMode)", "contents": "QtCore.QUrl.fromEncoded(${1:input}, ${2:parsingMode})" },
+		{ "trigger": "QUrl.fromLocalFile(localFile)", "contents": "QtCore.QUrl.fromLocalFile(${1:localFile})" },
+		{ "trigger": "QUrl.fromPercentEncoding(input)", "contents": "QtCore.QUrl.fromPercentEncoding(${1:input})" },
+		{ "trigger": "QUrl.fromUserInput(userInput)", "contents": "QtCore.QUrl.fromUserInput(${1:userInput})" },
+		{ "trigger": "QUrl.idnWhitelist()", "contents": "QtCore.QUrl.idnWhitelist()" },
+		{ "trigger": "QUrl.setIdnWhitelist(list)", "contents": "QtCore.QUrl.setIdnWhitelist(${1:list})" },
+		{ "trigger": "QUrl.toAce(domain)", "contents": "QtCore.QUrl.toAce(${1:domain})" },
+		{ "trigger": "QUrl.toPercentEncoding(input, exclude, include)", "contents": "QtCore.QUrl.toPercentEncoding(${1:input}, ${2:exclude}, ${3:include})" }
+	]
+}

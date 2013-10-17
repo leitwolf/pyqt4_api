@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[wrapping()]]></content>
+    <tabTrigger>wrapping()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDial</description>
+</snippet>

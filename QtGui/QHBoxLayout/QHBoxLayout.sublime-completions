@@ -1,0 +1,10 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QHBoxLayout", "contents": "QtGui.QHBoxLayout" },
+		{ "trigger": "QHBoxLayout()", "contents": "QtGui.QHBoxLayout()" },
+		{ "trigger": "QHBoxLayout(parent)", "contents": "QtGui.QHBoxLayout(${1:parent})" }
+	]
+}

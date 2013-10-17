@@ -1,0 +1,9 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QWidgetAction", "contents": "QtGui.QWidgetAction" },
+		{ "trigger": "QWidgetAction(parent)", "contents": "QtGui.QWidgetAction(${1:parent})" }
+	]
+}

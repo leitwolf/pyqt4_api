@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[prepend(${1:str})]]></content>
+    <tabTrigger>prepend(str)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QByteArray</description>
+</snippet>

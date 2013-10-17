@@ -1,0 +1,9 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QDragEnterEvent", "contents": "QtGui.QDragEnterEvent" },
+		{ "trigger": "QDragEnterEvent(point, actions, data, buttons, modifiers)", "contents": "QtGui.QDragEnterEvent(${1:point}, ${2:actions}, ${3:data}, ${4:buttons}, ${5:modifiers})" }
+	]
+}

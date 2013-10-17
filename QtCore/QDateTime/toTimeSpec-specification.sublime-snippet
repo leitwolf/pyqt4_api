@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[toTimeSpec(${1:specification})]]></content>
+    <tabTrigger>toTimeSpec(specification)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDateTime</description>
+</snippet>

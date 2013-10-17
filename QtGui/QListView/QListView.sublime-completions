@@ -1,0 +1,20 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QListView", "contents": "QtGui.QListView" },
+		{ "trigger": "QListView.LeftToRight", "contents": "QtGui.QListView.LeftToRight" },
+		{ "trigger": "QListView.TopToBottom", "contents": "QtGui.QListView.TopToBottom" },
+		{ "trigger": "QListView.SinglePass", "contents": "QtGui.QListView.SinglePass" },
+		{ "trigger": "QListView.Batched", "contents": "QtGui.QListView.Batched" },
+		{ "trigger": "QListView.Static", "contents": "QtGui.QListView.Static" },
+		{ "trigger": "QListView.Free", "contents": "QtGui.QListView.Free" },
+		{ "trigger": "QListView.Snap", "contents": "QtGui.QListView.Snap" },
+		{ "trigger": "QListView.Fixed", "contents": "QtGui.QListView.Fixed" },
+		{ "trigger": "QListView.Adjust", "contents": "QtGui.QListView.Adjust" },
+		{ "trigger": "QListView.ListMode", "contents": "QtGui.QListView.ListMode" },
+		{ "trigger": "QListView.IconMode", "contents": "QtGui.QListView.IconMode" },
+		{ "trigger": "QListView(parent)", "contents": "QtGui.QListView(${1:parent})" }
+	]
+}

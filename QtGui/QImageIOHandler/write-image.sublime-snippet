@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[write(${1:image})]]></content>
+    <tabTrigger>write(image)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QImageIOHandler</description>
+</snippet>

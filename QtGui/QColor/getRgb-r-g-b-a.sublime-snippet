@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[getRgb(${1:r}, ${2:g}, ${3:b}, ${4:a})]]></content>
+    <tabTrigger>getRgb(r, g, b, a)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QColor</description>
+</snippet>

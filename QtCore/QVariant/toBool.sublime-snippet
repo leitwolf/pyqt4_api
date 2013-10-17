@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[toBool()]]></content>
+    <tabTrigger>toBool()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QVariant</description>
+</snippet>

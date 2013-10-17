@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[restart()]]></content>
+    <tabTrigger>restart()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTime</description>
+</snippet>

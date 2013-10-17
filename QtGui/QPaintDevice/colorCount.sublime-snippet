@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[colorCount()]]></content>
+    <tabTrigger>colorCount()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPaintDevice</description>
+</snippet>

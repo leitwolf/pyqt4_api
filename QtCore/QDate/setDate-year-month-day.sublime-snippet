@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setDate(${1:year}, ${2:month}, ${3:day})]]></content>
+    <tabTrigger>setDate(year, month, day)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDate</description>
+</snippet>

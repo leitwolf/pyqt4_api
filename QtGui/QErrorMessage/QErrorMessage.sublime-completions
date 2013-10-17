@@ -1,0 +1,10 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QErrorMessage", "contents": "QtGui.QErrorMessage" },
+		{ "trigger": "QErrorMessage(parent)", "contents": "QtGui.QErrorMessage(${1:parent})" },
+		{ "trigger": "QErrorMessage.qtHandler()", "contents": "QtGui.QErrorMessage.qtHandler()" }
+	]
+}

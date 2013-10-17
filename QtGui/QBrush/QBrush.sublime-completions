@@ -1,0 +1,16 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QBrush", "contents": "QtGui.QBrush" },
+		{ "trigger": "QBrush()", "contents": "QtGui.QBrush()" },
+		{ "trigger": "QBrush(style)", "contents": "QtGui.QBrush(${1:style})" },
+		{ "trigger": "QBrush(color, style)", "contents": "QtGui.QBrush(${1:color}, ${2:style})" },
+		{ "trigger": "QBrush(color, pixmap)", "contents": "QtGui.QBrush(${1:color}, ${2:pixmap})" },
+		{ "trigger": "QBrush(pixmap)", "contents": "QtGui.QBrush(${1:pixmap})" },
+		{ "trigger": "QBrush(image)", "contents": "QtGui.QBrush(${1:image})" },
+		{ "trigger": "QBrush(other)", "contents": "QtGui.QBrush(${1:other})" },
+		{ "trigger": "QBrush(gradient)", "contents": "QtGui.QBrush(${1:gradient})" }
+	]
+}

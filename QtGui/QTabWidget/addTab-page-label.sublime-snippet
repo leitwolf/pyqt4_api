@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[addTab(${1:page}, ${2:label})]]></content>
+    <tabTrigger>addTab(page, label)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTabWidget</description>
+</snippet>

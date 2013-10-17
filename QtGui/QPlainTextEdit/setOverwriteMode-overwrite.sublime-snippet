@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setOverwriteMode(${1:overwrite})]]></content>
+    <tabTrigger>setOverwriteMode(overwrite)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPlainTextEdit</description>
+</snippet>

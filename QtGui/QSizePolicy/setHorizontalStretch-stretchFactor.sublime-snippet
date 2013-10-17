@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setHorizontalStretch(${1:stretchFactor})]]></content>
+    <tabTrigger>setHorizontalStretch(stretchFactor)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSizePolicy</description>
+</snippet>

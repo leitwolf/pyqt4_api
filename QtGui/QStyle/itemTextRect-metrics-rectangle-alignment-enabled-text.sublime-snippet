@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[itemTextRect(${1:metrics}, ${2:rectangle}, ${3:alignment}, ${4:enabled}, ${5:text})]]></content>
+    <tabTrigger>itemTextRect(metrics, rectangle, alignment, enabled, text)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStyle</description>
+</snippet>

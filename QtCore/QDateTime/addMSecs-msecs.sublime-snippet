@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[addMSecs(${1:msecs})]]></content>
+    <tabTrigger>addMSecs(msecs)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDateTime</description>
+</snippet>

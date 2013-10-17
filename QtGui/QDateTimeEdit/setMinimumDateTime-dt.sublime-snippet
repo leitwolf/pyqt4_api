@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setMinimumDateTime(${1:dt})]]></content>
+    <tabTrigger>setMinimumDateTime(dt)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDateTimeEdit</description>
+</snippet>

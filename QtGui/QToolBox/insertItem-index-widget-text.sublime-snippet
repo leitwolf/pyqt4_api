@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[insertItem(${1:index}, ${2:widget}, ${3:text})]]></content>
+    <tabTrigger>insertItem(index, widget, text)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QToolBox</description>
+</snippet>

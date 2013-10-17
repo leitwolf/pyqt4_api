@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[weight()]]></content>
+    <tabTrigger>weight()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QRawFont</description>
+</snippet>

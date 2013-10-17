@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[advancesForGlyphIndexes(${1:glyphIndexes})]]></content>
+    <tabTrigger>advancesForGlyphIndexes(glyphIndexes)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QRawFont</description>
+</snippet>

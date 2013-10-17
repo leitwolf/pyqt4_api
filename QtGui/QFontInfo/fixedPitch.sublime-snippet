@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[fixedPitch()]]></content>
+    <tabTrigger>fixedPitch()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFontInfo</description>
+</snippet>

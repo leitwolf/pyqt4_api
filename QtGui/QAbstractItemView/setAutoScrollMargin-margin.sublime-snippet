@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setAutoScrollMargin(${1:margin})]]></content>
+    <tabTrigger>setAutoScrollMargin(margin)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractItemView</description>
+</snippet>

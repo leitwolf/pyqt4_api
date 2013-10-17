@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[window()]]></content>
+    <tabTrigger>window()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[layoutSpacing(${1:control1}, ${2:control2}, ${3:orientation}, ${4:option}, ${5:widget})]]></content>
+    <tabTrigger>layoutSpacing(control1, control2, orientation, option, widget)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStyle</description>
+</snippet>

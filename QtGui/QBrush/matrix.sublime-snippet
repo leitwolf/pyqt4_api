@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[matrix()]]></content>
+    <tabTrigger>matrix()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QBrush</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setSizeAdjustPolicy(${1:policy})]]></content>
+    <tabTrigger>setSizeAdjustPolicy(policy)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QComboBox</description>
+</snippet>

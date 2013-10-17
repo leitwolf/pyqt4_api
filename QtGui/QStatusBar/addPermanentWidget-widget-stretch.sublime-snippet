@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[addPermanentWidget(${1:widget}, ${2:stretch})]]></content>
+    <tabTrigger>addPermanentWidget(widget, stretch)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStatusBar</description>
+</snippet>

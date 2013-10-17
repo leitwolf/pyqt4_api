@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setArrayIndex(${1:i})]]></content>
+    <tabTrigger>setArrayIndex(i)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSettings</description>
+</snippet>

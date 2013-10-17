@@ -1,0 +1,11 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QProgressBar", "contents": "QtGui.QProgressBar" },
+		{ "trigger": "QProgressBar.TopToBottom", "contents": "QtGui.QProgressBar.TopToBottom" },
+		{ "trigger": "QProgressBar.BottomToTop", "contents": "QtGui.QProgressBar.BottomToTop" },
+		{ "trigger": "QProgressBar(parent)", "contents": "QtGui.QProgressBar(${1:parent})" }
+	]
+}

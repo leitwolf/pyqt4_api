@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[tabShape()]]></content>
+    <tabTrigger>tabShape()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTabWidget</description>
+</snippet>

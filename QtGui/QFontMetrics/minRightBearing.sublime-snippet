@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[minRightBearing()]]></content>
+    <tabTrigger>minRightBearing()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFontMetrics</description>
+</snippet>

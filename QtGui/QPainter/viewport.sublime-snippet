@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[viewport()]]></content>
+    <tabTrigger>viewport()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

@@ -1,0 +1,11 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QPointF", "contents": "QtCore.QPointF" },
+		{ "trigger": "QPointF()", "contents": "QtCore.QPointF()" },
+		{ "trigger": "QPointF(point)", "contents": "QtCore.QPointF(${1:point})" },
+		{ "trigger": "QPointF(x, y)", "contents": "QtCore.QPointF(${1:x}, ${2:y})" }
+	]
+}

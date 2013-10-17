@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[drawText(${1:x}, ${2:y}, ${3:width}, ${4:height}, ${5:flags}, ${6:text}, ${7:boundingRect})]]></content>
+    <tabTrigger>drawText(x, y, width, height, flags, text, boundingRect)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

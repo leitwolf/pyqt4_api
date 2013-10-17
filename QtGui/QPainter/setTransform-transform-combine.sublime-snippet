@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setTransform(${1:transform}, ${2:combine})]]></content>
+    <tabTrigger>setTransform(transform, combine)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

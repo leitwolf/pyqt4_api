@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[paint(${1:painter}, ${2:x}, ${3:y}, ${4:w}, ${5:h}, ${6:alignment}, ${7:mode}, ${8:state})]]></content>
+    <tabTrigger>paint(painter, x, y, w, h, alignment, mode, state)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QIcon</description>
+</snippet>

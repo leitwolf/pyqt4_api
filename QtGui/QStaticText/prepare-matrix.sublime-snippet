@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[prepare(${1:matrix})]]></content>
+    <tabTrigger>prepare(matrix)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStaticText</description>
+</snippet>

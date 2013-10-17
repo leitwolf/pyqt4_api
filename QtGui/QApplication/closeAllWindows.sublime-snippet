@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[closeAllWindows()]]></content>
+    <tabTrigger>closeAllWindows()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QApplication(Slot)</description>
+</snippet>

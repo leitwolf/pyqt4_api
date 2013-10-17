@@ -1,0 +1,14 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QUuid", "contents": "QtCore.QUuid" },
+		{ "trigger": "QUuid()", "contents": "QtCore.QUuid()" },
+		{ "trigger": "QUuid(l, w1, w2, b1, b2, b3, b4, b5, b6, b7, b8)", "contents": "QtCore.QUuid(${1:l}, ${2:w1}, ${3:w2}, ${4:b1}, ${5:b2}, ${6:b3}, ${7:b4}, ${8:b5}, ${9:b6}, ${10:b7}, ${11:b8})" },
+		{ "trigger": "QUuid(text)", "contents": "QtCore.QUuid(${1:text})" },
+		{ "trigger": "QUuid(guid)", "contents": "QtCore.QUuid(${1:guid})" },
+		{ "trigger": "QUuid.createUuid()", "contents": "QtCore.QUuid.createUuid()" },
+		{ "trigger": "QUuid.fromRfc4122(bytes)", "contents": "QtCore.QUuid.fromRfc4122(${1:bytes})" }
+	]
+}

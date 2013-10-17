@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setEncodedUrl(${1:encodedUrl})]]></content>
+    <tabTrigger>setEncodedUrl(encodedUrl)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QUrl</description>
+</snippet>

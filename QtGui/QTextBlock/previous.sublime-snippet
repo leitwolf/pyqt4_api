@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[previous()]]></content>
+    <tabTrigger>previous()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextBlock</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[beginWriteArray(${1:prefix}, ${2:size})]]></content>
+    <tabTrigger>beginWriteArray(prefix, size)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSettings</description>
+</snippet>

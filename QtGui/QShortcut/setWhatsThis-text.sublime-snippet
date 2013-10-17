@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setWhatsThis(${1:text})]]></content>
+    <tabTrigger>setWhatsThis(text)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QShortcut</description>
+</snippet>

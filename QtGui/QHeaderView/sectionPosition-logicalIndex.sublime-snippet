@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[sectionPosition(${1:logicalIndex})]]></content>
+    <tabTrigger>sectionPosition(logicalIndex)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QHeaderView</description>
+</snippet>

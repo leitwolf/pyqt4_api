@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setColorCount(${1:colorCount})]]></content>
+    <tabTrigger>setColorCount(colorCount)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QImage</description>
+</snippet>

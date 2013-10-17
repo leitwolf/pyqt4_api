@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setCompositionMode(${1:mode})]]></content>
+    <tabTrigger>setCompositionMode(mode)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

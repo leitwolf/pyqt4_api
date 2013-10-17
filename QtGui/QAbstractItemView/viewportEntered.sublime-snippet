@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[viewportEntered()]]></content>
+    <tabTrigger>viewportEntered()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractItemView(Signal)</description>
+</snippet>

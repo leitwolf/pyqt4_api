@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[writingSystem()]]></content>
+    <tabTrigger>writingSystem()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFontComboBox</description>
+</snippet>

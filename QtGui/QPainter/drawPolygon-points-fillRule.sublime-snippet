@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[drawPolygon(${1:points}, ${2:fillRule})]]></content>
+    <tabTrigger>drawPolygon(points, fillRule)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

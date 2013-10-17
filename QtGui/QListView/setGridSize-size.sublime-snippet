@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setGridSize(${1:size})]]></content>
+    <tabTrigger>setGridSize(size)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QListView</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[tip()]]></content>
+    <tabTrigger>tip()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStatusTipEvent</description>
+</snippet>

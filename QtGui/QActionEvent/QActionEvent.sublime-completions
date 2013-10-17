@@ -1,0 +1,9 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QActionEvent", "contents": "QtGui.QActionEvent" },
+		{ "trigger": "QActionEvent(type, action, before)", "contents": "QtGui.QActionEvent(${1:type}, ${2:action}, ${3:before})" }
+	]
+}

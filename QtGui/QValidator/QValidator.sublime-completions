@@ -1,0 +1,12 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QValidator", "contents": "QtGui.QValidator" },
+		{ "trigger": "QValidator.Invalid", "contents": "QtGui.QValidator.Invalid" },
+		{ "trigger": "QValidator.Intermediate", "contents": "QtGui.QValidator.Intermediate" },
+		{ "trigger": "QValidator.Acceptable", "contents": "QtGui.QValidator.Acceptable" },
+		{ "trigger": "QValidator(parent)", "contents": "QtGui.QValidator(${1:parent})" }
+	]
+}

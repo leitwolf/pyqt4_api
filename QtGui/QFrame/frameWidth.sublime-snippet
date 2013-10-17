@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[frameWidth()]]></content>
+    <tabTrigger>frameWidth()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFrame</description>
+</snippet>

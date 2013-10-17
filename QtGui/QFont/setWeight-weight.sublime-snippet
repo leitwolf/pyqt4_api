@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setWeight(${1:weight})]]></content>
+    <tabTrigger>setWeight(weight)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFont</description>
+</snippet>

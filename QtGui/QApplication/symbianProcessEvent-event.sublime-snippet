@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[symbianProcessEvent(${1:event})]]></content>
+    <tabTrigger>symbianProcessEvent(event)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QApplication</description>
+</snippet>

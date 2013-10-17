@@ -1,0 +1,19 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QByteArray", "contents": "QtCore.QByteArray" },
+		{ "trigger": "QByteArray()", "contents": "QtCore.QByteArray()" },
+		{ "trigger": "QByteArray(str)", "contents": "QtCore.QByteArray(${1:str})" },
+		{ "trigger": "QByteArray(data, size)", "contents": "QtCore.QByteArray(${1:data}, ${2:size})" },
+		{ "trigger": "QByteArray(size, ch)", "contents": "QtCore.QByteArray(${1:size}, ${2:ch})" },
+		{ "trigger": "QByteArray(other)", "contents": "QtCore.QByteArray(${1:other})" },
+		{ "trigger": "QByteArray.fromBase64(base64)", "contents": "QtCore.QByteArray.fromBase64(${1:base64})" },
+		{ "trigger": "QByteArray.fromHex(hexEncoded)", "contents": "QtCore.QByteArray.fromHex(${1:hexEncoded})" },
+		{ "trigger": "QByteArray.fromPercentEncoding(input, percent)", "contents": "QtCore.QByteArray.fromPercentEncoding(${1:input}, ${2:percent})" },
+		{ "trigger": "QByteArray.fromRawData(data, size)", "contents": "QtCore.QByteArray.fromRawData(${1:data}, ${2:size})" },
+		{ "trigger": "QByteArray.number(n, base)", "contents": "QtCore.QByteArray.number(${1:n}, ${2:base})" },
+		{ "trigger": "QByteArray.number(n, f, prec)", "contents": "QtCore.QByteArray.number(${1:n}, ${2:f}, ${3:prec})" }
+	]
+}

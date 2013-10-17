@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[expandToDepth(${1:depth})]]></content>
+    <tabTrigger>expandToDepth(depth)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTreeView(Slot)</description>
+</snippet>

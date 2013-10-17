@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[selectFile(${1:filename})]]></content>
+    <tabTrigger>selectFile(filename)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFileDialog</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[startTimer(${1:interval})]]></content>
+    <tabTrigger>startTimer(interval)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QObject</description>
+</snippet>

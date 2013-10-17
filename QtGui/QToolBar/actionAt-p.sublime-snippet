@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[actionAt(${1:p})]]></content>
+    <tabTrigger>actionAt(p)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QToolBar</description>
+</snippet>

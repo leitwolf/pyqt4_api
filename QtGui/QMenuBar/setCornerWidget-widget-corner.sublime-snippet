@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setCornerWidget(${1:widget}, ${2:corner})]]></content>
+    <tabTrigger>setCornerWidget(widget, corner)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMenuBar</description>
+</snippet>

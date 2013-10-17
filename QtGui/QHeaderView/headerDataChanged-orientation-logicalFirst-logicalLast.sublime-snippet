@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[headerDataChanged(${1:orientation}, ${2:logicalFirst}, ${3:logicalLast})]]></content>
+    <tabTrigger>headerDataChanged(orientation, logicalFirst, logicalLast)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QHeaderView(Slot)</description>
+</snippet>

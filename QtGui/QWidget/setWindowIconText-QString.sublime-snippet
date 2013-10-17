@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setWindowIconText(${1:QString})]]></content>
+    <tabTrigger>setWindowIconText(QString)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QWidget</description>
+</snippet>

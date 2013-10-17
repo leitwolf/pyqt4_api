@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[push_front(${1:other})]]></content>
+    <tabTrigger>push_front(other)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QString</description>
+</snippet>

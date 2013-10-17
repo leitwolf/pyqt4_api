@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[toTime_t()]]></content>
+    <tabTrigger>toTime_t()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDateTime</description>
+</snippet>

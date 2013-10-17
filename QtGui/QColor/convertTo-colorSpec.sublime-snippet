@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[convertTo(${1:colorSpec})]]></content>
+    <tabTrigger>convertTo(colorSpec)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QColor</description>
+</snippet>

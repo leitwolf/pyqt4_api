@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[moveToThread(${1:targetThread})]]></content>
+    <tabTrigger>moveToThread(targetThread)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QObject</description>
+</snippet>

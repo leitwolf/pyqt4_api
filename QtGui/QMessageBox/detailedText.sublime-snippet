@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[detailedText()]]></content>
+    <tabTrigger>detailedText()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMessageBox</description>
+</snippet>

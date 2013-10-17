@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[toPointF()]]></content>
+    <tabTrigger>toPointF()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QVector3D</description>
+</snippet>

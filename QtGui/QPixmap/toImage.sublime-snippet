@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[toImage()]]></content>
+    <tabTrigger>toImage()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPixmap</description>
+</snippet>

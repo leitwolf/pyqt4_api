@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setUnicode(${1:unicode}, ${2:size})]]></content>
+    <tabTrigger>setUnicode(unicode, size)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QString</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[nativeVirtualKey()]]></content>
+    <tabTrigger>nativeVirtualKey()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QKeyEvent</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[showMessage(${1:message})]]></content>
+    <tabTrigger>showMessage(message)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QErrorMessage(Slot)</description>
+</snippet>

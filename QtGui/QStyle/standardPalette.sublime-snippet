@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[standardPalette()]]></content>
+    <tabTrigger>standardPalette()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStyle</description>
+</snippet>

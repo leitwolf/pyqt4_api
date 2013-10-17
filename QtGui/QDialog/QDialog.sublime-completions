@@ -1,0 +1,11 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QDialog", "contents": "QtGui.QDialog" },
+		{ "trigger": "QDialog.Accepted", "contents": "QtGui.QDialog.Accepted" },
+		{ "trigger": "QDialog.Rejected", "contents": "QtGui.QDialog.Rejected" },
+		{ "trigger": "QDialog(parent, f)", "contents": "QtGui.QDialog(${1:parent}, ${2:f})" }
+	]
+}

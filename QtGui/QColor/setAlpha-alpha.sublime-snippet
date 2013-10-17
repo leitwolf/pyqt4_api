@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setAlpha(${1:alpha})]]></content>
+    <tabTrigger>setAlpha(alpha)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QColor</description>
+</snippet>

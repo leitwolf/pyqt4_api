@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[stateChanged(${1:state})]]></content>
+    <tabTrigger>stateChanged(state)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QCheckBox(Signal)</description>
+</snippet>

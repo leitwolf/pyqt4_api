@@ -1,0 +1,17 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QToolTip", "contents": "QtGui.QToolTip" },
+		{ "trigger": "QToolTip.font()", "contents": "QtGui.QToolTip.font()" },
+		{ "trigger": "QToolTip.hideText()", "contents": "QtGui.QToolTip.hideText()" },
+		{ "trigger": "QToolTip.isVisible()", "contents": "QtGui.QToolTip.isVisible()" },
+		{ "trigger": "QToolTip.palette()", "contents": "QtGui.QToolTip.palette()" },
+		{ "trigger": "QToolTip.setFont(font)", "contents": "QtGui.QToolTip.setFont(${1:font})" },
+		{ "trigger": "QToolTip.setPalette(palette)", "contents": "QtGui.QToolTip.setPalette(${1:palette})" },
+		{ "trigger": "QToolTip.showText(pos, text, w, rect)", "contents": "QtGui.QToolTip.showText(${1:pos}, ${2:text}, ${3:w}, ${4:rect})" },
+		{ "trigger": "QToolTip.showText(pos, text, w)", "contents": "QtGui.QToolTip.showText(${1:pos}, ${2:text}, ${3:w})" },
+		{ "trigger": "QToolTip.text()", "contents": "QtGui.QToolTip.text()" }
+	]
+}

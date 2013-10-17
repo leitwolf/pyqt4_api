@@ -1,0 +1,11 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QUndoView", "contents": "QtGui.QUndoView" },
+		{ "trigger": "QUndoView(parent)", "contents": "QtGui.QUndoView(${1:parent})" },
+		{ "trigger": "QUndoView(stack, parent)", "contents": "QtGui.QUndoView(${1:stack}, ${2:parent})" },
+		{ "trigger": "QUndoView(group, parent)", "contents": "QtGui.QUndoView(${1:group}, ${2:parent})" }
+	]
+}

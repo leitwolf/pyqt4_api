@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[polish(${1:palette})]]></content>
+    <tabTrigger>polish(palette)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStyle</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[insertPolicy()]]></content>
+    <tabTrigger>insertPolicy()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QComboBox</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setFilter(${1:filters})]]></content>
+    <tabTrigger>setFilter(filters)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFileDialog</description>
+</snippet>

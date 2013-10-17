@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[addToolBarBreak(${1:area})]]></content>
+    <tabTrigger>addToolBarBreak(area)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMainWindow</description>
+</snippet>

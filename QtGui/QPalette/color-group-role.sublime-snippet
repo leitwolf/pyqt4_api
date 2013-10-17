@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[color(${1:group}, ${2:role})]]></content>
+    <tabTrigger>color(group, role)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPalette</description>
+</snippet>

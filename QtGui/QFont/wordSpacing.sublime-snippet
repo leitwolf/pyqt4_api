@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[wordSpacing()]]></content>
+    <tabTrigger>wordSpacing()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFont</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[addButton(${1:text}, ${2:role})]]></content>
+    <tabTrigger>addButton(text, role)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDialogButtonBox</description>
+</snippet>

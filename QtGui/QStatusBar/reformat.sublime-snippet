@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[reformat()]]></content>
+    <tabTrigger>reformat()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStatusBar</description>
+</snippet>

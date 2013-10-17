@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[backgroundVisible()]]></content>
+    <tabTrigger>backgroundVisible()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPlainTextEdit</description>
+</snippet>

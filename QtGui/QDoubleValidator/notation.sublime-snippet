@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[notation()]]></content>
+    <tabTrigger>notation()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDoubleValidator</description>
+</snippet>

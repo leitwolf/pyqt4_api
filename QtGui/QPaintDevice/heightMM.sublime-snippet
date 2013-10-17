@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[heightMM()]]></content>
+    <tabTrigger>heightMM()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPaintDevice</description>
+</snippet>

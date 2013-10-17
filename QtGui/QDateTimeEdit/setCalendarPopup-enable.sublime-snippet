@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setCalendarPopup(${1:enable})]]></content>
+    <tabTrigger>setCalendarPopup(enable)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDateTimeEdit</description>
+</snippet>

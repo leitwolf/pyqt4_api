@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[symbianEventFilter(${1:event})]]></content>
+    <tabTrigger>symbianEventFilter(event)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QApplication</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setSizes(${1:list})]]></content>
+    <tabTrigger>setSizes(list)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSplitter</description>
+</snippet>

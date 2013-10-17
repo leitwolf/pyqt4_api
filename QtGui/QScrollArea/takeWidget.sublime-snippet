@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[takeWidget()]]></content>
+    <tabTrigger>takeWidget()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QScrollArea</description>
+</snippet>

@@ -1,0 +1,10 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QShortcut", "contents": "QtGui.QShortcut" },
+		{ "trigger": "QShortcut(parent)", "contents": "QtGui.QShortcut(${1:parent})" },
+		{ "trigger": "QShortcut(key, parent, member, ambiguousMember, context)", "contents": "QtGui.QShortcut(${1:key}, ${2:parent}, ${3:member}, ${4:ambiguousMember}, ${5:context})" }
+	]
+}

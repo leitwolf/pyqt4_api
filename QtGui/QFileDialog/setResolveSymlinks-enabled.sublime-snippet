@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setResolveSymlinks(${1:enabled})]]></content>
+    <tabTrigger>setResolveSymlinks(enabled)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFileDialog</description>
+</snippet>

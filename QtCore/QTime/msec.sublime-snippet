@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[msec()]]></content>
+    <tabTrigger>msec()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTime</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[isReadable()]]></content>
+    <tabTrigger>isReadable()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDir</description>
+</snippet>

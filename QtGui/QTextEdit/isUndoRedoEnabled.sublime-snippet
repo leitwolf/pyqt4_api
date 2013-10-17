@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[isUndoRedoEnabled()]]></content>
+    <tabTrigger>isUndoRedoEnabled()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextEdit</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[beginGroup(${1:prefix})]]></content>
+    <tabTrigger>beginGroup(prefix)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSettings</description>
+</snippet>

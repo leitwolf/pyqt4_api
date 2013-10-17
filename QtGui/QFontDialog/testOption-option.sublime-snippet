@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[testOption(${1:option})]]></content>
+    <tabTrigger>testOption(option)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFontDialog</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[cleanChanged(${1:clean})]]></content>
+    <tabTrigger>cleanChanged(clean)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QUndoGroup(Signal)</description>
+</snippet>

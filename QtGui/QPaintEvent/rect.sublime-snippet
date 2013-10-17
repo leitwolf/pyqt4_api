@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[rect()]]></content>
+    <tabTrigger>rect()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPaintEvent</description>
+</snippet>

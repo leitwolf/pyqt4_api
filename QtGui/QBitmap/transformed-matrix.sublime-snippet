@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[transformed(${1:matrix})]]></content>
+    <tabTrigger>transformed(matrix)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QBitmap</description>
+</snippet>

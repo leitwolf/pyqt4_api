@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setRenderHints(${1:hints}, ${2:on})]]></content>
+    <tabTrigger>setRenderHints(hints, on)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

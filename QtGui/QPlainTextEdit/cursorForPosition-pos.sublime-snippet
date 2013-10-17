@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[cursorForPosition(${1:pos})]]></content>
+    <tabTrigger>cursorForPosition(pos)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPlainTextEdit</description>
+</snippet>

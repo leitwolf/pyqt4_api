@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[topLevelItemCount()]]></content>
+    <tabTrigger>topLevelItemCount()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTreeWidget</description>
+</snippet>

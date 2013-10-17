@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[showToday()]]></content>
+    <tabTrigger>showToday()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QCalendarWidget(Slot)</description>
+</snippet>

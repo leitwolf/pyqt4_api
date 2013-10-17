@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setTextCursor(${1:cursor})]]></content>
+    <tabTrigger>setTextCursor(cursor)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPlainTextEdit</description>
+</snippet>

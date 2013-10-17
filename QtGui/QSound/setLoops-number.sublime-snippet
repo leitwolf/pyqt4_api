@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setLoops(${1:number})]]></content>
+    <tabTrigger>setLoops(number)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSound</description>
+</snippet>

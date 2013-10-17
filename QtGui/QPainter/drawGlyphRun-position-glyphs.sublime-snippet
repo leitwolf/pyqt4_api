@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[drawGlyphRun(${1:position}, ${2:glyphs})]]></content>
+    <tabTrigger>drawGlyphRun(position, glyphs)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

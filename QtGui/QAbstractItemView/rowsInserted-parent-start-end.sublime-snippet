@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[rowsInserted(${1:parent}, ${2:start}, ${3:end})]]></content>
+    <tabTrigger>rowsInserted(parent, start, end)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractItemView(Slot)</description>
+</snippet>

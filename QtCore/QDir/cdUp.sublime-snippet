@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[cdUp()]]></content>
+    <tabTrigger>cdUp()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDir</description>
+</snippet>

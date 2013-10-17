@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[pressed(${1:index})]]></content>
+    <tabTrigger>pressed(index)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractItemView(Signal)</description>
+</snippet>

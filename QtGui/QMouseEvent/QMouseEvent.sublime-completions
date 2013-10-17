@@ -1,0 +1,10 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QMouseEvent", "contents": "QtGui.QMouseEvent" },
+		{ "trigger": "QMouseEvent(type, position, button, buttons, modifiers)", "contents": "QtGui.QMouseEvent(${1:type}, ${2:position}, ${3:button}, ${4:buttons}, ${5:modifiers})" },
+		{ "trigger": "QMouseEvent(type, pos, globalPos, button, buttons, modifiers)", "contents": "QtGui.QMouseEvent(${1:type}, ${2:pos}, ${3:globalPos}, ${4:button}, ${5:buttons}, ${6:modifiers})" }
+	]
+}

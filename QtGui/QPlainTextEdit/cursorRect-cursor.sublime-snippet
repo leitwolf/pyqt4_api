@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[cursorRect(${1:cursor})]]></content>
+    <tabTrigger>cursorRect(cursor)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPlainTextEdit</description>
+</snippet>

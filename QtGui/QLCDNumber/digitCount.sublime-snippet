@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[digitCount()]]></content>
+    <tabTrigger>digitCount()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLCDNumber</description>
+</snippet>

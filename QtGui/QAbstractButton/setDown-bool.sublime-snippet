@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setDown(${1:bool})]]></content>
+    <tabTrigger>setDown(bool)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractButton</description>
+</snippet>

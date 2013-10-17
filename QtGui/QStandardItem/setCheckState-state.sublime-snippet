@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setCheckState(${1:state})]]></content>
+    <tabTrigger>setCheckState(state)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStandardItem</description>
+</snippet>

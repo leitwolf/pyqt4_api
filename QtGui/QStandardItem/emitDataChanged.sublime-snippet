@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[emitDataChanged()]]></content>
+    <tabTrigger>emitDataChanged()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStandardItem</description>
+</snippet>

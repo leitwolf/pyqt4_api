@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[tabPosition(${1:area})]]></content>
+    <tabTrigger>tabPosition(area)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMainWindow</description>
+</snippet>

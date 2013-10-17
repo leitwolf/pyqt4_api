@@ -1,0 +1,19 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QFrame", "contents": "QtGui.QFrame" },
+		{ "trigger": "QFrame.Plain", "contents": "QtGui.QFrame.Plain" },
+		{ "trigger": "QFrame.Raised", "contents": "QtGui.QFrame.Raised" },
+		{ "trigger": "QFrame.Sunken", "contents": "QtGui.QFrame.Sunken" },
+		{ "trigger": "QFrame.NoFrame", "contents": "QtGui.QFrame.NoFrame" },
+		{ "trigger": "QFrame.Box", "contents": "QtGui.QFrame.Box" },
+		{ "trigger": "QFrame.Panel", "contents": "QtGui.QFrame.Panel" },
+		{ "trigger": "QFrame.StyledPanel", "contents": "QtGui.QFrame.StyledPanel" },
+		{ "trigger": "QFrame.WinPanel", "contents": "QtGui.QFrame.WinPanel" },
+		{ "trigger": "QFrame.Shadow_Mask", "contents": "QtGui.QFrame.Shadow_Mask" },
+		{ "trigger": "QFrame.Shape_Mask", "contents": "QtGui.QFrame.Shape_Mask" },
+		{ "trigger": "QFrame(parent, f)", "contents": "QtGui.QFrame(${1:parent}, ${2:f})" }
+	]
+}

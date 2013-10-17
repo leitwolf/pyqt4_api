@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[right(${1:n})]]></content>
+    <tabTrigger>right(n)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QString</description>
+</snippet>

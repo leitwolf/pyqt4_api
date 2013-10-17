@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[scrollDirtyRegion(${1:dx}, ${2:dy})]]></content>
+    <tabTrigger>scrollDirtyRegion(dx, dy)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractItemView</description>
+</snippet>

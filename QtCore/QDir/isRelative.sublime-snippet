@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[isRelative()]]></content>
+    <tabTrigger>isRelative()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDir</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[itemSelectionChanged()]]></content>
+    <tabTrigger>itemSelectionChanged()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTableWidget(Signal)</description>
+</snippet>

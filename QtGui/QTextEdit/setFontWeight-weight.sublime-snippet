@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setFontWeight(${1:weight})]]></content>
+    <tabTrigger>setFontWeight(weight)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextEdit(Slot)</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[redoText()]]></content>
+    <tabTrigger>redoText()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QUndoStack</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[currentItemChanged(${1:current}, ${2:previous})]]></content>
+    <tabTrigger>currentItemChanged(current, previous)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTreeWidget(Signal)</description>
+</snippet>

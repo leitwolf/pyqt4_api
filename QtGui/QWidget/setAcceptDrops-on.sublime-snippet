@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setAcceptDrops(${1:on})]]></content>
+    <tabTrigger>setAcceptDrops(on)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QWidget</description>
+</snippet>

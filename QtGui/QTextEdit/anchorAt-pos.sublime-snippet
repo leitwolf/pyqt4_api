@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[anchorAt(${1:pos})]]></content>
+    <tabTrigger>anchorAt(pos)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextEdit</description>
+</snippet>

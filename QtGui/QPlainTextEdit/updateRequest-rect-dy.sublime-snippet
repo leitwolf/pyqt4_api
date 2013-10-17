@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[updateRequest(${1:rect}, ${2:dy})]]></content>
+    <tabTrigger>updateRequest(rect, dy)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPlainTextEdit(Signal)</description>
+</snippet>

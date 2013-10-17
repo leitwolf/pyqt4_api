@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[gamma()]]></content>
+    <tabTrigger>gamma()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QImageWriter</description>
+</snippet>

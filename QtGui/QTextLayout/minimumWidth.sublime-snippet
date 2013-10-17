@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[minimumWidth()]]></content>
+    <tabTrigger>minimumWidth()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextLayout</description>
+</snippet>

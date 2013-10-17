@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[before()]]></content>
+    <tabTrigger>before()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QActionEvent</description>
+</snippet>

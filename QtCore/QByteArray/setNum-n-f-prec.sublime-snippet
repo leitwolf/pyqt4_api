@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setNum(${1:n}, ${2:f}, ${3:prec})]]></content>
+    <tabTrigger>setNum(n, f, prec)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QByteArray</description>
+</snippet>

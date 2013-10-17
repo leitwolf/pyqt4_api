@@ -1,0 +1,10 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QSize", "contents": "QtCore.QSize" },
+		{ "trigger": "QSize()", "contents": "QtCore.QSize()" },
+		{ "trigger": "QSize(width, height)", "contents": "QtCore.QSize(${1:width}, ${2:height})" }
+	]
+}

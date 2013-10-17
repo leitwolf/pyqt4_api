@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[prepend(${1:value})]]></content>
+    <tabTrigger>prepend(value)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QList</description>
+</snippet>

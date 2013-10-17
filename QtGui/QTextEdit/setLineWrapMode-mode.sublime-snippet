@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setLineWrapMode(${1:mode})]]></content>
+    <tabTrigger>setLineWrapMode(mode)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextEdit</description>
+</snippet>

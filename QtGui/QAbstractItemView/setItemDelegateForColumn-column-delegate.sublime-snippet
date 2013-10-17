@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setItemDelegateForColumn(${1:column}, ${2:delegate})]]></content>
+    <tabTrigger>setItemDelegateForColumn(column, delegate)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractItemView</description>
+</snippet>

@@ -1,0 +1,42 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QDir", "contents": "QtCore.QDir" },
+		{ "trigger": "QDir.Dirs", "contents": "QtCore.QDir.Dirs" },
+		{ "trigger": "QDir.AllDirs", "contents": "QtCore.QDir.AllDirs" },
+		{ "trigger": "QDir.Files", "contents": "QtCore.QDir.Files" },
+		{ "trigger": "QDir.Drives", "contents": "QtCore.QDir.Drives" },
+		{ "trigger": "QDir.CaseSensitive", "contents": "QtCore.QDir.CaseSensitive" },
+		{ "trigger": "QDir.Name", "contents": "QtCore.QDir.Name" },
+		{ "trigger": "QDir.Time", "contents": "QtCore.QDir.Time" },
+		{ "trigger": "QDir.Size", "contents": "QtCore.QDir.Size" },
+		{ "trigger": "QDir.Type", "contents": "QtCore.QDir.Type" },
+		{ "trigger": "QDir.LocaleAware", "contents": "QtCore.QDir.LocaleAware" },
+		{ "trigger": "QDir(dir)", "contents": "QtCore.QDir(${1:dir})" },
+		{ "trigger": "QDir(path)", "contents": "QtCore.QDir(${1:path})" },
+		{ "trigger": "QDir(path, nameFilter, sort, filters)", "contents": "QtCore.QDir(${1:path}, ${2:nameFilter}, ${3:sort}, ${4:filters})" },
+		{ "trigger": "QDir.addSearchPath(prefix, path)", "contents": "QtCore.QDir.addSearchPath(${1:prefix}, ${2:path})" },
+		{ "trigger": "QDir.cleanPath(path)", "contents": "QtCore.QDir.cleanPath(${1:path})" },
+		{ "trigger": "QDir.current()", "contents": "QtCore.QDir.current()" },
+		{ "trigger": "QDir.currentPath()", "contents": "QtCore.QDir.currentPath()" },
+		{ "trigger": "QDir.drives()", "contents": "QtCore.QDir.drives()" },
+		{ "trigger": "QDir.fromNativeSeparators(pathName)", "contents": "QtCore.QDir.fromNativeSeparators(${1:pathName})" },
+		{ "trigger": "QDir.home()", "contents": "QtCore.QDir.home()" },
+		{ "trigger": "QDir.homePath()", "contents": "QtCore.QDir.homePath()" },
+		{ "trigger": "QDir.isAbsolutePath(path)", "contents": "QtCore.QDir.isAbsolutePath(${1:path})" },
+		{ "trigger": "QDir.isRelativePath(path)", "contents": "QtCore.QDir.isRelativePath(${1:path})" },
+		{ "trigger": "QDir.match(filter, fileName)", "contents": "QtCore.QDir.match(${1:filter}, ${2:fileName})" },
+		{ "trigger": "QDir.match(filters, fileName)", "contents": "QtCore.QDir.match(${1:filters}, ${2:fileName})" },
+		{ "trigger": "QDir.root()", "contents": "QtCore.QDir.root()" },
+		{ "trigger": "QDir.rootPath()", "contents": "QtCore.QDir.rootPath()" },
+		{ "trigger": "QDir.searchPaths(prefix)", "contents": "QtCore.QDir.searchPaths(${1:prefix})" },
+		{ "trigger": "QDir.separator()", "contents": "QtCore.QDir.separator()" },
+		{ "trigger": "QDir.setCurrent(path)", "contents": "QtCore.QDir.setCurrent(${1:path})" },
+		{ "trigger": "QDir.setSearchPaths(prefix, searchPaths)", "contents": "QtCore.QDir.setSearchPaths(${1:prefix}, ${2:searchPaths})" },
+		{ "trigger": "QDir.temp()", "contents": "QtCore.QDir.temp()" },
+		{ "trigger": "QDir.tempPath()", "contents": "QtCore.QDir.tempPath()" },
+		{ "trigger": "QDir.toNativeSeparators(pathName)", "contents": "QtCore.QDir.toNativeSeparators(${1:pathName})" }
+	]
+}

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[pos()]]></content>
+    <tabTrigger>pos()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QHoverEvent</description>
+</snippet>

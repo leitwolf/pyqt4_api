@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setUserName(${1:userName})]]></content>
+    <tabTrigger>setUserName(userName)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QUrl</description>
+</snippet>

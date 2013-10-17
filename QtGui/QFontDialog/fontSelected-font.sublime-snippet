@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[fontSelected(${1:font})]]></content>
+    <tabTrigger>fontSelected(font)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFontDialog(Signal)</description>
+</snippet>

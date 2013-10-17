@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[m11()]]></content>
+    <tabTrigger>m11()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTransform</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setFontFilters(${1:filters})]]></content>
+    <tabTrigger>setFontFilters(filters)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFontComboBox</description>
+</snippet>

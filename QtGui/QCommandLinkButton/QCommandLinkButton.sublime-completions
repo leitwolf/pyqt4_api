@@ -1,0 +1,11 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QCommandLinkButton", "contents": "QtGui.QCommandLinkButton" },
+		{ "trigger": "QCommandLinkButton(parent)", "contents": "QtGui.QCommandLinkButton(${1:parent})" },
+		{ "trigger": "QCommandLinkButton(text, parent)", "contents": "QtGui.QCommandLinkButton(${1:text}, ${2:parent})" },
+		{ "trigger": "QCommandLinkButton(text, description, parent)", "contents": "QtGui.QCommandLinkButton(${1:text}, ${2:description}, ${3:parent})" }
+	]
+}

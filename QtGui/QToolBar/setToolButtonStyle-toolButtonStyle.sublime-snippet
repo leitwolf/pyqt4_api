@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setToolButtonStyle(${1:toolButtonStyle})]]></content>
+    <tabTrigger>setToolButtonStyle(toolButtonStyle)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QToolBar(Slot)</description>
+</snippet>

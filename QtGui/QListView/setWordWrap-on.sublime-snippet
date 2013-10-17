@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setWordWrap(${1:on})]]></content>
+    <tabTrigger>setWordWrap(on)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QListView</description>
+</snippet>

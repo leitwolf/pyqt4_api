@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[unitsPerEm()]]></content>
+    <tabTrigger>unitsPerEm()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QRawFont</description>
+</snippet>

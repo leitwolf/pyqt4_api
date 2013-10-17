@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setCurrentIndex(${1:index})]]></content>
+    <tabTrigger>setCurrentIndex(index)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTabWidget(Slot)</description>
+</snippet>

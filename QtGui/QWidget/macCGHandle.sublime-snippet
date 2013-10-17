@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[macCGHandle()]]></content>
+    <tabTrigger>macCGHandle()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QWidget</description>
+</snippet>

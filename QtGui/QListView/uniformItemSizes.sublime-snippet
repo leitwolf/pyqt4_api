@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[uniformItemSizes()]]></content>
+    <tabTrigger>uniformItemSizes()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QListView</description>
+</snippet>

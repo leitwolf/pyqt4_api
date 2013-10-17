@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[selectedIndexes()]]></content>
+    <tabTrigger>selectedIndexes()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractItemView</description>
+</snippet>

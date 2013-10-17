@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[isTristate()]]></content>
+    <tabTrigger>isTristate()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStandardItem</description>
+</snippet>

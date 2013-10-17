@@ -1,0 +1,9 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QHelpEvent", "contents": "QtGui.QHelpEvent" },
+		{ "trigger": "QHelpEvent(type, pos, globalPos)", "contents": "QtGui.QHelpEvent(${1:type}, ${2:pos}, ${3:globalPos})" }
+	]
+}

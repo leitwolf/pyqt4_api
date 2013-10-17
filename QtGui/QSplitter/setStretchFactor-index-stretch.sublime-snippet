@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setStretchFactor(${1:index}, ${2:stretch})]]></content>
+    <tabTrigger>setStretchFactor(index, stretch)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSplitter</description>
+</snippet>

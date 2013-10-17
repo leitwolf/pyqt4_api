@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[hintingPreference()]]></content>
+    <tabTrigger>hintingPreference()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QRawFont</description>
+</snippet>

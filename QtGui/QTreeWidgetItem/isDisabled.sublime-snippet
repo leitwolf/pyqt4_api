@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[isDisabled()]]></content>
+    <tabTrigger>isDisabled()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTreeWidgetItem</description>
+</snippet>

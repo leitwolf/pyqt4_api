@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setSeparator(${1:b})]]></content>
+    <tabTrigger>setSeparator(b)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAction</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[loadFromData(${1:fontData}, ${2:pixelSize}, ${3:hintingPreference})]]></content>
+    <tabTrigger>loadFromData(fontData, pixelSize, hintingPreference)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QRawFont</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setTabIcon(${1:index}, ${2:icon})]]></content>
+    <tabTrigger>setTabIcon(index, icon)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTabWidget</description>
+</snippet>

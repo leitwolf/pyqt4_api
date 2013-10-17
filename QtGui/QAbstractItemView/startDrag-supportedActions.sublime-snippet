@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[startDrag(${1:supportedActions})]]></content>
+    <tabTrigger>startDrag(supportedActions)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractItemView</description>
+</snippet>

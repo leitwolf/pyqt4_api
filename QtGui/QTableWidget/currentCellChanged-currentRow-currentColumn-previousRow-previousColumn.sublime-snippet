@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[currentCellChanged(${1:currentRow}, ${2:currentColumn}, ${3:previousRow}, ${4:previousColumn})]]></content>
+    <tabTrigger>currentCellChanged(currentRow, currentColumn, previousRow, previousColumn)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTableWidget(Signal)</description>
+</snippet>

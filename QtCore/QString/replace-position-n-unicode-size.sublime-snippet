@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[replace(${1:position}, ${2:n}, ${3:unicode}, ${4:size})]]></content>
+    <tabTrigger>replace(position, n, unicode, size)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QString</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[actionGeometry(${1:act})]]></content>
+    <tabTrigger>actionGeometry(act)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMenuBar</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[clearPropertyFlags()]]></content>
+    <tabTrigger>clearPropertyFlags()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QListView</description>
+</snippet>

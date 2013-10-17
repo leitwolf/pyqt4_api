@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setCollapsible(${1:index}, ${2:collapse})]]></content>
+    <tabTrigger>setCollapsible(index, collapse)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSplitter</description>
+</snippet>

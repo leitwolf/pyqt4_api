@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[addActions(${1:actions})]]></content>
+    <tabTrigger>addActions(actions)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QWidget</description>
+</snippet>

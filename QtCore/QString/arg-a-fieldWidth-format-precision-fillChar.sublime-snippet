@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[arg(${1:a}, ${2:fieldWidth}, ${3:format}, ${4:precision}, ${5:fillChar})]]></content>
+    <tabTrigger>arg(a, fieldWidth, format, precision, fillChar)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QString</description>
+</snippet>

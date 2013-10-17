@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[lineEdit()]]></content>
+    <tabTrigger>lineEdit()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QComboBox</description>
+</snippet>

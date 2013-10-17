@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setCursor(${1:QCursor})]]></content>
+    <tabTrigger>setCursor(QCursor)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QWidget</description>
+</snippet>

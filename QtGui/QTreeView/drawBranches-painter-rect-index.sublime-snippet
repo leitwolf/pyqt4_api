@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[drawBranches(${1:painter}, ${2:rect}, ${3:index})]]></content>
+    <tabTrigger>drawBranches(painter, rect, index)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTreeView</description>
+</snippet>

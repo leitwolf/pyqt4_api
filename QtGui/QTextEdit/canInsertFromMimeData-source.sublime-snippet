@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[canInsertFromMimeData(${1:source})]]></content>
+    <tabTrigger>canInsertFromMimeData(source)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextEdit</description>
+</snippet>

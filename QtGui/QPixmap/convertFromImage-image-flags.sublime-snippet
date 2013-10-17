@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[convertFromImage(${1:image}, ${2:flags})]]></content>
+    <tabTrigger>convertFromImage(image, flags)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPixmap</description>
+</snippet>

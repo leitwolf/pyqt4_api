@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[rheight()]]></content>
+    <tabTrigger>rheight()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSize</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[createHeuristicMask(${1:clipTight})]]></content>
+    <tabTrigger>createHeuristicMask(clipTight)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QImage</description>
+</snippet>

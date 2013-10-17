@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[acceptableInput]]></content>
+    <tabTrigger>acceptableInput</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLineEdit</description>
+</snippet>

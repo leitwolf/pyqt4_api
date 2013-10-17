@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[cleanIcon()]]></content>
+    <tabTrigger>cleanIcon()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QUndoView</description>
+</snippet>

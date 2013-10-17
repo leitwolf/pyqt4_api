@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[removeFormat(${1:mimeType})]]></content>
+    <tabTrigger>removeFormat(mimeType)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMimeData</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[toReal(${1:ok})]]></content>
+    <tabTrigger>toReal(ok)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QVariant</description>
+</snippet>

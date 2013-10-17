@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[color()]]></content>
+    <tabTrigger>color()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPen</description>
+</snippet>

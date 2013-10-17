@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[active]]></content>
+    <tabTrigger>active</tabTrigger>
+    <scope>source.python</scope>
+    <description>QUndoStack</description>
+</snippet>

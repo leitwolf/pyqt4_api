@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setCompleter(${1:completer})]]></content>
+    <tabTrigger>setCompleter(completer)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QComboBox</description>
+</snippet>

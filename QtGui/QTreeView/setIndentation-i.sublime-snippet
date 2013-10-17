@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setIndentation(${1:i})]]></content>
+    <tabTrigger>setIndentation(i)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTreeView</description>
+</snippet>

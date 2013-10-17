@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[hasFormat(${1:mimeType})]]></content>
+    <tabTrigger>hasFormat(mimeType)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMimeData</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[boundingRect(${1:ch})]]></content>
+    <tabTrigger>boundingRect(ch)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFontMetrics</description>
+</snippet>

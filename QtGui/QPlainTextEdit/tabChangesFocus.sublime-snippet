@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[tabChangesFocus()]]></content>
+    <tabTrigger>tabChangesFocus()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPlainTextEdit</description>
+</snippet>

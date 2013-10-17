@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[currentRowChanged(${1:currentRow})]]></content>
+    <tabTrigger>currentRowChanged(currentRow)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QListWidget(Signal)</description>
+</snippet>

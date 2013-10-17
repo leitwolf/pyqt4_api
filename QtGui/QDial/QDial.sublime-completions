@@ -1,0 +1,9 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QDial", "contents": "QtGui.QDial" },
+		{ "trigger": "QDial(parent)", "contents": "QtGui.QDial(${1:parent})" }
+	]
+}

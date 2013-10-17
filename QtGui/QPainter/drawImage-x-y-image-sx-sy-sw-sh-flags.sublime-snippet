@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[drawImage(${1:x}, ${2:y}, ${3:image}, ${4:sx}, ${5:sy}, ${6:sw}, ${7:sh}, ${8:flags})]]></content>
+    <tabTrigger>drawImage(x, y, image, sx, sy, sw, sh, flags)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

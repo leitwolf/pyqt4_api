@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[pixelMetric(${1:metric}, ${2:option}, ${3:widget})]]></content>
+    <tabTrigger>pixelMetric(metric, option, widget)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStyle</description>
+</snippet>

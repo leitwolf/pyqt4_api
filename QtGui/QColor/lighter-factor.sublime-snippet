@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[lighter(${1:factor})]]></content>
+    <tabTrigger>lighter(factor)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QColor</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setBar(${1:bar})]]></content>
+    <tabTrigger>setBar(bar)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QProgressDialog</description>
+</snippet>

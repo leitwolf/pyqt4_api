@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[changed()]]></content>
+    <tabTrigger>changed()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAction(Signal)</description>
+</snippet>

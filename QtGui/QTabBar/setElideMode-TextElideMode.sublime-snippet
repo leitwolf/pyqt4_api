@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setElideMode(${1:TextElideMode})]]></content>
+    <tabTrigger>setElideMode(TextElideMode)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTabBar</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[isFinished()]]></content>
+    <tabTrigger>isFinished()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSound</description>
+</snippet>

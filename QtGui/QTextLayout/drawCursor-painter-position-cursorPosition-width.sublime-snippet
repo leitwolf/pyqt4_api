@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[drawCursor(${1:painter}, ${2:position}, ${3:cursorPosition}, ${4:width})]]></content>
+    <tabTrigger>drawCursor(painter, position, cursorPosition, width)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextLayout</description>
+</snippet>

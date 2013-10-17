@@ -1,0 +1,17 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QVector3D", "contents": "QtGui.QVector3D" },
+		{ "trigger": "QVector3D()", "contents": "QtGui.QVector3D()" },
+		{ "trigger": "QVector3D(xpos, ypos, zpos)", "contents": "QtGui.QVector3D(${1:xpos}, ${2:ypos}, ${3:zpos})" },
+		{ "trigger": "QVector3D(point)", "contents": "QtGui.QVector3D(${1:point})" },
+		{ "trigger": "QVector3D(vector)", "contents": "QtGui.QVector3D(${1:vector})" },
+		{ "trigger": "QVector3D(vector, zpos)", "contents": "QtGui.QVector3D(${1:vector}, ${2:zpos})" },
+		{ "trigger": "QVector3D.crossProduct(v1, v2)", "contents": "QtGui.QVector3D.crossProduct(${1:v1}, ${2:v2})" },
+		{ "trigger": "QVector3D.dotProduct(v1, v2)", "contents": "QtGui.QVector3D.dotProduct(${1:v1}, ${2:v2})" },
+		{ "trigger": "QVector3D.normal(v1, v2)", "contents": "QtGui.QVector3D.normal(${1:v1}, ${2:v2})" },
+		{ "trigger": "QVector3D.normal(v1, v2, v3)", "contents": "QtGui.QVector3D.normal(${1:v1}, ${2:v2}, ${3:v3})" }
+	]
+}

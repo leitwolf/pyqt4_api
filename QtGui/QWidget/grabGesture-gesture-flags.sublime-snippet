@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[grabGesture(${1:gesture}, ${2:flags})]]></content>
+    <tabTrigger>grabGesture(gesture, flags)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QWidget</description>
+</snippet>

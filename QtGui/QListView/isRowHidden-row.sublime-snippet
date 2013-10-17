@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[isRowHidden(${1:row})]]></content>
+    <tabTrigger>isRowHidden(row)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QListView</description>
+</snippet>

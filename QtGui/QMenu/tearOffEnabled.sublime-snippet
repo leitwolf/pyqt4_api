@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[tearOffEnabled]]></content>
+    <tabTrigger>tearOffEnabled</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMenu</description>
+</snippet>

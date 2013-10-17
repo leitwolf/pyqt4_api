@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[directoryEntered(${1:directory})]]></content>
+    <tabTrigger>directoryEntered(directory)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFileDialog(Signal)</description>
+</snippet>

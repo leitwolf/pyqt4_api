@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[expandedTo(${1:otherSize})]]></content>
+    <tabTrigger>expandedTo(otherSize)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSize</description>
+</snippet>

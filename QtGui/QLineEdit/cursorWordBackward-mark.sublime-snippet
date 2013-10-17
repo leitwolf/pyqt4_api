@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[cursorWordBackward(${1:mark})]]></content>
+    <tabTrigger>cursorWordBackward(mark)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLineEdit</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[coordinateMode()]]></content>
+    <tabTrigger>coordinateMode()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QGradient</description>
+</snippet>

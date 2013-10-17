@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[checkState(${1:column})]]></content>
+    <tabTrigger>checkState(column)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTreeWidgetItem</description>
+</snippet>

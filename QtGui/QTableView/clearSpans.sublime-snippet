@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[clearSpans()]]></content>
+    <tabTrigger>clearSpans()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTableView</description>
+</snippet>

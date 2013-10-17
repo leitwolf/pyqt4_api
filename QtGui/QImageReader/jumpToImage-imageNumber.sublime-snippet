@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[jumpToImage(${1:imageNumber})]]></content>
+    <tabTrigger>jumpToImage(imageNumber)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QImageReader</description>
+</snippet>

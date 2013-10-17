@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[standardIconImplementation(${1:standardIcon}, ${2:option}, ${3:widget})]]></content>
+    <tabTrigger>standardIconImplementation(standardIcon, option, widget)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStyle(Slot)</description>
+</snippet>

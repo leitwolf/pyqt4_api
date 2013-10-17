@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[done(${1:r})]]></content>
+    <tabTrigger>done(r)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDialog(Slot)</description>
+</snippet>

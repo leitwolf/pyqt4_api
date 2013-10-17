@@ -1,0 +1,9 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QStatusBar", "contents": "QtGui.QStatusBar" },
+		{ "trigger": "QStatusBar(parent)", "contents": "QtGui.QStatusBar(${1:parent})" }
+	]
+}

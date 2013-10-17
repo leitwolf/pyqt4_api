@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setAccessibleDescription(${1:accessibleDescription})]]></content>
+    <tabTrigger>setAccessibleDescription(accessibleDescription)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStandardItem</description>
+</snippet>

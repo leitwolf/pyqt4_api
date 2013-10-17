@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[insertColumns(${1:column}, ${2:count})]]></content>
+    <tabTrigger>insertColumns(column, count)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStandardItem</description>
+</snippet>

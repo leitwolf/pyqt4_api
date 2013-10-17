@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[whatsThis(${1:column})]]></content>
+    <tabTrigger>whatsThis(column)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTreeWidgetItem</description>
+</snippet>

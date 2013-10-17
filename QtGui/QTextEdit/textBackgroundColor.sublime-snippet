@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[textBackgroundColor()]]></content>
+    <tabTrigger>textBackgroundColor()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextEdit</description>
+</snippet>

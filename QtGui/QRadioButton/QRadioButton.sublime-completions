@@ -1,0 +1,10 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QRadioButton", "contents": "QtGui.QRadioButton" },
+		{ "trigger": "QRadioButton(parent)", "contents": "QtGui.QRadioButton(${1:parent})" },
+		{ "trigger": "QRadioButton(text, parent)", "contents": "QtGui.QRadioButton(${1:text}, ${2:parent})" }
+	]
+}

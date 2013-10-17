@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setObjectName(${1:name})]]></content>
+    <tabTrigger>setObjectName(name)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QObject</description>
+</snippet>

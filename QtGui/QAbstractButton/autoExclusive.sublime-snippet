@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[autoExclusive()]]></content>
+    <tabTrigger>autoExclusive()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractButton</description>
+</snippet>

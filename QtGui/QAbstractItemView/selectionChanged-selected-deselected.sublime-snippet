@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[selectionChanged(${1:selected}, ${2:deselected})]]></content>
+    <tabTrigger>selectionChanged(selected, deselected)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractItemView(Slot)</description>
+</snippet>

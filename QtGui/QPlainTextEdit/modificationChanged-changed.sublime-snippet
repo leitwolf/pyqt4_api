@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[modificationChanged(${1:changed})]]></content>
+    <tabTrigger>modificationChanged(changed)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPlainTextEdit(Signal)</description>
+</snippet>

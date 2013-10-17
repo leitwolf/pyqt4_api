@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[windowFilePath()]]></content>
+    <tabTrigger>windowFilePath()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QWidget</description>
+</snippet>

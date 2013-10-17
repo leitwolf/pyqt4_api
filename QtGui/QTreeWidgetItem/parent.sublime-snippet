@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[parent()]]></content>
+    <tabTrigger>parent()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTreeWidgetItem</description>
+</snippet>

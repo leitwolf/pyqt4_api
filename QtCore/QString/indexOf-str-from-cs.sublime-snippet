@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[indexOf(${1:str}, ${2:from}, ${3:cs})]]></content>
+    <tabTrigger>indexOf(str, from, cs)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QString</description>
+</snippet>

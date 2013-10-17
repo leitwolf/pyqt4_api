@@ -1,0 +1,9 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QDoubleSpinBox", "contents": "QtGui.QDoubleSpinBox" },
+		{ "trigger": "QDoubleSpinBox(parent)", "contents": "QtGui.QDoubleSpinBox(${1:parent})" }
+	]
+}

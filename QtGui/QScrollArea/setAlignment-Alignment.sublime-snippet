@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setAlignment(${1:Alignment})]]></content>
+    <tabTrigger>setAlignment(Alignment)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QScrollArea</description>
+</snippet>

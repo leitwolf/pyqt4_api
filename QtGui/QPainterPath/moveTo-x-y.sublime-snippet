@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[moveTo(${1:x}, ${2:y})]]></content>
+    <tabTrigger>moveTo(x, y)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainterPath</description>
+</snippet>

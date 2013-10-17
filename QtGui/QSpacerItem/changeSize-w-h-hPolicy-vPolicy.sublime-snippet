@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[changeSize(${1:w}, ${2:h}, ${3:hPolicy}, ${4:vPolicy})]]></content>
+    <tabTrigger>changeSize(w, h, hPolicy, vPolicy)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSpacerItem</description>
+</snippet>

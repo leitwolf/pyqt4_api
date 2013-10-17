@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[sectionCount()]]></content>
+    <tabTrigger>sectionCount()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDateTimeEdit</description>
+</snippet>

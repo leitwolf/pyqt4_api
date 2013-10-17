@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[alternateBase()]]></content>
+    <tabTrigger>alternateBase()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPalette</description>
+</snippet>

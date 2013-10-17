@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[canConvert(${1:t})]]></content>
+    <tabTrigger>canConvert(t)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QVariant</description>
+</snippet>

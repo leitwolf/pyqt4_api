@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[rwidth()]]></content>
+    <tabTrigger>rwidth()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSize</description>
+</snippet>

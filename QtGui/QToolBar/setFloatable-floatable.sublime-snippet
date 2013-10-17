@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setFloatable(${1:floatable})]]></content>
+    <tabTrigger>setFloatable(floatable)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QToolBar</description>
+</snippet>

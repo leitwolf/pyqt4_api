@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[elideMode()]]></content>
+    <tabTrigger>elideMode()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTabWidget</description>
+</snippet>

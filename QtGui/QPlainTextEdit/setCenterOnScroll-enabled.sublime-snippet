@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setCenterOnScroll(${1:enabled})]]></content>
+    <tabTrigger>setCenterOnScroll(enabled)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPlainTextEdit</description>
+</snippet>

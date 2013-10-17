@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[prepend(${1:ba})]]></content>
+    <tabTrigger>prepend(ba)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QString</description>
+</snippet>

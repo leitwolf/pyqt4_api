@@ -1,0 +1,9 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QDrag", "contents": "QtGui.QDrag" },
+		{ "trigger": "QDrag(dragSource)", "contents": "QtGui.QDrag(${1:dragSource})" }
+	]
+}

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setGridVisible(${1:show})]]></content>
+    <tabTrigger>setGridVisible(show)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QCalendarWidget(Slot)</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setEmptyLabel(${1:label})]]></content>
+    <tabTrigger>setEmptyLabel(label)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QUndoView</description>
+</snippet>

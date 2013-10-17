@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setLabelAlignment(${1:alignment})]]></content>
+    <tabTrigger>setLabelAlignment(alignment)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFormLayout</description>
+</snippet>

@@ -1,0 +1,25 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QDate", "contents": "QtCore.QDate" },
+		{ "trigger": "QDate.DateFormat", "contents": "QtCore.QDate.DateFormat" },
+		{ "trigger": "QDate.StandaloneFormat", "contents": "QtCore.QDate.StandaloneFormat" },
+		{ "trigger": "QDate()", "contents": "QtCore.QDate()" },
+		{ "trigger": "QDate(y, m, d)", "contents": "QtCore.QDate(${1:y}, ${2:m}, ${3:d})" },
+		{ "trigger": "QDate.currentDate()", "contents": "QtCore.QDate.currentDate()" },
+		{ "trigger": "QDate.fromJulianDay(jd)", "contents": "QtCore.QDate.fromJulianDay(${1:jd})" },
+		{ "trigger": "QDate.fromString(string, format)", "contents": "QtCore.QDate.fromString(${1:string}, ${2:format})" },
+		{ "trigger": "QDate.isLeapYear(year)", "contents": "QtCore.QDate.isLeapYear(${1:year})" },
+		{ "trigger": "QDate.isValid(year, month, day)", "contents": "QtCore.QDate.isValid(${1:year}, ${2:month}, ${3:day})" },
+		{ "trigger": "QDate.longDayName(weekday)", "contents": "QtCore.QDate.longDayName(${1:weekday})" },
+		{ "trigger": "QDate.longDayName(weekday, type)", "contents": "QtCore.QDate.longDayName(${1:weekday}, ${2:type})" },
+		{ "trigger": "QDate.longMonthName(month)", "contents": "QtCore.QDate.longMonthName(${1:month})" },
+		{ "trigger": "QDate.longMonthName(month, type)", "contents": "QtCore.QDate.longMonthName(${1:month}, ${2:type})" },
+		{ "trigger": "QDate.shortDayName(weekday)", "contents": "QtCore.QDate.shortDayName(${1:weekday})" },
+		{ "trigger": "QDate.shortDayName(weekday, type)", "contents": "QtCore.QDate.shortDayName(${1:weekday}, ${2:type})" },
+		{ "trigger": "QDate.shortMonthName(month)", "contents": "QtCore.QDate.shortMonthName(${1:month})" },
+		{ "trigger": "QDate.shortMonthName(month, type)", "contents": "QtCore.QDate.shortMonthName(${1:month}, ${2:type})" }
+	]
+}

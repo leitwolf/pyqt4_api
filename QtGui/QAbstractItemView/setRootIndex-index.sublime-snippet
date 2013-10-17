@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setRootIndex(${1:index})]]></content>
+    <tabTrigger>setRootIndex(index)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractItemView(Slot)</description>
+</snippet>

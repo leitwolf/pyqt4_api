@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[windowModality()]]></content>
+    <tabTrigger>windowModality()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QWidget</description>
+</snippet>

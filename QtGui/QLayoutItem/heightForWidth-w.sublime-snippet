@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[heightForWidth(${1:w})]]></content>
+    <tabTrigger>heightForWidth(w)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLayoutItem</description>
+</snippet>

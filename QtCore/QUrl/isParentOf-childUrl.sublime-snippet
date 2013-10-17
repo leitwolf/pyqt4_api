@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[isParentOf(${1:childUrl})]]></content>
+    <tabTrigger>isParentOf(childUrl)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QUrl</description>
+</snippet>

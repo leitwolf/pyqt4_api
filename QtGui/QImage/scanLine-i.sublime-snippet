@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[scanLine(${1:i})]]></content>
+    <tabTrigger>scanLine(i)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QImage</description>
+</snippet>

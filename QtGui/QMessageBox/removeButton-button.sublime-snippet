@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[removeButton(${1:button})]]></content>
+    <tabTrigger>removeButton(button)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMessageBox</description>
+</snippet>

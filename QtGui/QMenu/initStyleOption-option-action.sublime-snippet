@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[initStyleOption(${1:option}, ${2:action})]]></content>
+    <tabTrigger>initStyleOption(option, action)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMenu</description>
+</snippet>

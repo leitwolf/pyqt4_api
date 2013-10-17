@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setDecimals(${1:int})]]></content>
+    <tabTrigger>setDecimals(int)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDoubleValidator</description>
+</snippet>

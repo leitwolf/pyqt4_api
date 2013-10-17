@@ -1,0 +1,18 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QGradient", "contents": "QtGui.QGradient" },
+		{ "trigger": "QGradient.LogicalMode", "contents": "QtGui.QGradient.LogicalMode" },
+		{ "trigger": "QGradient.StretchToDeviceMode", "contents": "QtGui.QGradient.StretchToDeviceMode" },
+		{ "trigger": "QGradient.ObjectBoundingMode", "contents": "QtGui.QGradient.ObjectBoundingMode" },
+		{ "trigger": "QGradient.PadSpread", "contents": "QtGui.QGradient.PadSpread" },
+		{ "trigger": "QGradient.RepeatSpread", "contents": "QtGui.QGradient.RepeatSpread" },
+		{ "trigger": "QGradient.ReflectSpread", "contents": "QtGui.QGradient.ReflectSpread" },
+		{ "trigger": "QGradient.LinearGradient", "contents": "QtGui.QGradient.LinearGradient" },
+		{ "trigger": "QGradient.RadialGradient", "contents": "QtGui.QGradient.RadialGradient" },
+		{ "trigger": "QGradient.ConicalGradient", "contents": "QtGui.QGradient.ConicalGradient" },
+		{ "trigger": "QGradient.NoGradient", "contents": "QtGui.QGradient.NoGradient" }
+	]
+}

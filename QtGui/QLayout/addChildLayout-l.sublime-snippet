@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[addChildLayout(${1:l})]]></content>
+    <tabTrigger>addChildLayout(l)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLayout</description>
+</snippet>

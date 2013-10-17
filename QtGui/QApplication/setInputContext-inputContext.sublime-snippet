@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setInputContext(${1:inputContext})]]></content>
+    <tabTrigger>setInputContext(inputContext)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QApplication</description>
+</snippet>

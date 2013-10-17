@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[addAction(${1:text}, ${2:receiver}, ${3:member})]]></content>
+    <tabTrigger>addAction(text, receiver, member)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QToolBar</description>
+</snippet>

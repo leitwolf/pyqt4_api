@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setDateEditEnabled(${1:enable})]]></content>
+    <tabTrigger>setDateEditEnabled(enable)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QCalendarWidget</description>
+</snippet>

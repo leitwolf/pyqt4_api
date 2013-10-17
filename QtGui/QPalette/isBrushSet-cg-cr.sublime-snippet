@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[isBrushSet(${1:cg}, ${2:cr})]]></content>
+    <tabTrigger>isBrushSet(cg, cr)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPalette</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setNumColumns(${1:numColumns}, ${2:alignmentWidth})]]></content>
+    <tabTrigger>setNumColumns(numColumns, alignmentWidth)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextLine</description>
+</snippet>

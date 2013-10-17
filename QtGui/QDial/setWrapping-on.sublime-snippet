@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setWrapping(${1:on})]]></content>
+    <tabTrigger>setWrapping(on)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDial(Slot)</description>
+</snippet>

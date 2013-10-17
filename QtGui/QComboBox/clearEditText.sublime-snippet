@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[clearEditText()]]></content>
+    <tabTrigger>clearEditText()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QComboBox(Slot)</description>
+</snippet>

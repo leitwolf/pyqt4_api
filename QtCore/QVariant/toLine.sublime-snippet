@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[toLine()]]></content>
+    <tabTrigger>toLine()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QVariant</description>
+</snippet>

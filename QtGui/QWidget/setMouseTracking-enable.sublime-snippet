@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setMouseTracking(${1:enable})]]></content>
+    <tabTrigger>setMouseTracking(enable)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QWidget</description>
+</snippet>

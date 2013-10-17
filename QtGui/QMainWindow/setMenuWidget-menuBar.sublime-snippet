@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setMenuWidget(${1:menuBar})]]></content>
+    <tabTrigger>setMenuWidget(menuBar)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMainWindow</description>
+</snippet>

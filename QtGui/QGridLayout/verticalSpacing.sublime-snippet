@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[verticalSpacing()]]></content>
+    <tabTrigger>verticalSpacing()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QGridLayout</description>
+</snippet>

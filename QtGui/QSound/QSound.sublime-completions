@@ -1,0 +1,11 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QSound", "contents": "QtGui.QSound" },
+		{ "trigger": "QSound(filename, parent)", "contents": "QtGui.QSound(${1:filename}, ${2:parent})" },
+		{ "trigger": "QSound.isAvailable()", "contents": "QtGui.QSound.isAvailable()" },
+		{ "trigger": "QSound.play(filename)", "contents": "QtGui.QSound.play(${1:filename})" }
+	]
+}

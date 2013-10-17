@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setQueryItems(${1:QString}, ${2:query})]]></content>
+    <tabTrigger>setQueryItems(QString, query)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QUrl</description>
+</snippet>

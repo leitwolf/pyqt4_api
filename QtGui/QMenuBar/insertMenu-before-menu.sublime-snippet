@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[insertMenu(${1:before}, ${2:menu})]]></content>
+    <tabTrigger>insertMenu(before, menu)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMenuBar</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[exclusive()]]></content>
+    <tabTrigger>exclusive()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QButtonGroup</description>
+</snippet>

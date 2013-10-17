@@ -1,0 +1,9 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QShortcutEvent", "contents": "QtGui.QShortcutEvent" },
+		{ "trigger": "QShortcutEvent(key, id, ambiguous)", "contents": "QtGui.QShortcutEvent(${1:key}, ${2:id}, ${3:ambiguous})" }
+	]
+}

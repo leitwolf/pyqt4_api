@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setDirtyRegion(${1:region})]]></content>
+    <tabTrigger>setDirtyRegion(region)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractItemView</description>
+</snippet>

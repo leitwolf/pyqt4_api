@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[invertedAppearance()]]></content>
+    <tabTrigger>invertedAppearance()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QProgressBar</description>
+</snippet>

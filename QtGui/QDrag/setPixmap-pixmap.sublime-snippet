@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setPixmap(${1:pixmap})]]></content>
+    <tabTrigger>setPixmap(pixmap)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDrag</description>
+</snippet>

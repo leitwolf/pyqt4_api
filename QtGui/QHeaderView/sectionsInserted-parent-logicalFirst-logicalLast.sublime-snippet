@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[sectionsInserted(${1:parent}, ${2:logicalFirst}, ${3:logicalLast})]]></content>
+    <tabTrigger>sectionsInserted(parent, logicalFirst, logicalLast)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QHeaderView(Slot)</description>
+</snippet>

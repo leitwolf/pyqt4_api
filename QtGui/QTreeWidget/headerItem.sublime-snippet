@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[headerItem()]]></content>
+    <tabTrigger>headerItem()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTreeWidget</description>
+</snippet>

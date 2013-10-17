@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setTextMargins(${1:margins})]]></content>
+    <tabTrigger>setTextMargins(margins)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLineEdit</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[moveSplitter(${1:pos})]]></content>
+    <tabTrigger>moveSplitter(pos)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSplitterHandle</description>
+</snippet>

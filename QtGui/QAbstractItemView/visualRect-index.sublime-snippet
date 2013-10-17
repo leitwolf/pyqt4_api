@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[visualRect(${1:index})]]></content>
+    <tabTrigger>visualRect(index)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractItemView</description>
+</snippet>

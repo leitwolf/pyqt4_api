@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[checked]]></content>
+    <tabTrigger>checked</tabTrigger>
+    <scope>source.python</scope>
+    <description>QGroupBox</description>
+</snippet>

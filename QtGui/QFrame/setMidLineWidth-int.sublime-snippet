@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setMidLineWidth(${1:int})]]></content>
+    <tabTrigger>setMidLineWidth(int)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFrame</description>
+</snippet>

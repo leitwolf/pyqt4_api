@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[light()]]></content>
+    <tabTrigger>light()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPalette</description>
+</snippet>

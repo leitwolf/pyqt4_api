@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[drawPath(${1:path})]]></content>
+    <tabTrigger>drawPath(path)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

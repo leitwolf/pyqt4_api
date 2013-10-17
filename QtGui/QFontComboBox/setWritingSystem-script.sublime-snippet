@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setWritingSystem(${1:script})]]></content>
+    <tabTrigger>setWritingSystem(script)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFontComboBox</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[mapToGlobal(${1:pos})]]></content>
+    <tabTrigger>mapToGlobal(pos)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QWidget</description>
+</snippet>

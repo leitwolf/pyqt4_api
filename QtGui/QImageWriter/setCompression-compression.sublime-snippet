@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setCompression(${1:compression})]]></content>
+    <tabTrigger>setCompression(compression)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QImageWriter</description>
+</snippet>

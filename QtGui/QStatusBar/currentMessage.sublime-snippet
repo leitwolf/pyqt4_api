@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[currentMessage()]]></content>
+    <tabTrigger>currentMessage()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStatusBar</description>
+</snippet>

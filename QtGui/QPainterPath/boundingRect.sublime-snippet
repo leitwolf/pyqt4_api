@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[boundingRect()]]></content>
+    <tabTrigger>boundingRect()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainterPath</description>
+</snippet>

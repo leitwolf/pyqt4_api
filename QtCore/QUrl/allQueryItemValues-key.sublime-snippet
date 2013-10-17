@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[allQueryItemValues(${1:key})]]></content>
+    <tabTrigger>allQueryItemValues(key)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QUrl</description>
+</snippet>

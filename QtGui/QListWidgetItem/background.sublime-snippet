@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[background()]]></content>
+    <tabTrigger>background()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QListWidgetItem</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[iconSizeChanged(${1:iconSize})]]></content>
+    <tabTrigger>iconSizeChanged(iconSize)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QToolBar(Signal)</description>
+</snippet>

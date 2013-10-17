@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[showGrid()]]></content>
+    <tabTrigger>showGrid()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTableView</description>
+</snippet>

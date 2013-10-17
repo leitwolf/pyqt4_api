@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[isQBitmap()]]></content>
+    <tabTrigger>isQBitmap()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPixmap</description>
+</snippet>

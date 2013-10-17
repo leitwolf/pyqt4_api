@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[doubleValueChanged(${1:value})]]></content>
+    <tabTrigger>doubleValueChanged(value)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QInputDialog(Signal)</description>
+</snippet>

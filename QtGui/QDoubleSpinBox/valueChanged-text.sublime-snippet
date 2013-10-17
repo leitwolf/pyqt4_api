@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[valueChanged(${1:text})]]></content>
+    <tabTrigger>valueChanged(text)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDoubleSpinBox(Signal)</description>
+</snippet>

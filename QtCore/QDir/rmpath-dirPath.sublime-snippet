@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[rmpath(${1:dirPath})]]></content>
+    <tabTrigger>rmpath(dirPath)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDir</description>
+</snippet>

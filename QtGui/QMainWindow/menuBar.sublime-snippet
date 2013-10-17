@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[menuBar()]]></content>
+    <tabTrigger>menuBar()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMainWindow</description>
+</snippet>

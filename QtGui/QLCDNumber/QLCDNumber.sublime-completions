@@ -1,0 +1,17 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QLCDNumber", "contents": "QtGui.QLCDNumber" },
+		{ "trigger": "QLCDNumber.Hex", "contents": "QtGui.QLCDNumber.Hex" },
+		{ "trigger": "QLCDNumber.Dec", "contents": "QtGui.QLCDNumber.Dec" },
+		{ "trigger": "QLCDNumber.Oct", "contents": "QtGui.QLCDNumber.Oct" },
+		{ "trigger": "QLCDNumber.Bin", "contents": "QtGui.QLCDNumber.Bin" },
+		{ "trigger": "QLCDNumber.Outline", "contents": "QtGui.QLCDNumber.Outline" },
+		{ "trigger": "QLCDNumber.Filled", "contents": "QtGui.QLCDNumber.Filled" },
+		{ "trigger": "QLCDNumber.Flat", "contents": "QtGui.QLCDNumber.Flat" },
+		{ "trigger": "QLCDNumber(parent)", "contents": "QtGui.QLCDNumber(${1:parent})" },
+		{ "trigger": "QLCDNumber(numDigits, parent)", "contents": "QtGui.QLCDNumber(${1:numDigits}, ${2:parent})" }
+	]
+}

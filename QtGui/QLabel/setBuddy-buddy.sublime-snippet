@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setBuddy(${1:buddy})]]></content>
+    <tabTrigger>setBuddy(buddy)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLabel</description>
+</snippet>

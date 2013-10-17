@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setStyleSheet(${1:sheet})]]></content>
+    <tabTrigger>setStyleSheet(sheet)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QApplication(Slot)</description>
+</snippet>

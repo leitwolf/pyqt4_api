@@ -1,0 +1,15 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QPainterPath", "contents": "QtGui.QPainterPath" },
+		{ "trigger": "QPainterPath.MoveToElement", "contents": "QtGui.QPainterPath.MoveToElement" },
+		{ "trigger": "QPainterPath.LineToElement", "contents": "QtGui.QPainterPath.LineToElement" },
+		{ "trigger": "QPainterPath.CurveToElement", "contents": "QtGui.QPainterPath.CurveToElement" },
+		{ "trigger": "QPainterPath.CurveToDataElement", "contents": "QtGui.QPainterPath.CurveToDataElement" },
+		{ "trigger": "QPainterPath()", "contents": "QtGui.QPainterPath()" },
+		{ "trigger": "QPainterPath(startPoint)", "contents": "QtGui.QPainterPath(${1:startPoint})" },
+		{ "trigger": "QPainterPath(path)", "contents": "QtGui.QPainterPath(${1:path})" }
+	]
+}

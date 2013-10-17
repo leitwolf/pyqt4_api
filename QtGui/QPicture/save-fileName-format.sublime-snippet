@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[save(${1:fileName}, ${2:format})]]></content>
+    <tabTrigger>save(fileName, format)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPicture</description>
+</snippet>

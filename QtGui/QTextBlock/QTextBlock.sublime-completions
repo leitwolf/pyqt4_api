@@ -1,0 +1,9 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QTextBlock", "contents": "QtGui.QTextBlock" },
+		{ "trigger": "QTextBlock(other)", "contents": "QtGui.QTextBlock(${1:other})" }
+	]
+}

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[checkedId()]]></content>
+    <tabTrigger>checkedId()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QButtonGroup</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setAutoRepeat(${1:bool})]]></content>
+    <tabTrigger>setAutoRepeat(bool)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAction</description>
+</snippet>

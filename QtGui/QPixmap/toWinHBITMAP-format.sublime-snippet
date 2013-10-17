@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[toWinHBITMAP(${1:format})]]></content>
+    <tabTrigger>toWinHBITMAP(format)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPixmap</description>
+</snippet>

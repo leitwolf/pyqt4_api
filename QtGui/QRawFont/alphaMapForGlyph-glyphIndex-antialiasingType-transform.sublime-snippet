@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[alphaMapForGlyph(${1:glyphIndex}, ${2:antialiasingType}, ${3:transform})]]></content>
+    <tabTrigger>alphaMapForGlyph(glyphIndex, antialiasingType, transform)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QRawFont</description>
+</snippet>

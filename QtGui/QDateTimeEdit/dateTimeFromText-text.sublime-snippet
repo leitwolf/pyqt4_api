@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[dateTimeFromText(${1:text})]]></content>
+    <tabTrigger>dateTimeFromText(text)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDateTimeEdit</description>
+</snippet>

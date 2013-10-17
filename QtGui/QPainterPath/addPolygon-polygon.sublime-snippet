@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[addPolygon(${1:polygon})]]></content>
+    <tabTrigger>addPolygon(polygon)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainterPath</description>
+</snippet>

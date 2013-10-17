@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[mimeData()]]></content>
+    <tabTrigger>mimeData()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDrag</description>
+</snippet>

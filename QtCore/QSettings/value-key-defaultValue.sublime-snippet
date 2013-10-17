@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[value(${1:key}, ${2:defaultValue})]]></content>
+    <tabTrigger>value(key, defaultValue)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSettings</description>
+</snippet>

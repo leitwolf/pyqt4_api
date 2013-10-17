@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[intersected(${1:r})]]></content>
+    <tabTrigger>intersected(r)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPolygon</description>
+</snippet>

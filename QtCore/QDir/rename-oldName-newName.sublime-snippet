@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[rename(${1:oldName}, ${2:newName})]]></content>
+    <tabTrigger>rename(oldName, newName)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDir</description>
+</snippet>

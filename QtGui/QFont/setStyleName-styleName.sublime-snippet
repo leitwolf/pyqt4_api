@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setStyleName(${1:styleName})]]></content>
+    <tabTrigger>setStyleName(styleName)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFont</description>
+</snippet>

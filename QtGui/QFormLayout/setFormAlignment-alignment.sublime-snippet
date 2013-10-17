@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setFormAlignment(${1:alignment})]]></content>
+    <tabTrigger>setFormAlignment(alignment)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFormLayout</description>
+</snippet>

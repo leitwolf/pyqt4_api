@@ -1,0 +1,9 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QAbstractButton", "contents": "QtGui.QAbstractButton" },
+		{ "trigger": "QAbstractButton(parent)", "contents": "QtGui.QAbstractButton(${1:parent})" }
+	]
+}

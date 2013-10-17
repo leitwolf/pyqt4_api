@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[error()]]></content>
+    <tabTrigger>error()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QImageReader</description>
+</snippet>

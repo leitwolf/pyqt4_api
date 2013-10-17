@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[textChanged(${1:text})]]></content>
+    <tabTrigger>textChanged(text)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLineEdit(Signal)</description>
+</snippet>

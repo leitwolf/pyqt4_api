@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[showMaximized()]]></content>
+    <tabTrigger>showMaximized()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QWidget(Slot)</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setSorting(${1:sort})]]></content>
+    <tabTrigger>setSorting(sort)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDir</description>
+</snippet>

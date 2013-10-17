@@ -1,0 +1,22 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QTabBar", "contents": "QtGui.QTabBar" },
+		{ "trigger": "QTabBar.LeftSide", "contents": "QtGui.QTabBar.LeftSide" },
+		{ "trigger": "QTabBar.RightSide", "contents": "QtGui.QTabBar.RightSide" },
+		{ "trigger": "QTabBar.SelectLeftTab", "contents": "QtGui.QTabBar.SelectLeftTab" },
+		{ "trigger": "QTabBar.SelectRightTab", "contents": "QtGui.QTabBar.SelectRightTab" },
+		{ "trigger": "QTabBar.SelectPreviousTab", "contents": "QtGui.QTabBar.SelectPreviousTab" },
+		{ "trigger": "QTabBar.RoundedNorth", "contents": "QtGui.QTabBar.RoundedNorth" },
+		{ "trigger": "QTabBar.RoundedSouth", "contents": "QtGui.QTabBar.RoundedSouth" },
+		{ "trigger": "QTabBar.RoundedWest", "contents": "QtGui.QTabBar.RoundedWest" },
+		{ "trigger": "QTabBar.RoundedEast", "contents": "QtGui.QTabBar.RoundedEast" },
+		{ "trigger": "QTabBar.TriangularNorth", "contents": "QtGui.QTabBar.TriangularNorth" },
+		{ "trigger": "QTabBar.TriangularSouth", "contents": "QtGui.QTabBar.TriangularSouth" },
+		{ "trigger": "QTabBar.TriangularWest", "contents": "QtGui.QTabBar.TriangularWest" },
+		{ "trigger": "QTabBar.TriangularEast", "contents": "QtGui.QTabBar.TriangularEast" },
+		{ "trigger": "QTabBar(parent)", "contents": "QtGui.QTabBar(${1:parent})" }
+	]
+}

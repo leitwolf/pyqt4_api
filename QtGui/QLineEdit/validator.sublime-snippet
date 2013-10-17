@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[validator()]]></content>
+    <tabTrigger>validator()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLineEdit</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[globalStrut]]></content>
+    <tabTrigger>globalStrut</tabTrigger>
+    <scope>source.python</scope>
+    <description>QApplication</description>
+</snippet>

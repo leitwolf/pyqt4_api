@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[maximumSize()]]></content>
+    <tabTrigger>maximumSize()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLayoutItem</description>
+</snippet>

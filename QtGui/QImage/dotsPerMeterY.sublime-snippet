@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[dotsPerMeterY()]]></content>
+    <tabTrigger>dotsPerMeterY()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QImage</description>
+</snippet>

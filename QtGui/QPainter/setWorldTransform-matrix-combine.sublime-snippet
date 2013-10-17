@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setWorldTransform(${1:matrix}, ${2:combine})]]></content>
+    <tabTrigger>setWorldTransform(matrix, combine)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[isEnabledTo(${1:ancestor})]]></content>
+    <tabTrigger>isEnabledTo(ancestor)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QWidget</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[getHsl(${1:h}, ${2:s}, ${3:l}, ${4:a})]]></content>
+    <tabTrigger>getHsl(h, s, l, a)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QColor</description>
+</snippet>

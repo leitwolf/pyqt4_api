@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[toggleViewAction()]]></content>
+    <tabTrigger>toggleViewAction()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QToolBar</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setHeight(${1:height})]]></content>
+    <tabTrigger>setHeight(height)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSize</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[visibilityChanged(${1:visible})]]></content>
+    <tabTrigger>visibilityChanged(visible)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QToolBar(Signal)</description>
+</snippet>

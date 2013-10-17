@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setTextBackgroundColor(${1:c})]]></content>
+    <tabTrigger>setTextBackgroundColor(c)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextEdit(Slot)</description>
+</snippet>

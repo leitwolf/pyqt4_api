@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[end(${1:mark})]]></content>
+    <tabTrigger>end(mark)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLineEdit</description>
+</snippet>

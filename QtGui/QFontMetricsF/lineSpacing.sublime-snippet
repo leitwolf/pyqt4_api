@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[lineSpacing()]]></content>
+    <tabTrigger>lineSpacing()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFontMetricsF</description>
+</snippet>

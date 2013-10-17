@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setIcon(${1:column}, ${2:icon})]]></content>
+    <tabTrigger>setIcon(column, icon)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTreeWidgetItem</description>
+</snippet>

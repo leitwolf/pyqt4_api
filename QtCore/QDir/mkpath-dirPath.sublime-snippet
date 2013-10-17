@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[mkpath(${1:dirPath})]]></content>
+    <tabTrigger>mkpath(dirPath)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDir</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[isEditable()]]></content>
+    <tabTrigger>isEditable()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStandardItem</description>
+</snippet>

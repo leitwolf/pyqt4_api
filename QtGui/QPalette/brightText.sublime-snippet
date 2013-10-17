@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[brightText()]]></content>
+    <tabTrigger>brightText()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPalette</description>
+</snippet>

@@ -1,0 +1,12 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QDoubleValidator", "contents": "QtGui.QDoubleValidator" },
+		{ "trigger": "QDoubleValidator.StandardNotation", "contents": "QtGui.QDoubleValidator.StandardNotation" },
+		{ "trigger": "QDoubleValidator.ScientificNotation", "contents": "QtGui.QDoubleValidator.ScientificNotation" },
+		{ "trigger": "QDoubleValidator(parent)", "contents": "QtGui.QDoubleValidator(${1:parent})" },
+		{ "trigger": "QDoubleValidator(bottom, top, decimals, parent)", "contents": "QtGui.QDoubleValidator(${1:bottom}, ${2:top}, ${3:decimals}, ${4:parent})" }
+	]
+}

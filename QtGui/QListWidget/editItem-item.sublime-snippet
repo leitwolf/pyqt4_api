@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[editItem(${1:item})]]></content>
+    <tabTrigger>editItem(item)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QListWidget</description>
+</snippet>

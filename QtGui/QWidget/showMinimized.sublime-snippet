@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[showMinimized()]]></content>
+    <tabTrigger>showMinimized()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QWidget(Slot)</description>
+</snippet>

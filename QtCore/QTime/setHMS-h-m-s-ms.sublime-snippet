@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setHMS(${1:h}, ${2:m}, ${3:s}, ${4:ms})]]></content>
+    <tabTrigger>setHMS(h, m, s, ms)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTime</description>
+</snippet>

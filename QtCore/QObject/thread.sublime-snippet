@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[thread()]]></content>
+    <tabTrigger>thread()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QObject</description>
+</snippet>

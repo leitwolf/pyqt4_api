@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[itemPressed(${1:item})]]></content>
+    <tabTrigger>itemPressed(item)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QListWidget(Signal)</description>
+</snippet>

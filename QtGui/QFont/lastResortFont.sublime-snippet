@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[lastResortFont()]]></content>
+    <tabTrigger>lastResortFont()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFont</description>
+</snippet>

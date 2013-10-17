@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[push(${1:cmd})]]></content>
+    <tabTrigger>push(cmd)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QUndoStack</description>
+</snippet>

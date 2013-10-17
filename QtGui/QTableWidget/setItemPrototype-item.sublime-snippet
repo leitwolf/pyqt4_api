@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setItemPrototype(${1:item})]]></content>
+    <tabTrigger>setItemPrototype(item)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTableWidget</description>
+</snippet>

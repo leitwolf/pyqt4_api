@@ -1,0 +1,10 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QGridLayout", "contents": "QtGui.QGridLayout" },
+		{ "trigger": "QGridLayout(parent)", "contents": "QtGui.QGridLayout(${1:parent})" },
+		{ "trigger": "QGridLayout()", "contents": "QtGui.QGridLayout()" }
+	]
+}

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[canRedoChanged(${1:canRedo})]]></content>
+    <tabTrigger>canRedoChanged(canRedo)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QUndoStack(Signal)</description>
+</snippet>

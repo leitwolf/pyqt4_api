@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[contains(${1:key})]]></content>
+    <tabTrigger>contains(key)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSettings</description>
+</snippet>

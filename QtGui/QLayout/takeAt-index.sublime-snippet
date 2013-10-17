@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[takeAt(${1:index})]]></content>
+    <tabTrigger>takeAt(index)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLayout</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[localeAwareCompare(${1:other})]]></content>
+    <tabTrigger>localeAwareCompare(other)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QString</description>
+</snippet>

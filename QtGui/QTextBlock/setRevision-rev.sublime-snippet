@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setRevision(${1:rev})]]></content>
+    <tabTrigger>setRevision(rev)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextBlock</description>
+</snippet>

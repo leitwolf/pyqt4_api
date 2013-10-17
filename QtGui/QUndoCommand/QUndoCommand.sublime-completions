@@ -1,0 +1,10 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QUndoCommand", "contents": "QtGui.QUndoCommand" },
+		{ "trigger": "QUndoCommand(parent)", "contents": "QtGui.QUndoCommand(${1:parent})" },
+		{ "trigger": "QUndoCommand(text, parent)", "contents": "QtGui.QUndoCommand(${1:text}, ${2:parent})" }
+	]
+}

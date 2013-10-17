@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setAlternatingRowColors(${1:enable})]]></content>
+    <tabTrigger>setAlternatingRowColors(enable)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractItemView</description>
+</snippet>

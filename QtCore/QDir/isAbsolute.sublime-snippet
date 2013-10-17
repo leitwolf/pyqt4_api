@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[isAbsolute()]]></content>
+    <tabTrigger>isAbsolute()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDir</description>
+</snippet>

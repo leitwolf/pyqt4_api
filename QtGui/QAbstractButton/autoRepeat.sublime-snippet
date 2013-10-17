@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[autoRepeat()]]></content>
+    <tabTrigger>autoRepeat()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractButton</description>
+</snippet>

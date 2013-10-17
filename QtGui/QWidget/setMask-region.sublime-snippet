@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setMask(${1:region})]]></content>
+    <tabTrigger>setMask(region)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QWidget</description>
+</snippet>

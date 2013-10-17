@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setToolTip(${1:toolTip})]]></content>
+    <tabTrigger>setToolTip(toolTip)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTableWidgetItem</description>
+</snippet>

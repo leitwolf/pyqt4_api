@@ -1,0 +1,10 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QIntValidator", "contents": "QtGui.QIntValidator" },
+		{ "trigger": "QIntValidator(parent)", "contents": "QtGui.QIntValidator(${1:parent})" },
+		{ "trigger": "QIntValidator(minimum, maximum, parent)", "contents": "QtGui.QIntValidator(${1:minimum}, ${2:maximum}, ${3:parent})" }
+	]
+}

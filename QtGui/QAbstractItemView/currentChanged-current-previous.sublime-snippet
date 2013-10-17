@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[currentChanged(${1:current}, ${2:previous})]]></content>
+    <tabTrigger>currentChanged(current, previous)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractItemView(Slot)</description>
+</snippet>

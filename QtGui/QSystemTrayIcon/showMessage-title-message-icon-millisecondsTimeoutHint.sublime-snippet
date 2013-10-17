@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[showMessage(${1:title}, ${2:message}, ${3:icon}, ${4:millisecondsTimeoutHint})]]></content>
+    <tabTrigger>showMessage(title, message, icon, millisecondsTimeoutHint)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSystemTrayIcon</description>
+</snippet>

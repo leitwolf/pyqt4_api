@@ -1,0 +1,12 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QMenu", "contents": "QtGui.QMenu" },
+		{ "trigger": "QMenu(parent)", "contents": "QtGui.QMenu(${1:parent})" },
+		{ "trigger": "QMenu(title, parent)", "contents": "QtGui.QMenu(${1:title}, ${2:parent})" },
+		{ "trigger": "QMenu.exec(actions, pos, at, parent)", "contents": "QtGui.QMenu.exec(${1:actions}, ${2:pos}, ${3:at}, ${4:parent})" },
+		{ "trigger": "QMenu.exec(actions, pos, at)", "contents": "QtGui.QMenu.exec(${1:actions}, ${2:pos}, ${3:at})" }
+	]
+}

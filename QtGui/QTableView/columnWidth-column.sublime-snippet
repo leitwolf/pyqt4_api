@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[columnWidth(${1:column})]]></content>
+    <tabTrigger>columnWidth(column)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTableView</description>
+</snippet>

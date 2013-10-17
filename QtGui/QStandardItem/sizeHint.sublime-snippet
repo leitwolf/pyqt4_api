@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[sizeHint()]]></content>
+    <tabTrigger>sizeHint()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStandardItem</description>
+</snippet>

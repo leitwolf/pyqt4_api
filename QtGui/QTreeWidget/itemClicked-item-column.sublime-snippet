@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[itemClicked(${1:item}, ${2:column})]]></content>
+    <tabTrigger>itemClicked(item, column)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTreeWidget(Signal)</description>
+</snippet>

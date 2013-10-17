@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setCorner(${1:corner}, ${2:area})]]></content>
+    <tabTrigger>setCorner(corner, area)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMainWindow</description>
+</snippet>

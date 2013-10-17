@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[valid(${1:x}, ${2:y})]]></content>
+    <tabTrigger>valid(x, y)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QImage</description>
+</snippet>

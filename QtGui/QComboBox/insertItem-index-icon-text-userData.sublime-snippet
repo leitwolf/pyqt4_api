@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[insertItem(${1:index}, ${2:icon}, ${3:text}, ${4:userData})]]></content>
+    <tabTrigger>insertItem(index, icon, text, userData)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QComboBox</description>
+</snippet>

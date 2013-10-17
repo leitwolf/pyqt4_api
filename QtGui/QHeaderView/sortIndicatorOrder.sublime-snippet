@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[sortIndicatorOrder()]]></content>
+    <tabTrigger>sortIndicatorOrder()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QHeaderView</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[drawLines(${1:pointPairs})]]></content>
+    <tabTrigger>drawLines(pointPairs)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

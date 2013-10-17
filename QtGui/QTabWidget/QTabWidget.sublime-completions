@@ -1,0 +1,15 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QTabWidget", "contents": "QtGui.QTabWidget" },
+		{ "trigger": "QTabWidget.North", "contents": "QtGui.QTabWidget.North" },
+		{ "trigger": "QTabWidget.South", "contents": "QtGui.QTabWidget.South" },
+		{ "trigger": "QTabWidget.West", "contents": "QtGui.QTabWidget.West" },
+		{ "trigger": "QTabWidget.East", "contents": "QtGui.QTabWidget.East" },
+		{ "trigger": "QTabWidget.Rounded", "contents": "QtGui.QTabWidget.Rounded" },
+		{ "trigger": "QTabWidget.Triangular", "contents": "QtGui.QTabWidget.Triangular" },
+		{ "trigger": "QTabWidget(parent)", "contents": "QtGui.QTabWidget(${1:parent})" }
+	]
+}

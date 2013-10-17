@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[notchTarget()]]></content>
+    <tabTrigger>notchTarget()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDial</description>
+</snippet>

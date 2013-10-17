@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setMinimumSectionSize(${1:size})]]></content>
+    <tabTrigger>setMinimumSectionSize(size)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QHeaderView</description>
+</snippet>

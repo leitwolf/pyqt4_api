@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[repeated(${1:times})]]></content>
+    <tabTrigger>repeated(times)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QString</description>
+</snippet>

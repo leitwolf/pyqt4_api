@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[draw(${1:painter}, ${2:position}, ${3:selection})]]></content>
+    <tabTrigger>draw(painter, position, selection)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextLine</description>
+</snippet>

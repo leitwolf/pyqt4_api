@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[currentText()]]></content>
+    <tabTrigger>currentText()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QComboBox</description>
+</snippet>

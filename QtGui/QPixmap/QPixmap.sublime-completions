@@ -1,0 +1,33 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QPixmap", "contents": "QtGui.QPixmap" },
+		{ "trigger": "QPixmap.NoAlpha", "contents": "QtGui.QPixmap.NoAlpha" },
+		{ "trigger": "QPixmap.PremultipliedAlpha", "contents": "QtGui.QPixmap.PremultipliedAlpha" },
+		{ "trigger": "QPixmap.Alpha", "contents": "QtGui.QPixmap.Alpha" },
+		{ "trigger": "QPixmap.ImplicitlyShared", "contents": "QtGui.QPixmap.ImplicitlyShared" },
+		{ "trigger": "QPixmap.ExplicitlyShared", "contents": "QtGui.QPixmap.ExplicitlyShared" },
+		{ "trigger": "QPixmap()", "contents": "QtGui.QPixmap()" },
+		{ "trigger": "QPixmap(width, height)", "contents": "QtGui.QPixmap(${1:width}, ${2:height})" },
+		{ "trigger": "QPixmap(fileName, format, flags)", "contents": "QtGui.QPixmap(${1:fileName}, ${2:format}, ${3:flags})" },
+		{ "trigger": "QPixmap(xpm)", "contents": "QtGui.QPixmap(${1:xpm})" },
+		{ "trigger": "QPixmap(pixmap)", "contents": "QtGui.QPixmap(${1:pixmap})" },
+		{ "trigger": "QPixmap(size)", "contents": "QtGui.QPixmap(${1:size})" },
+		{ "trigger": "QPixmap.defaultDepth()", "contents": "QtGui.QPixmap.defaultDepth()" },
+		{ "trigger": "QPixmap.fromImage(image, flags)", "contents": "QtGui.QPixmap.fromImage(${1:image}, ${2:flags})" },
+		{ "trigger": "QPixmap.fromImageReader(imageReader, flags)", "contents": "QtGui.QPixmap.fromImageReader(${1:imageReader}, ${2:flags})" },
+		{ "trigger": "QPixmap.fromMacCGImageRef(image)", "contents": "QtGui.QPixmap.fromMacCGImageRef(${1:image})" },
+		{ "trigger": "QPixmap.fromSymbianCFbsBitmap(bitmap)", "contents": "QtGui.QPixmap.fromSymbianCFbsBitmap(${1:bitmap})" },
+		{ "trigger": "QPixmap.fromSymbianRSgImage(sgImage)", "contents": "QtGui.QPixmap.fromSymbianRSgImage(${1:sgImage})" },
+		{ "trigger": "QPixmap.fromWinHBITMAP(bitmap, format)", "contents": "QtGui.QPixmap.fromWinHBITMAP(${1:bitmap}, ${2:format})" },
+		{ "trigger": "QPixmap.fromWinHICON(icon)", "contents": "QtGui.QPixmap.fromWinHICON(${1:icon})" },
+		{ "trigger": "QPixmap.fromX11Pixmap(pixmap, mode)", "contents": "QtGui.QPixmap.fromX11Pixmap(${1:pixmap}, ${2:mode})" },
+		{ "trigger": "QPixmap.grabWidget(widget, rectangle)", "contents": "QtGui.QPixmap.grabWidget(${1:widget}, ${2:rectangle})" },
+		{ "trigger": "QPixmap.grabWidget(widget, x, y, width, height)", "contents": "QtGui.QPixmap.grabWidget(${1:widget}, ${2:x}, ${3:y}, ${4:width}, ${5:height})" },
+		{ "trigger": "QPixmap.grabWindow(window, x, y, width, height)", "contents": "QtGui.QPixmap.grabWindow(${1:window}, ${2:x}, ${3:y}, ${4:width}, ${5:height})" },
+		{ "trigger": "QPixmap.trueMatrix(matrix, width, height)", "contents": "QtGui.QPixmap.trueMatrix(${1:matrix}, ${2:width}, ${3:height})" },
+		{ "trigger": "QPixmap.trueMatrix(m, w, h)", "contents": "QtGui.QPixmap.trueMatrix(${1:m}, ${2:w}, ${3:h})" }
+	]
+}

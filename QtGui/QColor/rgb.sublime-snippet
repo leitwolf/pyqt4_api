@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[rgb()]]></content>
+    <tabTrigger>rgb()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QColor</description>
+</snippet>

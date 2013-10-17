@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setLeadingIncluded(${1:included})]]></content>
+    <tabTrigger>setLeadingIncluded(included)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextLine</description>
+</snippet>

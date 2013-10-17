@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[toRegExp()]]></content>
+    <tabTrigger>toRegExp()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QVariant</description>
+</snippet>

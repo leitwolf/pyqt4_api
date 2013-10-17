@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[loops()]]></content>
+    <tabTrigger>loops()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSound</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[sectionsAboutToBeRemoved(${1:parent}, ${2:logicalFirst}, ${3:logicalLast})]]></content>
+    <tabTrigger>sectionsAboutToBeRemoved(parent, logicalFirst, logicalLast)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QHeaderView(Slot)</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[isCopyOf(${1:p})]]></content>
+    <tabTrigger>isCopyOf(p)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPalette</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[isFloating()]]></content>
+    <tabTrigger>isFloating()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDockWidget</description>
+</snippet>

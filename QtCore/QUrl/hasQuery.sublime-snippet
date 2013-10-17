@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[hasQuery()]]></content>
+    <tabTrigger>hasQuery()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QUrl</description>
+</snippet>

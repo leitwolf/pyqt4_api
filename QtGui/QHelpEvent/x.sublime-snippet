@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[x()]]></content>
+    <tabTrigger>x()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QHelpEvent</description>
+</snippet>

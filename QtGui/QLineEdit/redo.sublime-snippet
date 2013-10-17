@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[redo()]]></content>
+    <tabTrigger>redo()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLineEdit(Slot)</description>
+</snippet>

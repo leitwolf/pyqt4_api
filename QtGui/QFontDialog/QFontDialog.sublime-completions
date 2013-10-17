@@ -1,0 +1,18 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QFontDialog", "contents": "QtGui.QFontDialog" },
+		{ "trigger": "QFontDialog.NoButtons", "contents": "QtGui.QFontDialog.NoButtons" },
+		{ "trigger": "QFontDialog.DontUseNativeDialog", "contents": "QtGui.QFontDialog.DontUseNativeDialog" },
+		{ "trigger": "QFontDialog(parent)", "contents": "QtGui.QFontDialog(${1:parent})" },
+		{ "trigger": "QFontDialog(initial, parent)", "contents": "QtGui.QFontDialog(${1:initial}, ${2:parent})" },
+		{ "trigger": "QFontDialog.getFont(ok, initial, parent, title, options)", "contents": "QtGui.QFontDialog.getFont(${1:ok}, ${2:initial}, ${3:parent}, ${4:title}, ${5:options})" },
+		{ "trigger": "QFontDialog.getFont(ok, initial, parent, name)", "contents": "QtGui.QFontDialog.getFont(${1:ok}, ${2:initial}, ${3:parent}, ${4:name})" },
+		{ "trigger": "QFontDialog.getFont(ok, parent, name)", "contents": "QtGui.QFontDialog.getFont(${1:ok}, ${2:parent}, ${3:name})" },
+		{ "trigger": "QFontDialog.getFont(ok, initial, parent, title)", "contents": "QtGui.QFontDialog.getFont(${1:ok}, ${2:initial}, ${3:parent}, ${4:title})" },
+		{ "trigger": "QFontDialog.getFont(ok, initial, parent)", "contents": "QtGui.QFontDialog.getFont(${1:ok}, ${2:initial}, ${3:parent})" },
+		{ "trigger": "QFontDialog.getFont(ok, parent)", "contents": "QtGui.QFontDialog.getFont(${1:ok}, ${2:parent})" }
+	]
+}

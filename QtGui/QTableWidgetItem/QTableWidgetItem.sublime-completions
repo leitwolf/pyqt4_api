@@ -1,0 +1,14 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QTableWidgetItem", "contents": "QtGui.QTableWidgetItem" },
+		{ "trigger": "QTableWidgetItem.Type", "contents": "QtGui.QTableWidgetItem.Type" },
+		{ "trigger": "QTableWidgetItem.UserType", "contents": "QtGui.QTableWidgetItem.UserType" },
+		{ "trigger": "QTableWidgetItem(type)", "contents": "QtGui.QTableWidgetItem(${1:type})" },
+		{ "trigger": "QTableWidgetItem(text, type)", "contents": "QtGui.QTableWidgetItem(${1:text}, ${2:type})" },
+		{ "trigger": "QTableWidgetItem(icon, text, type)", "contents": "QtGui.QTableWidgetItem(${1:icon}, ${2:text}, ${3:type})" },
+		{ "trigger": "QTableWidgetItem(other)", "contents": "QtGui.QTableWidgetItem(${1:other})" }
+	]
+}

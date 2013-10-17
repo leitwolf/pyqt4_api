@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[dropAction()]]></content>
+    <tabTrigger>dropAction()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDropEvent</description>
+</snippet>

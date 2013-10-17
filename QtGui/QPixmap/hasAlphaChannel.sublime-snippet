@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[hasAlphaChannel()]]></content>
+    <tabTrigger>hasAlphaChannel()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPixmap</description>
+</snippet>

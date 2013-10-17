@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[defaultFamily()]]></content>
+    <tabTrigger>defaultFamily()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFont</description>
+</snippet>

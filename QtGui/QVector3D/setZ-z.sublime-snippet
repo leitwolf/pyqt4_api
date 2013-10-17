@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setZ(${1:z})]]></content>
+    <tabTrigger>setZ(z)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QVector3D</description>
+</snippet>

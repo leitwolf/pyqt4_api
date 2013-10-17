@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[rowMinimumHeight(${1:row})]]></content>
+    <tabTrigger>rowMinimumHeight(row)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QGridLayout</description>
+</snippet>

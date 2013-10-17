@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[minimumDuration()]]></content>
+    <tabTrigger>minimumDuration()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QProgressDialog</description>
+</snippet>

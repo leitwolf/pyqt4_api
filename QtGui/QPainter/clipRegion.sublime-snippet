@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[clipRegion()]]></content>
+    <tabTrigger>clipRegion()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

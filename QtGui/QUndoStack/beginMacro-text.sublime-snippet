@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[beginMacro(${1:text})]]></content>
+    <tabTrigger>beginMacro(text)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QUndoStack</description>
+</snippet>

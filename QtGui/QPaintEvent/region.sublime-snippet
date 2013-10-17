@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[region()]]></content>
+    <tabTrigger>region()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPaintEvent</description>
+</snippet>

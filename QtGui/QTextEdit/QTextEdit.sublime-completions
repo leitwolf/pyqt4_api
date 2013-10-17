@@ -1,0 +1,17 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QTextEdit", "contents": "QtGui.QTextEdit" },
+		{ "trigger": "QTextEdit.AutoNone", "contents": "QtGui.QTextEdit.AutoNone" },
+		{ "trigger": "QTextEdit.AutoBulletList", "contents": "QtGui.QTextEdit.AutoBulletList" },
+		{ "trigger": "QTextEdit.AutoAll", "contents": "QtGui.QTextEdit.AutoAll" },
+		{ "trigger": "QTextEdit.NoWrap", "contents": "QtGui.QTextEdit.NoWrap" },
+		{ "trigger": "QTextEdit.WidgetWidth", "contents": "QtGui.QTextEdit.WidgetWidth" },
+		{ "trigger": "QTextEdit.FixedPixelWidth", "contents": "QtGui.QTextEdit.FixedPixelWidth" },
+		{ "trigger": "QTextEdit.FixedColumnWidth", "contents": "QtGui.QTextEdit.FixedColumnWidth" },
+		{ "trigger": "QTextEdit(parent)", "contents": "QtGui.QTextEdit(${1:parent})" },
+		{ "trigger": "QTextEdit(text, parent)", "contents": "QtGui.QTextEdit(${1:text}, ${2:parent})" }
+	]
+}

@@ -1,0 +1,37 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QSizePolicy", "contents": "QtGui.QSizePolicy" },
+		{ "trigger": "QSizePolicy.DefaultType", "contents": "QtGui.QSizePolicy.DefaultType" },
+		{ "trigger": "QSizePolicy.ButtonBox", "contents": "QtGui.QSizePolicy.ButtonBox" },
+		{ "trigger": "QSizePolicy.CheckBox", "contents": "QtGui.QSizePolicy.CheckBox" },
+		{ "trigger": "QSizePolicy.ComboBox", "contents": "QtGui.QSizePolicy.ComboBox" },
+		{ "trigger": "QSizePolicy.Frame", "contents": "QtGui.QSizePolicy.Frame" },
+		{ "trigger": "QSizePolicy.GroupBox", "contents": "QtGui.QSizePolicy.GroupBox" },
+		{ "trigger": "QSizePolicy.Label", "contents": "QtGui.QSizePolicy.Label" },
+		{ "trigger": "QSizePolicy.Line", "contents": "QtGui.QSizePolicy.Line" },
+		{ "trigger": "QSizePolicy.LineEdit", "contents": "QtGui.QSizePolicy.LineEdit" },
+		{ "trigger": "QSizePolicy.PushButton", "contents": "QtGui.QSizePolicy.PushButton" },
+		{ "trigger": "QSizePolicy.RadioButton", "contents": "QtGui.QSizePolicy.RadioButton" },
+		{ "trigger": "QSizePolicy.Slider", "contents": "QtGui.QSizePolicy.Slider" },
+		{ "trigger": "QSizePolicy.SpinBox", "contents": "QtGui.QSizePolicy.SpinBox" },
+		{ "trigger": "QSizePolicy.TabWidget", "contents": "QtGui.QSizePolicy.TabWidget" },
+		{ "trigger": "QSizePolicy.ToolButton", "contents": "QtGui.QSizePolicy.ToolButton" },
+		{ "trigger": "QSizePolicy.Fixed", "contents": "QtGui.QSizePolicy.Fixed" },
+		{ "trigger": "QSizePolicy.Minimum", "contents": "QtGui.QSizePolicy.Minimum" },
+		{ "trigger": "QSizePolicy.Maximum", "contents": "QtGui.QSizePolicy.Maximum" },
+		{ "trigger": "QSizePolicy.Preferred", "contents": "QtGui.QSizePolicy.Preferred" },
+		{ "trigger": "QSizePolicy.Expanding", "contents": "QtGui.QSizePolicy.Expanding" },
+		{ "trigger": "QSizePolicy.MinimumExpanding", "contents": "QtGui.QSizePolicy.MinimumExpanding" },
+		{ "trigger": "QSizePolicy.Ignored", "contents": "QtGui.QSizePolicy.Ignored" },
+		{ "trigger": "QSizePolicy.GrowFlag", "contents": "QtGui.QSizePolicy.GrowFlag" },
+		{ "trigger": "QSizePolicy.ExpandFlag", "contents": "QtGui.QSizePolicy.ExpandFlag" },
+		{ "trigger": "QSizePolicy.ShrinkFlag", "contents": "QtGui.QSizePolicy.ShrinkFlag" },
+		{ "trigger": "QSizePolicy.IgnoreFlag", "contents": "QtGui.QSizePolicy.IgnoreFlag" },
+		{ "trigger": "QSizePolicy()", "contents": "QtGui.QSizePolicy()" },
+		{ "trigger": "QSizePolicy(horizontal, vertical)", "contents": "QtGui.QSizePolicy(${1:horizontal}, ${2:vertical})" },
+		{ "trigger": "QSizePolicy(horizontal, vertical, type)", "contents": "QtGui.QSizePolicy(${1:horizontal}, ${2:vertical}, ${3:type})" }
+	]
+}

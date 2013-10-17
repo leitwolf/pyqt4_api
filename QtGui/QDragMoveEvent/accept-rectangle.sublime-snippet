@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[accept(${1:rectangle})]]></content>
+    <tabTrigger>accept(rectangle)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDragMoveEvent</description>
+</snippet>

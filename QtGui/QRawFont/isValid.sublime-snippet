@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[isValid()]]></content>
+    <tabTrigger>isValid()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QRawFont</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setPen(${1:style})]]></content>
+    <tabTrigger>setPen(style)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

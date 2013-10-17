@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[valueFromText(${1:text})]]></content>
+    <tabTrigger>valueFromText(text)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSpinBox</description>
+</snippet>

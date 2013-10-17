@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[rowResized(${1:row}, ${2:oldHeight}, ${3:newHeight})]]></content>
+    <tabTrigger>rowResized(row, oldHeight, newHeight)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTableView(Slot)</description>
+</snippet>

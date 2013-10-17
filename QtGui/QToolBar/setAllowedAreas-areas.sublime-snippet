@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setAllowedAreas(${1:areas})]]></content>
+    <tabTrigger>setAllowedAreas(areas)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QToolBar</description>
+</snippet>

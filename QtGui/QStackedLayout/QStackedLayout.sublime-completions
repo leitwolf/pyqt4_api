@@ -1,0 +1,13 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QStackedLayout", "contents": "QtGui.QStackedLayout" },
+		{ "trigger": "QStackedLayout.StackOne", "contents": "QtGui.QStackedLayout.StackOne" },
+		{ "trigger": "QStackedLayout.StackAll", "contents": "QtGui.QStackedLayout.StackAll" },
+		{ "trigger": "QStackedLayout()", "contents": "QtGui.QStackedLayout()" },
+		{ "trigger": "QStackedLayout(parent)", "contents": "QtGui.QStackedLayout(${1:parent})" },
+		{ "trigger": "QStackedLayout(parentLayout)", "contents": "QtGui.QStackedLayout(${1:parentLayout})" }
+	]
+}

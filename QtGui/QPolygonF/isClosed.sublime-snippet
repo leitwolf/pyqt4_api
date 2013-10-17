@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[isClosed()]]></content>
+    <tabTrigger>isClosed()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPolygonF</description>
+</snippet>

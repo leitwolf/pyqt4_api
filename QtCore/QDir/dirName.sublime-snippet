@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[dirName()]]></content>
+    <tabTrigger>dirName()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDir</description>
+</snippet>

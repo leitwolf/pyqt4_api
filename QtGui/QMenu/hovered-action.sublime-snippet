@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[hovered(${1:action})]]></content>
+    <tabTrigger>hovered(action)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMenu(Signal)</description>
+</snippet>

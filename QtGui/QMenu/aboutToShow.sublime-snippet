@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[aboutToShow()]]></content>
+    <tabTrigger>aboutToShow()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMenu(Signal)</description>
+</snippet>

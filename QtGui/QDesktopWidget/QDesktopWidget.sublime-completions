@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QDesktopWidget", "contents": "QtGui.QDesktopWidget" }
+	]
+}

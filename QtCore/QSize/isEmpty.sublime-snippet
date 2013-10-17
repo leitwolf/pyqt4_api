@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[isEmpty()]]></content>
+    <tabTrigger>isEmpty()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSize</description>
+</snippet>

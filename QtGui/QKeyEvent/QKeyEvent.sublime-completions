@@ -1,0 +1,9 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QKeyEvent", "contents": "QtGui.QKeyEvent" },
+		{ "trigger": "QKeyEvent(type, key, modifiers, text, autorep, count)", "contents": "QtGui.QKeyEvent(${1:type}, ${2:key}, ${3:modifiers}, ${4:text}, ${5:autorep}, ${6:count})" }
+	]
+}

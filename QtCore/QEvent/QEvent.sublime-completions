@@ -1,0 +1,15 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QEvent", "contents": "QtCore.QEvent" },
+		{ "trigger": "QEvent.None", "contents": "QtCore.QEvent.None" },
+		{ "trigger": "QEvent.AccessibilityDescription", "contents": "QtCore.QEvent.AccessibilityDescription" },
+		{ "trigger": "QEvent.AccessibilityHelp", "contents": "QtCore.QEvent.AccessibilityHelp" },
+		{ "trigger": "QEvent.AccessibilityPrepare", "contents": "QtCore.QEvent.AccessibilityPrepare" },
+		{ "trigger": "QEvent.MaxUser", "contents": "QtCore.QEvent.MaxUser" },
+		{ "trigger": "QEvent(type)", "contents": "QtCore.QEvent(${1:type})" },
+		{ "trigger": "QEvent.registerEventType(hint)", "contents": "QtCore.QEvent.registerEventType(${1:hint})" }
+	]
+}

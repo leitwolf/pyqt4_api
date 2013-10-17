@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[styleName()]]></content>
+    <tabTrigger>styleName()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QRawFont</description>
+</snippet>

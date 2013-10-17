@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[sidebarUrls()]]></content>
+    <tabTrigger>sidebarUrls()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFileDialog</description>
+</snippet>

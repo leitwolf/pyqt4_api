@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[screen(${1:screen})]]></content>
+    <tabTrigger>screen(screen)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDesktopWidget</description>
+</snippet>

@@ -1,0 +1,10 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QTableWidget", "contents": "QtGui.QTableWidget" },
+		{ "trigger": "QTableWidget(parent)", "contents": "QtGui.QTableWidget(${1:parent})" },
+		{ "trigger": "QTableWidget(rows, columns, parent)", "contents": "QtGui.QTableWidget(${1:rows}, ${2:columns}, ${3:parent})" }
+	]
+}

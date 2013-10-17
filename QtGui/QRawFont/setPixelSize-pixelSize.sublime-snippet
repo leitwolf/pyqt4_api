@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setPixelSize(${1:pixelSize})]]></content>
+    <tabTrigger>setPixelSize(pixelSize)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QRawFont</description>
+</snippet>

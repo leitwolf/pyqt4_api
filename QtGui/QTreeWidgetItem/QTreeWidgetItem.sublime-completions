@@ -1,0 +1,19 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QTreeWidgetItem", "contents": "QtGui.QTreeWidgetItem" },
+		{ "trigger": "QTreeWidgetItem.ShowIndicator", "contents": "QtGui.QTreeWidgetItem.ShowIndicator" },
+		{ "trigger": "QTreeWidgetItem.DontShowIndicator", "contents": "QtGui.QTreeWidgetItem.DontShowIndicator" },
+		{ "trigger": "QTreeWidgetItem.DontShowIndicatorWhenChildless", "contents": "QtGui.QTreeWidgetItem.DontShowIndicatorWhenChildless" },
+		{ "trigger": "QTreeWidgetItem.Type", "contents": "QtGui.QTreeWidgetItem.Type" },
+		{ "trigger": "QTreeWidgetItem.UserType", "contents": "QtGui.QTreeWidgetItem.UserType" },
+		{ "trigger": "QTreeWidgetItem(type)", "contents": "QtGui.QTreeWidgetItem(${1:type})" },
+		{ "trigger": "QTreeWidgetItem(strings, type)", "contents": "QtGui.QTreeWidgetItem(${1:strings}, ${2:type})" },
+		{ "trigger": "QTreeWidgetItem(parent, type)", "contents": "QtGui.QTreeWidgetItem(${1:parent}, ${2:type})" },
+		{ "trigger": "QTreeWidgetItem(parent, strings, type)", "contents": "QtGui.QTreeWidgetItem(${1:parent}, ${2:strings}, ${3:type})" },
+		{ "trigger": "QTreeWidgetItem(parent, preceding, type)", "contents": "QtGui.QTreeWidgetItem(${1:parent}, ${2:preceding}, ${3:type})" },
+		{ "trigger": "QTreeWidgetItem(other)", "contents": "QtGui.QTreeWidgetItem(${1:other})" }
+	]
+}

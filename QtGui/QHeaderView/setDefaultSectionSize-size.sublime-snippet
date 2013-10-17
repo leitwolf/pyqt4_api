@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setDefaultSectionSize(${1:size})]]></content>
+    <tabTrigger>setDefaultSectionSize(size)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QHeaderView</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[inFontUcs4(${1:ch})]]></content>
+    <tabTrigger>inFontUcs4(ch)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFontMetricsF</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QToolBox", "contents": "QtGui.QToolBox" },
+		{ "trigger": "QToolBox(parent, f)", "contents": "QtGui.QToolBox(${1:parent}, ${2:f})" }
+	]
+}

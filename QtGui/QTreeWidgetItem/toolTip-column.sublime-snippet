@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[toolTip(${1:column})]]></content>
+    <tabTrigger>toolTip(column)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTreeWidgetItem</description>
+</snippet>

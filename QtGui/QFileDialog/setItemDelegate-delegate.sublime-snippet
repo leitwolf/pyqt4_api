@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setItemDelegate(${1:delegate})]]></content>
+    <tabTrigger>setItemDelegate(delegate)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFileDialog</description>
+</snippet>

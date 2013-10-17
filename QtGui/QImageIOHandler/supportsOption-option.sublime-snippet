@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[supportsOption(${1:option})]]></content>
+    <tabTrigger>supportsOption(option)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QImageIOHandler</description>
+</snippet>

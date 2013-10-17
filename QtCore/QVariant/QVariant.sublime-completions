@@ -1,0 +1,26 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QVariant", "contents": "QtCore.QVariant" },
+		{ "trigger": "QVariant.Invalid", "contents": "QtCore.QVariant.Invalid" },
+		{ "trigger": "QVariant.BitArray", "contents": "QtCore.QVariant.BitArray" },
+		{ "trigger": "QVariant.Bitmap", "contents": "QtCore.QVariant.Bitmap" },
+		{ "trigger": "QVariant.Bool", "contents": "QtCore.QVariant.Bool" },
+		{ "trigger": "QVariant.UserType", "contents": "QtCore.QVariant.UserType" },
+		{ "trigger": "QVariant()", "contents": "QtCore.QVariant()" },
+		{ "trigger": "QVariant(l)", "contents": "QtCore.QVariant(${1:l})" },
+		{ "trigger": "QVariant(regExp)", "contents": "QtCore.QVariant(${1:regExp})" },
+		{ "trigger": "QVariant(val)", "contents": "QtCore.QVariant(${1:val})" },
+		{ "trigger": "QVariant(color)", "contents": "QtCore.QVariant(${1:color})" },
+		{ "trigger": "QVariant(type)", "contents": "QtCore.QVariant(${1:type})" },
+		{ "trigger": "QVariant(typeOrUserType, copy)", "contents": "QtCore.QVariant(${1:typeOrUserType}, ${2:copy})" },
+		{ "trigger": "QVariant(p)", "contents": "QtCore.QVariant(${1:p})" },
+		{ "trigger": "QVariant(s)", "contents": "QtCore.QVariant(${1:s})" },
+		{ "trigger": "QVariant(c)", "contents": "QtCore.QVariant(${1:c})" },
+		{ "trigger": "QVariant(QString, val)", "contents": "QtCore.QVariant(${1:QString}, ${2:val})" },
+		{ "trigger": "QVariant.fromValue(value)", "contents": "QtCore.QVariant.fromValue(${1:value})" },
+		{ "trigger": "QVariant.nameToType(name)", "contents": "QtCore.QVariant.nameToType(${1:name})" }
+	]
+}

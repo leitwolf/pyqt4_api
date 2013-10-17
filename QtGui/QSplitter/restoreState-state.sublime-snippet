@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[restoreState(${1:state})]]></content>
+    <tabTrigger>restoreState(state)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSplitter</description>
+</snippet>

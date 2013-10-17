@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[pop_front()]]></content>
+    <tabTrigger>pop_front()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QList</description>
+</snippet>

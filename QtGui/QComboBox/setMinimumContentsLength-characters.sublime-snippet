@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setMinimumContentsLength(${1:characters})]]></content>
+    <tabTrigger>setMinimumContentsLength(characters)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QComboBox</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[showFullScreen()]]></content>
+    <tabTrigger>showFullScreen()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QWidget(Slot)</description>
+</snippet>

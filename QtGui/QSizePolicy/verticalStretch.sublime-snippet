@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[verticalStretch()]]></content>
+    <tabTrigger>verticalStretch()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSizePolicy</description>
+</snippet>

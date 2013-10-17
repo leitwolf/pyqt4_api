@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[commitData(${1:manager})]]></content>
+    <tabTrigger>commitData(manager)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QApplication</description>
+</snippet>

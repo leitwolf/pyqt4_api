@@ -1,0 +1,10 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QWheelEvent", "contents": "QtGui.QWheelEvent" },
+		{ "trigger": "QWheelEvent(pos, delta, buttons, modifiers, orient)", "contents": "QtGui.QWheelEvent(${1:pos}, ${2:delta}, ${3:buttons}, ${4:modifiers}, ${5:orient})" },
+		{ "trigger": "QWheelEvent(pos, globalPos, delta, buttons, modifiers, orient)", "contents": "QtGui.QWheelEvent(${1:pos}, ${2:globalPos}, ${3:delta}, ${4:buttons}, ${5:modifiers}, ${6:orient})" }
+	]
+}

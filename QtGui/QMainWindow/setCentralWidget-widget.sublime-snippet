@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setCentralWidget(${1:widget})]]></content>
+    <tabTrigger>setCentralWidget(widget)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMainWindow</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[toggled(${1:on})]]></content>
+    <tabTrigger>toggled(on)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QGroupBox(Signal)</description>
+</snippet>

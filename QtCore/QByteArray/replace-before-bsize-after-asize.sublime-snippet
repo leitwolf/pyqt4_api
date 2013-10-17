@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[replace(${1:before}, ${2:bsize}, ${3:after}, ${4:asize})]]></content>
+    <tabTrigger>replace(before, bsize, after, asize)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QByteArray</description>
+</snippet>

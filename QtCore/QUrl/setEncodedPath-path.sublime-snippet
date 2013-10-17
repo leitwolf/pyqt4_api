@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setEncodedPath(${1:path})]]></content>
+    <tabTrigger>setEncodedPath(path)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QUrl</description>
+</snippet>

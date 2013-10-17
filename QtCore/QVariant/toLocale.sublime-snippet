@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[toLocale()]]></content>
+    <tabTrigger>toLocale()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QVariant</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setDate(${1:date})]]></content>
+    <tabTrigger>setDate(date)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDateTimeEdit(Slot)</description>
+</snippet>

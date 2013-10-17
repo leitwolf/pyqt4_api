@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[hasFragment()]]></content>
+    <tabTrigger>hasFragment()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QUrl</description>
+</snippet>

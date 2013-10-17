@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[columnResized(${1:column}, ${2:oldSize}, ${3:newSize})]]></content>
+    <tabTrigger>columnResized(column, oldSize, newSize)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTreeView(Slot)</description>
+</snippet>

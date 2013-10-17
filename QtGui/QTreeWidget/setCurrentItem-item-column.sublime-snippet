@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setCurrentItem(${1:item}, ${2:column})]]></content>
+    <tabTrigger>setCurrentItem(item, column)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTreeWidget</description>
+</snippet>

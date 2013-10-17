@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setFillRule(${1:fillRule})]]></content>
+    <tabTrigger>setFillRule(fillRule)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainterPath</description>
+</snippet>

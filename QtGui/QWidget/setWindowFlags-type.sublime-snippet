@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setWindowFlags(${1:type})]]></content>
+    <tabTrigger>setWindowFlags(type)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QWidget</description>
+</snippet>

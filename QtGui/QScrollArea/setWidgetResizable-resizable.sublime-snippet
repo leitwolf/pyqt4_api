@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setWidgetResizable(${1:resizable})]]></content>
+    <tabTrigger>setWidgetResizable(resizable)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QScrollArea</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[append(${1:ba})]]></content>
+    <tabTrigger>append(ba)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QString</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setBoundingRect(${1:r})]]></content>
+    <tabTrigger>setBoundingRect(r)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPicture</description>
+</snippet>

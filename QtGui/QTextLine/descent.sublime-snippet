@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[descent()]]></content>
+    <tabTrigger>descent()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextLine</description>
+</snippet>

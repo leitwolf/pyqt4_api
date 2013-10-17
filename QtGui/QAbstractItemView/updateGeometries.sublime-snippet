@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[updateGeometries()]]></content>
+    <tabTrigger>updateGeometries()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractItemView(Slot)</description>
+</snippet>

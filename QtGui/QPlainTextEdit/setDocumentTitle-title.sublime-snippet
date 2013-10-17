@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setDocumentTitle(${1:title})]]></content>
+    <tabTrigger>setDocumentTitle(title)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPlainTextEdit</description>
+</snippet>

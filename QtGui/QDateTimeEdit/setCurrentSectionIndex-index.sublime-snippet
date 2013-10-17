@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setCurrentSectionIndex(${1:index})]]></content>
+    <tabTrigger>setCurrentSectionIndex(index)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDateTimeEdit</description>
+</snippet>

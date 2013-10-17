@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[fixup(${1:input})]]></content>
+    <tabTrigger>fixup(input)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QValidator</description>
+</snippet>

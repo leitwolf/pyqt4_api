@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[toLongLong(${1:ok}, ${2:base})]]></content>
+    <tabTrigger>toLongLong(ok, base)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QByteArray</description>
+</snippet>

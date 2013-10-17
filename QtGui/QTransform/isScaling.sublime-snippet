@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[isScaling()]]></content>
+    <tabTrigger>isScaling()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTransform</description>
+</snippet>

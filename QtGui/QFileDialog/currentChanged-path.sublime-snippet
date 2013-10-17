@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[currentChanged(${1:path})]]></content>
+    <tabTrigger>currentChanged(path)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFileDialog(Signal)</description>
+</snippet>

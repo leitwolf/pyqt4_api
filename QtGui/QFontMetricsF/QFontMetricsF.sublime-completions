@@ -1,0 +1,12 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QFontMetricsF", "contents": "QtGui.QFontMetricsF" },
+		{ "trigger": "QFontMetricsF(font)", "contents": "QtGui.QFontMetricsF(${1:font})" },
+		{ "trigger": "QFontMetricsF(font, paintdevice)", "contents": "QtGui.QFontMetricsF(${1:font}, ${2:paintdevice})" },
+		{ "trigger": "QFontMetricsF(fontMetrics)", "contents": "QtGui.QFontMetricsF(${1:fontMetrics})" },
+		{ "trigger": "QFontMetricsF(fm)", "contents": "QtGui.QFontMetricsF(${1:fm})" }
+	]
+}

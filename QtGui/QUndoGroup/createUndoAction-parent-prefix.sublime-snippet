@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[createUndoAction(${1:parent}, ${2:prefix})]]></content>
+    <tabTrigger>createUndoAction(parent, prefix)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QUndoGroup</description>
+</snippet>

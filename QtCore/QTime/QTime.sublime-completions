@@ -1,0 +1,13 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QTime", "contents": "QtCore.QTime" },
+		{ "trigger": "QTime()", "contents": "QtCore.QTime()" },
+		{ "trigger": "QTime(h, m, s, ms)", "contents": "QtCore.QTime(${1:h}, ${2:m}, ${3:s}, ${4:ms})" },
+		{ "trigger": "QTime.currentTime()", "contents": "QtCore.QTime.currentTime()" },
+		{ "trigger": "QTime.fromString(string, format)", "contents": "QtCore.QTime.fromString(${1:string}, ${2:format})" },
+		{ "trigger": "QTime.isValid(h, m, s, ms)", "contents": "QtCore.QTime.isValid(${1:h}, ${2:m}, ${3:s}, ${4:ms})" }
+	]
+}

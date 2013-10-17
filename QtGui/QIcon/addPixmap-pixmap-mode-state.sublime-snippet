@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[addPixmap(${1:pixmap}, ${2:mode}, ${3:state})]]></content>
+    <tabTrigger>addPixmap(pixmap, mode, state)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QIcon</description>
+</snippet>

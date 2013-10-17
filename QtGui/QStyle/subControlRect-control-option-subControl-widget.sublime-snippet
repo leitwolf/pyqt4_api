@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[subControlRect(${1:control}, ${2:option}, ${3:subControl}, ${4:widget})]]></content>
+    <tabTrigger>subControlRect(control, option, subControl, widget)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStyle</description>
+</snippet>

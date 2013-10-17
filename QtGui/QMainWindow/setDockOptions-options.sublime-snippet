@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setDockOptions(${1:options})]]></content>
+    <tabTrigger>setDockOptions(options)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMainWindow</description>
+</snippet>

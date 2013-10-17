@@ -1,0 +1,14 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QImageWriter", "contents": "QtGui.QImageWriter" },
+		{ "trigger": "QImageWriter.DeviceError", "contents": "QtGui.QImageWriter.DeviceError" },
+		{ "trigger": "QImageWriter.UnsupportedFormatError", "contents": "QtGui.QImageWriter.UnsupportedFormatError" },
+		{ "trigger": "QImageWriter.UnknownError", "contents": "QtGui.QImageWriter.UnknownError" },
+		{ "trigger": "QImageWriter()", "contents": "QtGui.QImageWriter()" },
+		{ "trigger": "QImageWriter(device, format)", "contents": "QtGui.QImageWriter(${1:device}, ${2:format})" },
+		{ "trigger": "QImageWriter(fileName, format)", "contents": "QtGui.QImageWriter(${1:fileName}, ${2:format})" }
+	]
+}

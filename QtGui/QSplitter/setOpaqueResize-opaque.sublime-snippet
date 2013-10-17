@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setOpaqueResize(${1:opaque})]]></content>
+    <tabTrigger>setOpaqueResize(opaque)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSplitter</description>
+</snippet>

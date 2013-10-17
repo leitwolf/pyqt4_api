@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[scroll(${1:dx}, ${2:dy}, ${3:x}, ${4:y}, ${5:width}, ${6:height}, ${7:exposed})]]></content>
+    <tabTrigger>scroll(dx, dy, x, y, width, height, exposed)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPixmap</description>
+</snippet>

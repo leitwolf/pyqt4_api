@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[itemAt(${1:index})]]></content>
+    <tabTrigger>itemAt(index)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLayout</description>
+</snippet>

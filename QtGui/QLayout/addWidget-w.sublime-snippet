@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[addWidget(${1:w})]]></content>
+    <tabTrigger>addWidget(w)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLayout</description>
+</snippet>

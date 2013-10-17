@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setInputMask(${1:inputMask})]]></content>
+    <tabTrigger>setInputMask(inputMask)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLineEdit</description>
+</snippet>

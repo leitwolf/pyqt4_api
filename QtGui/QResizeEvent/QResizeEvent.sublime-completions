@@ -1,0 +1,9 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QResizeEvent", "contents": "QtGui.QResizeEvent" },
+		{ "trigger": "QResizeEvent(size, oldSize)", "contents": "QtGui.QResizeEvent(${1:size}, ${2:oldSize})" }
+	]
+}

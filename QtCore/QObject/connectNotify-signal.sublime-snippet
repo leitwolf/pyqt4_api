@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[connectNotify(${1:signal})]]></content>
+    <tabTrigger>connectNotify(signal)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QObject</description>
+</snippet>

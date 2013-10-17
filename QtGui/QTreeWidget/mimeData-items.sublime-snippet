@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[mimeData(${1:items})]]></content>
+    <tabTrigger>mimeData(items)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTreeWidget</description>
+</snippet>

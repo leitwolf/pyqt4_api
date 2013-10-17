@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setContextMenuPolicy(${1:policy})]]></content>
+    <tabTrigger>setContextMenuPolicy(policy)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QWidget</description>
+</snippet>

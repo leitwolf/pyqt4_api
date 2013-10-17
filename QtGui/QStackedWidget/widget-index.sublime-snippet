@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[widget(${1:index})]]></content>
+    <tabTrigger>widget(index)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStackedWidget</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setBackgroundMode(${1:mode})]]></content>
+    <tabTrigger>setBackgroundMode(mode)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

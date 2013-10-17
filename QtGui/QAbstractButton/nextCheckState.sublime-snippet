@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[nextCheckState()]]></content>
+    <tabTrigger>nextCheckState()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractButton</description>
+</snippet>

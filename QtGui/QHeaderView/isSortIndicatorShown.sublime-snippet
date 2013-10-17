@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[isSortIndicatorShown()]]></content>
+    <tabTrigger>isSortIndicatorShown()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QHeaderView</description>
+</snippet>

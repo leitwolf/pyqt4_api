@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[addDockWidget(${1:area}, ${2:dockwidget})]]></content>
+    <tabTrigger>addDockWidget(area, dockwidget)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMainWindow</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[sectionDoubleClicked(${1:logicalIndex})]]></content>
+    <tabTrigger>sectionDoubleClicked(logicalIndex)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QHeaderView(Signal)</description>
+</snippet>

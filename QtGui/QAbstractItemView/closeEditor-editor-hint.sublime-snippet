@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[closeEditor(${1:editor}, ${2:hint})]]></content>
+    <tabTrigger>closeEditor(editor, hint)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractItemView(Slot)</description>
+</snippet>

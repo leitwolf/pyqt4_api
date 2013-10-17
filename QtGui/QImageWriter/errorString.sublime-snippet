@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[errorString()]]></content>
+    <tabTrigger>errorString()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QImageWriter</description>
+</snippet>

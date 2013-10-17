@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[highlighted(${1:text})]]></content>
+    <tabTrigger>highlighted(text)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QComboBox(Signal)</description>
+</snippet>

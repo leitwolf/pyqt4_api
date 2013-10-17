@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setPoints(${1:nPoints}, ${2:points})]]></content>
+    <tabTrigger>setPoints(nPoints, points)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPolygon</description>
+</snippet>

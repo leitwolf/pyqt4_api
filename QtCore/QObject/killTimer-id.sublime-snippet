@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[killTimer(${1:id})]]></content>
+    <tabTrigger>killTimer(id)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QObject</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setBrushOrigin(${1:position})]]></content>
+    <tabTrigger>setBrushOrigin(position)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

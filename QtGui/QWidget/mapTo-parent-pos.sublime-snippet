@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[mapTo(${1:parent}, ${2:pos})]]></content>
+    <tabTrigger>mapTo(parent, pos)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QWidget</description>
+</snippet>

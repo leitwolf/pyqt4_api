@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setMatrix(${1:m11}, ${2:m12}, ${3:m13}, ${4:m21}, ${5:m22}, ${6:m23}, ${7:m31}, ${8:m32}, ${9:m33})]]></content>
+    <tabTrigger>setMatrix(m11, m12, m13, m21, m22, m23, m31, m32, m33)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTransform</description>
+</snippet>

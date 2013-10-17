@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[data(${1:column}, ${2:role})]]></content>
+    <tabTrigger>data(column, role)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTreeWidgetItem</description>
+</snippet>

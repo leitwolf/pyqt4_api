@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setBrush(${1:style})]]></content>
+    <tabTrigger>setBrush(style)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

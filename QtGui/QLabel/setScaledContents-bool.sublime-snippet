@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setScaledContents(${1:bool})]]></content>
+    <tabTrigger>setScaledContents(bool)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLabel</description>
+</snippet>

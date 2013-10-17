@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setColorGroup(${1:cg}, ${2:windowText}, ${3:button}, ${4:light}, ${5:dark}, ${6:mid}, ${7:text}, ${8:bright_text}, ${9:base}, ${10:window})]]></content>
+    <tabTrigger>setColorGroup(cg, windowText, button, light, dark, mid, text, bright_text, base, window)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPalette</description>
+</snippet>

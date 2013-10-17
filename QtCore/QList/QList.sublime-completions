@@ -1,0 +1,11 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QList", "contents": "QtCore.QList" },
+		{ "trigger": "QList()", "contents": "QtCore.QList()" },
+		{ "trigger": "QList(other)", "contents": "QtCore.QList(${1:other})" },
+		{ "trigger": "QList(args)", "contents": "QtCore.QList(${1:args})" }
+	]
+}

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setActionGroup(${1:group})]]></content>
+    <tabTrigger>setActionGroup(group)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAction</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[spread()]]></content>
+    <tabTrigger>spread()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QGradient</description>
+</snippet>

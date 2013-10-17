@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setPort(${1:port})]]></content>
+    <tabTrigger>setPort(port)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QUrl</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setMask(${1:mask})]]></content>
+    <tabTrigger>setMask(mask)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPixmap</description>
+</snippet>

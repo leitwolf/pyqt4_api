@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[eventFilter(${1:watched}, ${2:event})]]></content>
+    <tabTrigger>eventFilter(watched, event)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QObject</description>
+</snippet>

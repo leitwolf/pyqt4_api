@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[frameRect()]]></content>
+    <tabTrigger>frameRect()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFrame</description>
+</snippet>

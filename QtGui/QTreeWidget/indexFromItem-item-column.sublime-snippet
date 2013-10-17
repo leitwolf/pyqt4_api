@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[indexFromItem(${1:item}, ${2:column})]]></content>
+    <tabTrigger>indexFromItem(item, column)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTreeWidget</description>
+</snippet>

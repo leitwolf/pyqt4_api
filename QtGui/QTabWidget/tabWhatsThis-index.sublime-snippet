@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[tabWhatsThis(${1:index})]]></content>
+    <tabTrigger>tabWhatsThis(index)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTabWidget</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setAutoReset(${1:reset})]]></content>
+    <tabTrigger>setAutoReset(reset)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QProgressDialog</description>
+</snippet>

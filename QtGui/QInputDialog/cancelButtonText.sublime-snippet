@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[cancelButtonText()]]></content>
+    <tabTrigger>cancelButtonText()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QInputDialog</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[drawItemText(${1:painter}, ${2:rectangle}, ${3:alignment}, ${4:palette}, ${5:enabled}, ${6:text}, ${7:textRole})]]></content>
+    <tabTrigger>drawItemText(painter, rectangle, alignment, palette, enabled, text, textRole)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStyle</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setContext(${1:context})]]></content>
+    <tabTrigger>setContext(context)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QShortcut</description>
+</snippet>

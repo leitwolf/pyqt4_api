@@ -1,0 +1,9 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QIconDragEvent", "contents": "QtGui.QIconDragEvent" },
+		{ "trigger": "QIconDragEvent()", "contents": "QtGui.QIconDragEvent()" }
+	]
+}

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[userData()]]></content>
+    <tabTrigger>userData()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextBlock</description>
+</snippet>

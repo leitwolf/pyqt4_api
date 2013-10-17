@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[invisibleRootItem()]]></content>
+    <tabTrigger>invisibleRootItem()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTreeWidget</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[addYears(${1:nyears})]]></content>
+    <tabTrigger>addYears(nyears)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDate</description>
+</snippet>

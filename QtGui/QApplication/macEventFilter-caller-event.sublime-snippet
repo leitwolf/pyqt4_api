@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[macEventFilter(${1:caller}, ${2:event})]]></content>
+    <tabTrigger>macEventFilter(caller, event)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QApplication</description>
+</snippet>

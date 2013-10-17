@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[fontInfo()]]></content>
+    <tabTrigger>fontInfo()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

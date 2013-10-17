@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[isAnimated()]]></content>
+    <tabTrigger>isAnimated()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMainWindow</description>
+</snippet>

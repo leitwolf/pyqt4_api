@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[tightBoundingRect(${1:text})]]></content>
+    <tabTrigger>tightBoundingRect(text)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFontMetrics</description>
+</snippet>

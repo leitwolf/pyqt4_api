@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[insert(${1:i}, ${2:value})]]></content>
+    <tabTrigger>insert(i, value)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QList</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[blockBoundingRect(${1:block})]]></content>
+    <tabTrigger>blockBoundingRect(block)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPlainTextEdit</description>
+</snippet>

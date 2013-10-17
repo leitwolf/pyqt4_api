@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setTextAlignment(${1:column}, ${2:alignment})]]></content>
+    <tabTrigger>setTextAlignment(column, alignment)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTreeWidgetItem</description>
+</snippet>

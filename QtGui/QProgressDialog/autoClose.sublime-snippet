@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[autoClose()]]></content>
+    <tabTrigger>autoClose()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QProgressDialog</description>
+</snippet>

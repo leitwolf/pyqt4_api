@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[drawPixmap(${1:point}, ${2:pixmap}, ${3:source})]]></content>
+    <tabTrigger>drawPixmap(point, pixmap, source)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[x11Info()]]></content>
+    <tabTrigger>x11Info()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QWidget</description>
+</snippet>

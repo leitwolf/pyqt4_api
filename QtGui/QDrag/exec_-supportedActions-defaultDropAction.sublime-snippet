@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[exec_(${1:supportedActions}, ${2:defaultDropAction})]]></content>
+    <tabTrigger>exec_(supportedActions, defaultDropAction)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDrag</description>
+</snippet>

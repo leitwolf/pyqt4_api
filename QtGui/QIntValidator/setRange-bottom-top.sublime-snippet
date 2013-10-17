@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setRange(${1:bottom}, ${2:top})]]></content>
+    <tabTrigger>setRange(bottom, top)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QIntValidator</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[icon()]]></content>
+    <tabTrigger>icon()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMenu</description>
+</snippet>

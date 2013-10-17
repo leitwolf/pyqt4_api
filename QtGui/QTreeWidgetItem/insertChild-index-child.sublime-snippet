@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[insertChild(${1:index}, ${2:child})]]></content>
+    <tabTrigger>insertChild(index, child)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTreeWidgetItem</description>
+</snippet>

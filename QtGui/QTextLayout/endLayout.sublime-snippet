@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[endLayout()]]></content>
+    <tabTrigger>endLayout()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextLayout</description>
+</snippet>

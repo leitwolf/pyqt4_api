@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setSelectionRectVisible(${1:show})]]></content>
+    <tabTrigger>setSelectionRectVisible(show)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QListView</description>
+</snippet>

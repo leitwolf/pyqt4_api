@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[rowCount()]]></content>
+    <tabTrigger>rowCount()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFormLayout</description>
+</snippet>

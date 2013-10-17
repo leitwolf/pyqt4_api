@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[typeName()]]></content>
+    <tabTrigger>typeName()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QVariant</description>
+</snippet>

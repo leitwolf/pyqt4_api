@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[toPercentEncoding(${1:exclude}, ${2:percent})]]></content>
+    <tabTrigger>toPercentEncoding(exclude, percent)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QByteArray</description>
+</snippet>

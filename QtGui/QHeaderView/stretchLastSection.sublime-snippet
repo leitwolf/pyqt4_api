@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[stretchLastSection()]]></content>
+    <tabTrigger>stretchLastSection()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QHeaderView</description>
+</snippet>

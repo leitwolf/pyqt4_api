@@ -1,0 +1,13 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QVector2D", "contents": "QtGui.QVector2D" },
+		{ "trigger": "QVector2D()", "contents": "QtGui.QVector2D()" },
+		{ "trigger": "QVector2D(xpos, ypos)", "contents": "QtGui.QVector2D(${1:xpos}, ${2:ypos})" },
+		{ "trigger": "QVector2D(point)", "contents": "QtGui.QVector2D(${1:point})" },
+		{ "trigger": "QVector2D(vector)", "contents": "QtGui.QVector2D(${1:vector})" },
+		{ "trigger": "QVector2D.dotProduct(v1, v2)", "contents": "QtGui.QVector2D.dotProduct(${1:v1}, ${2:v2})" }
+	]
+}

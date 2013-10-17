@@ -1,0 +1,9 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QSpacerItem", "contents": "QtGui.QSpacerItem" },
+		{ "trigger": "QSpacerItem(w, h, hPolicy, vPolicy)", "contents": "QtGui.QSpacerItem(${1:w}, ${2:h}, ${3:hPolicy}, ${4:vPolicy})" }
+	]
+}

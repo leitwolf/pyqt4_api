@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[erase(${1:pos})]]></content>
+    <tabTrigger>erase(pos)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QList</description>
+</snippet>

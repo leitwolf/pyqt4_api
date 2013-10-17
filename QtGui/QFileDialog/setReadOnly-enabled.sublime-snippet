@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setReadOnly(${1:enabled})]]></content>
+    <tabTrigger>setReadOnly(enabled)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFileDialog</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[takeFirst()]]></content>
+    <tabTrigger>takeFirst()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QList</description>
+</snippet>

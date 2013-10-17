@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[overlinePos()]]></content>
+    <tabTrigger>overlinePos()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFontMetricsF</description>
+</snippet>

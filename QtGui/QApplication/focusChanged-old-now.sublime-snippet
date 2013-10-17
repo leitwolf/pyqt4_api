@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[focusChanged(${1:old}, ${2:now})]]></content>
+    <tabTrigger>focusChanged(old, now)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QApplication(Signal)</description>
+</snippet>

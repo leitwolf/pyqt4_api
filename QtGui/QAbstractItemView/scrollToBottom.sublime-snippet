@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[scrollToBottom()]]></content>
+    <tabTrigger>scrollToBottom()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractItemView(Slot)</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setFeatures(${1:features})]]></content>
+    <tabTrigger>setFeatures(features)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDockWidget</description>
+</snippet>

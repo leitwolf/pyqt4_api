@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[size(${1:flags}, ${2:text}, ${3:tabStops}, ${4:tabArray})]]></content>
+    <tabTrigger>size(flags, text, tabStops, tabArray)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFontMetricsF</description>
+</snippet>

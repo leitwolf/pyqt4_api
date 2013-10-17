@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[rawMode()]]></content>
+    <tabTrigger>rawMode()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFontInfo</description>
+</snippet>

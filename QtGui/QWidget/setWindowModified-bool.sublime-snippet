@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setWindowModified(${1:bool})]]></content>
+    <tabTrigger>setWindowModified(bool)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QWidget(Slot)</description>
+</snippet>

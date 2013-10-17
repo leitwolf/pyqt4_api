@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[wasCanceled()]]></content>
+    <tabTrigger>wasCanceled()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QProgressDialog</description>
+</snippet>

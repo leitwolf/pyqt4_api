@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[textInteractionFlags()]]></content>
+    <tabTrigger>textInteractionFlags()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPlainTextEdit</description>
+</snippet>

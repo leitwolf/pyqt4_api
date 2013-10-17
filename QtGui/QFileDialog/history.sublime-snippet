@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[history()]]></content>
+    <tabTrigger>history()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFileDialog</description>
+</snippet>

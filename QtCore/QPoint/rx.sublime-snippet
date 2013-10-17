@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[rx()]]></content>
+    <tabTrigger>rx()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPoint</description>
+</snippet>

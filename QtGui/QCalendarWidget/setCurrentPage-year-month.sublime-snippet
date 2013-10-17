@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setCurrentPage(${1:year}, ${2:month})]]></content>
+    <tabTrigger>setCurrentPage(year, month)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QCalendarWidget(Slot)</description>
+</snippet>

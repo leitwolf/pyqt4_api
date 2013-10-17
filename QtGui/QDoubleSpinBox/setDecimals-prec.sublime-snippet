@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setDecimals(${1:prec})]]></content>
+    <tabTrigger>setDecimals(prec)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDoubleSpinBox</description>
+</snippet>

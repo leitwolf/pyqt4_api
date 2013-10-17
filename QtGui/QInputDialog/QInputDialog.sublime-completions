@@ -1,0 +1,18 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QInputDialog", "contents": "QtGui.QInputDialog" },
+		{ "trigger": "QInputDialog.NoButtons", "contents": "QtGui.QInputDialog.NoButtons" },
+		{ "trigger": "QInputDialog.UseListViewForComboBoxItems", "contents": "QtGui.QInputDialog.UseListViewForComboBoxItems" },
+		{ "trigger": "QInputDialog.TextInput", "contents": "QtGui.QInputDialog.TextInput" },
+		{ "trigger": "QInputDialog.IntInput", "contents": "QtGui.QInputDialog.IntInput" },
+		{ "trigger": "QInputDialog.DoubleInput", "contents": "QtGui.QInputDialog.DoubleInput" },
+		{ "trigger": "QInputDialog(parent, flags)", "contents": "QtGui.QInputDialog(${1:parent}, ${2:flags})" },
+		{ "trigger": "QInputDialog.getDouble(parent, title, label, value, min, max, decimals, ok, flags)", "contents": "QtGui.QInputDialog.getDouble(${1:parent}, ${2:title}, ${3:label}, ${4:value}, ${5:min}, ${6:max}, ${7:decimals}, ${8:ok}, ${9:flags})" },
+		{ "trigger": "QInputDialog.getInt(parent, title, label, value, min, max, step, ok, flags)", "contents": "QtGui.QInputDialog.getInt(${1:parent}, ${2:title}, ${3:label}, ${4:value}, ${5:min}, ${6:max}, ${7:step}, ${8:ok}, ${9:flags})" },
+		{ "trigger": "QInputDialog.getItem(parent, title, label, items, current, editable, ok, flags, inputMethodHints)", "contents": "QtGui.QInputDialog.getItem(${1:parent}, ${2:title}, ${3:label}, ${4:items}, ${5:current}, ${6:editable}, ${7:ok}, ${8:flags}, ${9:inputMethodHints})" },
+		{ "trigger": "QInputDialog.getText(parent, title, label, mode, text, ok, flags, inputMethodHints)", "contents": "QtGui.QInputDialog.getText(${1:parent}, ${2:title}, ${3:label}, ${4:mode}, ${5:text}, ${6:ok}, ${7:flags}, ${8:inputMethodHints})" }
+	]
+}

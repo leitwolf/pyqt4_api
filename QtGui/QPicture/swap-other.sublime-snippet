@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[swap(${1:other})]]></content>
+    <tabTrigger>swap(other)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPicture</description>
+</snippet>

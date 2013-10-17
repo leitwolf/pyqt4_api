@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[targetChanged(${1:newTarget})]]></content>
+    <tabTrigger>targetChanged(newTarget)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDrag(Signal)</description>
+</snippet>

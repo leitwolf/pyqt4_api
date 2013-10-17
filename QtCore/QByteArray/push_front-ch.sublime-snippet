@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[push_front(${1:ch})]]></content>
+    <tabTrigger>push_front(ch)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QByteArray</description>
+</snippet>

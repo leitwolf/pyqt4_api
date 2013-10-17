@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[itemInserted(${1:index})]]></content>
+    <tabTrigger>itemInserted(index)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QToolBox</description>
+</snippet>

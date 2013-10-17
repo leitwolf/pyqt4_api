@@ -1,0 +1,25 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QAction", "contents": "QtGui.QAction" },
+		{ "trigger": "QAction.Trigger", "contents": "QtGui.QAction.Trigger" },
+		{ "trigger": "QAction.Hover", "contents": "QtGui.QAction.Hover" },
+		{ "trigger": "QAction.NoRole", "contents": "QtGui.QAction.NoRole" },
+		{ "trigger": "QAction.TextHeuristicRole", "contents": "QtGui.QAction.TextHeuristicRole" },
+		{ "trigger": "QAction.ApplicationSpecificRole", "contents": "QtGui.QAction.ApplicationSpecificRole" },
+		{ "trigger": "QAction.AboutQtRole", "contents": "QtGui.QAction.AboutQtRole" },
+		{ "trigger": "QAction.QuitRole", "contents": "QtGui.QAction.QuitRole" },
+		{ "trigger": "QAction.LowPriority", "contents": "QtGui.QAction.LowPriority" },
+		{ "trigger": "QAction.NormalPriority", "contents": "QtGui.QAction.NormalPriority" },
+		{ "trigger": "QAction.HighPriority", "contents": "QtGui.QAction.HighPriority" },
+		{ "trigger": "QAction.NoSoftKey", "contents": "QtGui.QAction.NoSoftKey" },
+		{ "trigger": "QAction.PositiveSoftKey", "contents": "QtGui.QAction.PositiveSoftKey" },
+		{ "trigger": "QAction.NegativeSoftKey", "contents": "QtGui.QAction.NegativeSoftKey" },
+		{ "trigger": "QAction.SelectSoftKey", "contents": "QtGui.QAction.SelectSoftKey" },
+		{ "trigger": "QAction(parent)", "contents": "QtGui.QAction(${1:parent})" },
+		{ "trigger": "QAction(text, parent)", "contents": "QtGui.QAction(${1:text}, ${2:parent})" },
+		{ "trigger": "QAction(icon, text, parent)", "contents": "QtGui.QAction(${1:icon}, ${2:text}, ${3:parent})" }
+	]
+}

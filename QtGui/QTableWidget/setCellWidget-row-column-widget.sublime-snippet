@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setCellWidget(${1:row}, ${2:column}, ${3:widget})]]></content>
+    <tabTrigger>setCellWidget(row, column, widget)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTableWidget</description>
+</snippet>

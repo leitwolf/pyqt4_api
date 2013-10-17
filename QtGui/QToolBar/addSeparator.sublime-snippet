@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[addSeparator()]]></content>
+    <tabTrigger>addSeparator()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QToolBar</description>
+</snippet>

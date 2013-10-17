@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[locale()]]></content>
+    <tabTrigger>locale()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QValidator</description>
+</snippet>

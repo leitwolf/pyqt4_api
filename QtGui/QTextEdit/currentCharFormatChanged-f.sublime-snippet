@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[currentCharFormatChanged(${1:f})]]></content>
+    <tabTrigger>currentCharFormatChanged(f)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextEdit(Signal)</description>
+</snippet>

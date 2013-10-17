@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[mimeData(${1:mode})]]></content>
+    <tabTrigger>mimeData(mode)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QClipboard</description>
+</snippet>

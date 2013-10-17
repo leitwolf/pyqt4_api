@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setTextInteractionFlags(${1:flags})]]></content>
+    <tabTrigger>setTextInteractionFlags(flags)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLabel</description>
+</snippet>

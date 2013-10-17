@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[styleHint(${1:hint}, ${2:option}, ${3:widget}, ${4:returnData})]]></content>
+    <tabTrigger>styleHint(hint, option, widget, returnData)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStyle</description>
+</snippet>

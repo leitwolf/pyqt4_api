@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setPerformanceHint(${1:performanceHint})]]></content>
+    <tabTrigger>setPerformanceHint(performanceHint)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStaticText</description>
+</snippet>

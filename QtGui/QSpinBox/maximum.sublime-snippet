@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[maximum()]]></content>
+    <tabTrigger>maximum()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSpinBox</description>
+</snippet>

@@ -1,0 +1,14 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QFontComboBox", "contents": "QtGui.QFontComboBox" },
+		{ "trigger": "QFontComboBox.AllFonts", "contents": "QtGui.QFontComboBox.AllFonts" },
+		{ "trigger": "QFontComboBox.ScalableFonts", "contents": "QtGui.QFontComboBox.ScalableFonts" },
+		{ "trigger": "QFontComboBox.NonScalableFonts", "contents": "QtGui.QFontComboBox.NonScalableFonts" },
+		{ "trigger": "QFontComboBox.MonospacedFonts", "contents": "QtGui.QFontComboBox.MonospacedFonts" },
+		{ "trigger": "QFontComboBox.ProportionalFonts", "contents": "QtGui.QFontComboBox.ProportionalFonts" },
+		{ "trigger": "QFontComboBox(parent)", "contents": "QtGui.QFontComboBox(${1:parent})" }
+	]
+}

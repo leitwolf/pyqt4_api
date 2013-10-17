@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[device()]]></content>
+    <tabTrigger>device()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QImageIOHandler</description>
+</snippet>

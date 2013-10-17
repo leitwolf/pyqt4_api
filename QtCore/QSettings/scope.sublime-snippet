@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[scope()]]></content>
+    <tabTrigger>scope()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSettings</description>
+</snippet>

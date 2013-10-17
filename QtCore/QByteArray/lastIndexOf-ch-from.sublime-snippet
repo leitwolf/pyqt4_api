@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[lastIndexOf(${1:ch}, ${2:from})]]></content>
+    <tabTrigger>lastIndexOf(ch, from)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QByteArray</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[fillRect(${1:rectangle}, ${2:color})]]></content>
+    <tabTrigger>fillRect(rectangle, color)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[map(${1:x}, ${2:y}, ${3:tx}, ${4:ty})]]></content>
+    <tabTrigger>map(x, y, tx, ty)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTransform</description>
+</snippet>

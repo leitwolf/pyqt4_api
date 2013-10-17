@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[button()]]></content>
+    <tabTrigger>button()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMouseEvent</description>
+</snippet>

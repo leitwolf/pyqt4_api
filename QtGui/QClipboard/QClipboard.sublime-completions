@@ -1,0 +1,11 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QClipboard", "contents": "QtGui.QClipboard" },
+		{ "trigger": "QClipboard.Clipboard", "contents": "QtGui.QClipboard.Clipboard" },
+		{ "trigger": "QClipboard.Selection", "contents": "QtGui.QClipboard.Selection" },
+		{ "trigger": "QClipboard.FindBuffer", "contents": "QtGui.QClipboard.FindBuffer" }
+	]
+}

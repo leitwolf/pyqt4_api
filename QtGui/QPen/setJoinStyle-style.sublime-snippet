@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setJoinStyle(${1:style})]]></content>
+    <tabTrigger>setJoinStyle(style)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPen</description>
+</snippet>

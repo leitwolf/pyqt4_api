@@ -1,0 +1,9 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QStatusTipEvent", "contents": "QtGui.QStatusTipEvent" },
+		{ "trigger": "QStatusTipEvent(tip)", "contents": "QtGui.QStatusTipEvent(${1:tip})" }
+	]
+}

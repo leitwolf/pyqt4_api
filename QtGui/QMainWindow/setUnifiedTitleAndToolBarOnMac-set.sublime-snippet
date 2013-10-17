@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setUnifiedTitleAndToolBarOnMac(${1:set})]]></content>
+    <tabTrigger>setUnifiedTitleAndToolBarOnMac(set)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMainWindow</description>
+</snippet>

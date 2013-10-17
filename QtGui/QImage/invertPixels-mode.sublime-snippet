@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[invertPixels(${1:mode})]]></content>
+    <tabTrigger>invertPixels(mode)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QImage</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[charFormatIndex()]]></content>
+    <tabTrigger>charFormatIndex()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextBlock</description>
+</snippet>

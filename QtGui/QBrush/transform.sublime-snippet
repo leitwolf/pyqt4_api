@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[transform()]]></content>
+    <tabTrigger>transform()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QBrush</description>
+</snippet>

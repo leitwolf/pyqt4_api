@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[split(${1:sep}, ${2:behavior}, ${3:cs})]]></content>
+    <tabTrigger>split(sep, behavior, cs)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QString</description>
+</snippet>

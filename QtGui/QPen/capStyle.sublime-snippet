@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[capStyle()]]></content>
+    <tabTrigger>capStyle()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPen</description>
+</snippet>

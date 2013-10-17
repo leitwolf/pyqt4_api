@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[state()]]></content>
+    <tabTrigger>state()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractItemView</description>
+</snippet>

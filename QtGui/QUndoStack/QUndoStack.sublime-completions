@@ -1,0 +1,9 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QUndoStack", "contents": "QtGui.QUndoStack" },
+		{ "trigger": "QUndoStack(parent)", "contents": "QtGui.QUndoStack(${1:parent})" }
+	]
+}

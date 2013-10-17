@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setIcon(${1:icon})]]></content>
+    <tabTrigger>setIcon(icon)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractButton</description>
+</snippet>

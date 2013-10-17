@@ -1,0 +1,9 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QScrollArea", "contents": "QtGui.QScrollArea" },
+		{ "trigger": "QScrollArea(parent)", "contents": "QtGui.QScrollArea(${1:parent})" }
+	]
+}

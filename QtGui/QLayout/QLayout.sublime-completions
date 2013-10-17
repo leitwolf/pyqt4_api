@@ -1,0 +1,17 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QLayout", "contents": "QtGui.QLayout" },
+		{ "trigger": "QLayout.SetDefaultConstraint", "contents": "QtGui.QLayout.SetDefaultConstraint" },
+		{ "trigger": "QLayout.SetFixedSize", "contents": "QtGui.QLayout.SetFixedSize" },
+		{ "trigger": "QLayout.SetMinimumSize", "contents": "QtGui.QLayout.SetMinimumSize" },
+		{ "trigger": "QLayout.SetMaximumSize", "contents": "QtGui.QLayout.SetMaximumSize" },
+		{ "trigger": "QLayout.SetMinAndMaxSize", "contents": "QtGui.QLayout.SetMinAndMaxSize" },
+		{ "trigger": "QLayout.SetNoConstraint", "contents": "QtGui.QLayout.SetNoConstraint" },
+		{ "trigger": "QLayout(parent)", "contents": "QtGui.QLayout(${1:parent})" },
+		{ "trigger": "QLayout()", "contents": "QtGui.QLayout()" },
+		{ "trigger": "QLayout.closestAcceptableSize(widget, size)", "contents": "QtGui.QLayout.closestAcceptableSize(${1:widget}, ${2:size})" }
+	]
+}

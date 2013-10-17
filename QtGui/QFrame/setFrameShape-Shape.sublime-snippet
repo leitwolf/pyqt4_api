@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setFrameShape(${1:Shape})]]></content>
+    <tabTrigger>setFrameShape(Shape)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFrame</description>
+</snippet>

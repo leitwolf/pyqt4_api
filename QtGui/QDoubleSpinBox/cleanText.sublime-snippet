@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[cleanText()]]></content>
+    <tabTrigger>cleanText()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDoubleSpinBox</description>
+</snippet>

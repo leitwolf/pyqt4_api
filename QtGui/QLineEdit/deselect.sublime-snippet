@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[deselect()]]></content>
+    <tabTrigger>deselect()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLineEdit</description>
+</snippet>

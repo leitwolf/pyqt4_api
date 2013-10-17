@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[shortcuts()]]></content>
+    <tabTrigger>shortcuts()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAction</description>
+</snippet>

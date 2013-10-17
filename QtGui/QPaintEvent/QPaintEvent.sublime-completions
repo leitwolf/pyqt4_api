@@ -1,0 +1,10 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QPaintEvent", "contents": "QtGui.QPaintEvent" },
+		{ "trigger": "QPaintEvent(paintRegion)", "contents": "QtGui.QPaintEvent(${1:paintRegion})" },
+		{ "trigger": "QPaintEvent(paintRect)", "contents": "QtGui.QPaintEvent(${1:paintRect})" }
+	]
+}

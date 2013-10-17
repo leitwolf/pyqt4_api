@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setStatusBar(${1:statusbar})]]></content>
+    <tabTrigger>setStatusBar(statusbar)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMainWindow</description>
+</snippet>

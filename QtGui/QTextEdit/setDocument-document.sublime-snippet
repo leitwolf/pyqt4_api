@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setDocument(${1:document})]]></content>
+    <tabTrigger>setDocument(document)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextEdit</description>
+</snippet>

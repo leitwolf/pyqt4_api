@@ -1,0 +1,10 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QCheckBox", "contents": "QtGui.QCheckBox" },
+		{ "trigger": "QCheckBox(parent)", "contents": "QtGui.QCheckBox(${1:parent})" },
+		{ "trigger": "QCheckBox(text, parent)", "contents": "QtGui.QCheckBox(${1:text}, ${2:parent})" }
+	]
+}

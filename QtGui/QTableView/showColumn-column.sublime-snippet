@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[showColumn(${1:column})]]></content>
+    <tabTrigger>showColumn(column)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTableView(Slot)</description>
+</snippet>

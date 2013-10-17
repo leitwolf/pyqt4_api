@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[overflow()]]></content>
+    <tabTrigger>overflow()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLCDNumber(Signal)</description>
+</snippet>

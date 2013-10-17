@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[toBitArray()]]></content>
+    <tabTrigger>toBitArray()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QVariant</description>
+</snippet>

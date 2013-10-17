@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setFirstDayOfWeek(${1:dayOfWeek})]]></content>
+    <tabTrigger>setFirstDayOfWeek(dayOfWeek)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QCalendarWidget</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[isOpaque()]]></content>
+    <tabTrigger>isOpaque()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QBrush</description>
+</snippet>

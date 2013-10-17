@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[alphaF()]]></content>
+    <tabTrigger>alphaF()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QColor</description>
+</snippet>

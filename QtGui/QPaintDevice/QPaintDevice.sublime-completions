@@ -1,0 +1,19 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QPaintDevice", "contents": "QtGui.QPaintDevice" },
+		{ "trigger": "QPaintDevice.PdmWidth", "contents": "QtGui.QPaintDevice.PdmWidth" },
+		{ "trigger": "QPaintDevice.PdmHeight", "contents": "QtGui.QPaintDevice.PdmHeight" },
+		{ "trigger": "QPaintDevice.PdmWidthMM", "contents": "QtGui.QPaintDevice.PdmWidthMM" },
+		{ "trigger": "QPaintDevice.PdmHeightMM", "contents": "QtGui.QPaintDevice.PdmHeightMM" },
+		{ "trigger": "QPaintDevice.PdmNumColors", "contents": "QtGui.QPaintDevice.PdmNumColors" },
+		{ "trigger": "QPaintDevice.PdmDepth", "contents": "QtGui.QPaintDevice.PdmDepth" },
+		{ "trigger": "QPaintDevice.PdmDpiX", "contents": "QtGui.QPaintDevice.PdmDpiX" },
+		{ "trigger": "QPaintDevice.PdmDpiY", "contents": "QtGui.QPaintDevice.PdmDpiY" },
+		{ "trigger": "QPaintDevice.PdmPhysicalDpiX", "contents": "QtGui.QPaintDevice.PdmPhysicalDpiX" },
+		{ "trigger": "QPaintDevice.PdmPhysicalDpiY", "contents": "QtGui.QPaintDevice.PdmPhysicalDpiY" },
+		{ "trigger": "QPaintDevice()", "contents": "QtGui.QPaintDevice()" }
+	]
+}

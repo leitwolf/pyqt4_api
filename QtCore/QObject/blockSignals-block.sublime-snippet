@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[blockSignals(${1:block})]]></content>
+    <tabTrigger>blockSignals(block)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QObject</description>
+</snippet>

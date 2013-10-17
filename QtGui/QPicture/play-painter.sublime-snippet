@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[play(${1:painter})]]></content>
+    <tabTrigger>play(painter)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPicture</description>
+</snippet>

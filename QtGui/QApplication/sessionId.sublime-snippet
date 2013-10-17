@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[sessionId()]]></content>
+    <tabTrigger>sessionId()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QApplication</description>
+</snippet>

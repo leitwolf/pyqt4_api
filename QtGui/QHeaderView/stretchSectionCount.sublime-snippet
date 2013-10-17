@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[stretchSectionCount()]]></content>
+    <tabTrigger>stretchSectionCount()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QHeaderView</description>
+</snippet>

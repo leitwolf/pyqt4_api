@@ -1,0 +1,10 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QScrollBar", "contents": "QtGui.QScrollBar" },
+		{ "trigger": "QScrollBar(parent)", "contents": "QtGui.QScrollBar(${1:parent})" },
+		{ "trigger": "QScrollBar(orientation, parent)", "contents": "QtGui.QScrollBar(${1:orientation}, ${2:parent})" }
+	]
+}

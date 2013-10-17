@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[endArray()]]></content>
+    <tabTrigger>endArray()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSettings</description>
+</snippet>

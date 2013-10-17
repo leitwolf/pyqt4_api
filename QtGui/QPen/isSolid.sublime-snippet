@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[isSolid()]]></content>
+    <tabTrigger>isSolid()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPen</description>
+</snippet>

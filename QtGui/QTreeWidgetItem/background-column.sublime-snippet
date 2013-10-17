@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[background(${1:column})]]></content>
+    <tabTrigger>background(column)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTreeWidgetItem</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[lightness()]]></content>
+    <tabTrigger>lightness()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QColor</description>
+</snippet>

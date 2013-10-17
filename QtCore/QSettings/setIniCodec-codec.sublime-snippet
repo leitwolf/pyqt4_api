@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setIniCodec(${1:codec})]]></content>
+    <tabTrigger>setIniCodec(codec)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSettings</description>
+</snippet>

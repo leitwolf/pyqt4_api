@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[currentChanged(${1:index})]]></content>
+    <tabTrigger>currentChanged(index)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTabWidget(Signal)</description>
+</snippet>

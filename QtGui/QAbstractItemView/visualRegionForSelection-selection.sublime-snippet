@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[visualRegionForSelection(${1:selection})]]></content>
+    <tabTrigger>visualRegionForSelection(selection)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractItemView</description>
+</snippet>

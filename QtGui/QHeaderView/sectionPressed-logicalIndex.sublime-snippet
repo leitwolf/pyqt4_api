@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[sectionPressed(${1:logicalIndex})]]></content>
+    <tabTrigger>sectionPressed(logicalIndex)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QHeaderView(Signal)</description>
+</snippet>

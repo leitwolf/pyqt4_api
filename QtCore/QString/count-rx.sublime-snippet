@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[count(${1:rx})]]></content>
+    <tabTrigger>count(rx)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QString</description>
+</snippet>

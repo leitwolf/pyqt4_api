@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[normalized(${1:mode}, ${2:version})]]></content>
+    <tabTrigger>normalized(mode, version)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QString</description>
+</snippet>

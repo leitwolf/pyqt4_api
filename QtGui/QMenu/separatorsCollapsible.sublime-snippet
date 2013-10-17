@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[separatorsCollapsible()]]></content>
+    <tabTrigger>separatorsCollapsible()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMenu</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[endsWith(${1:str})]]></content>
+    <tabTrigger>endsWith(str)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QByteArray</description>
+</snippet>

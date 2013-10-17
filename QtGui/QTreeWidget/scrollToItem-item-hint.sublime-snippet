@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[scrollToItem(${1:item}, ${2:hint})]]></content>
+    <tabTrigger>scrollToItem(item, hint)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTreeWidget(Slot)</description>
+</snippet>

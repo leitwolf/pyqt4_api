@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setStops(${1:stopPoints})]]></content>
+    <tabTrigger>setStops(stopPoints)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QGradient</description>
+</snippet>

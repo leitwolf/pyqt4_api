@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[visualIndexAt(${1:position})]]></content>
+    <tabTrigger>visualIndexAt(position)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QHeaderView</description>
+</snippet>

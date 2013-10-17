@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[contentsMargins()]]></content>
+    <tabTrigger>contentsMargins()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLayout</description>
+</snippet>

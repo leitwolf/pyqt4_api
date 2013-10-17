@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[cursorFlashTime]]></content>
+    <tabTrigger>cursorFlashTime</tabTrigger>
+    <scope>source.python</scope>
+    <description>QApplication</description>
+</snippet>

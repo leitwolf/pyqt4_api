@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setTabsClosable(${1:closable})]]></content>
+    <tabTrigger>setTabsClosable(closable)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTabBar</description>
+</snippet>

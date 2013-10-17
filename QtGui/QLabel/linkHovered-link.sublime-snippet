@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[linkHovered(${1:link})]]></content>
+    <tabTrigger>linkHovered(link)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLabel(Signal)</description>
+</snippet>

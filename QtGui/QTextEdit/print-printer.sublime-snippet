@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[print(${1:printer})]]></content>
+    <tabTrigger>print(printer)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextEdit</description>
+</snippet>

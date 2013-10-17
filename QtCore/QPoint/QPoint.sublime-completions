@@ -1,0 +1,10 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QPoint", "contents": "QtCore.QPoint" },
+		{ "trigger": "QPoint()", "contents": "QtCore.QPoint()" },
+		{ "trigger": "QPoint(x, y)", "contents": "QtCore.QPoint(${1:x}, ${2:y})" }
+	]
+}

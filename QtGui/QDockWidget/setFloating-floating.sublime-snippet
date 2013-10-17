@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setFloating(${1:floating})]]></content>
+    <tabTrigger>setFloating(floating)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDockWidget</description>
+</snippet>

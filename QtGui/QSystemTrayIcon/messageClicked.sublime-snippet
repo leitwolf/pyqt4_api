@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[messageClicked()]]></content>
+    <tabTrigger>messageClicked()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSystemTrayIcon(Signal)</description>
+</snippet>

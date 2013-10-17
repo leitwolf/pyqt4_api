@@ -1,0 +1,9 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QHoverEvent", "contents": "QtGui.QHoverEvent" },
+		{ "trigger": "QHoverEvent(type, pos, oldPos)", "contents": "QtGui.QHoverEvent(${1:type}, ${2:pos}, ${3:oldPos})" }
+	]
+}

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[isDown()]]></content>
+    <tabTrigger>isDown()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractButton</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[toUShort(${1:ok}, ${2:base})]]></content>
+    <tabTrigger>toUShort(ok, base)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QByteArray</description>
+</snippet>

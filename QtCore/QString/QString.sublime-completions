@@ -1,0 +1,42 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QString", "contents": "QtCore.QString" },
+		{ "trigger": "QString.NormalizationForm_D", "contents": "QtCore.QString.NormalizationForm_D" },
+		{ "trigger": "QString.NormalizationForm_C", "contents": "QtCore.QString.NormalizationForm_C" },
+		{ "trigger": "QString.NormalizationForm_KD", "contents": "QtCore.QString.NormalizationForm_KD" },
+		{ "trigger": "QString.NormalizationForm_KC", "contents": "QtCore.QString.NormalizationForm_KC" },
+		{ "trigger": "QString.SectionDefault", "contents": "QtCore.QString.SectionDefault" },
+		{ "trigger": "QString.SectionSkipEmpty", "contents": "QtCore.QString.SectionSkipEmpty" },
+		{ "trigger": "QString.SectionIncludeLeadingSep", "contents": "QtCore.QString.SectionIncludeLeadingSep" },
+		{ "trigger": "QString.SectionIncludeTrailingSep", "contents": "QtCore.QString.SectionIncludeTrailingSep" },
+		{ "trigger": "QString.SectionCaseInsensitiveSeps", "contents": "QtCore.QString.SectionCaseInsensitiveSeps" },
+		{ "trigger": "QString.KeepEmptyParts", "contents": "QtCore.QString.KeepEmptyParts" },
+		{ "trigger": "QString.SkipEmptyParts", "contents": "QtCore.QString.SkipEmptyParts" },
+		{ "trigger": "QString()", "contents": "QtCore.QString()" },
+		{ "trigger": "QString(unicode, size)", "contents": "QtCore.QString(${1:unicode}, ${2:size})" },
+		{ "trigger": "QString(unicode)", "contents": "QtCore.QString(${1:unicode})" },
+		{ "trigger": "QString(ch)", "contents": "QtCore.QString(${1:ch})" },
+		{ "trigger": "QString(size, ch)", "contents": "QtCore.QString(${1:size}, ${2:ch})" },
+		{ "trigger": "QString(str)", "contents": "QtCore.QString(${1:str})" },
+		{ "trigger": "QString(other)", "contents": "QtCore.QString(${1:other})" },
+		{ "trigger": "QString(ba)", "contents": "QtCore.QString(${1:ba})" },
+		{ "trigger": "QString.compare(s1, s2, cs)", "contents": "QtCore.QString.compare(${1:s1}, ${2:s2}, ${3:cs})" },
+		{ "trigger": "QString.compare(s1, s2)", "contents": "QtCore.QString.compare(${1:s1}, ${2:s2})" },
+		{ "trigger": "QString.fromAscii(str, size)", "contents": "QtCore.QString.fromAscii(${1:str}, ${2:size})" },
+		{ "trigger": "QString.fromLatin1(str, size)", "contents": "QtCore.QString.fromLatin1(${1:str}, ${2:size})" },
+		{ "trigger": "QString.fromLocal8Bit(str, size)", "contents": "QtCore.QString.fromLocal8Bit(${1:str}, ${2:size})" },
+		{ "trigger": "QString.fromRawData(unicode, size)", "contents": "QtCore.QString.fromRawData(${1:unicode}, ${2:size})" },
+		{ "trigger": "QString.fromStdString(str)", "contents": "QtCore.QString.fromStdString(${1:str})" },
+		{ "trigger": "QString.fromStdWString(str)", "contents": "QtCore.QString.fromStdWString(${1:str})" },
+		{ "trigger": "QString.fromUcs4(unicode, size)", "contents": "QtCore.QString.fromUcs4(${1:unicode}, ${2:size})" },
+		{ "trigger": "QString.fromUtf8(str, size)", "contents": "QtCore.QString.fromUtf8(${1:str}, ${2:size})" },
+		{ "trigger": "QString.fromUtf16(unicode, size)", "contents": "QtCore.QString.fromUtf16(${1:unicode}, ${2:size})" },
+		{ "trigger": "QString.fromWCharArray(string, size)", "contents": "QtCore.QString.fromWCharArray(${1:string}, ${2:size})" },
+		{ "trigger": "QString.localeAwareCompare(s1, s2)", "contents": "QtCore.QString.localeAwareCompare(${1:s1}, ${2:s2})" },
+		{ "trigger": "QString.number(n, base)", "contents": "QtCore.QString.number(${1:n}, ${2:base})" },
+		{ "trigger": "QString.number(n, format, precision)", "contents": "QtCore.QString.number(${1:n}, ${2:format}, ${3:precision})" }
+	]
+}

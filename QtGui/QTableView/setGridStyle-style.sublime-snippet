@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setGridStyle(${1:style})]]></content>
+    <tabTrigger>setGridStyle(style)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTableView</description>
+</snippet>

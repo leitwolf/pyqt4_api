@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[logicalIndexAt(${1:pos})]]></content>
+    <tabTrigger>logicalIndexAt(pos)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QHeaderView</description>
+</snippet>

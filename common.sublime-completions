@@ -1,0 +1,28 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		"PyQt4",
+		"QtGui",
+		"QtCore",
+		{ "trigger": "pyqtSignal(types, name)", "contents": "QtCore.pyqtSignal(${1:types}, ${2:name})" },
+		{ "trigger": "pyqtSlot(types, name, result)", "contents": "QtCore.pyqtSlot(${1:types}, ${2:name}, ${3:result})" },
+		{ "trigger": "pyqtSlot()", "contents": "QtCore.pyqtSlot()" },
+		{ "trigger": "pyqtProperty(type, fget, fset, freset, fdel, doc, designable, scriptable, stored, user, constant, final, notify)", "contents": "QtCore.pyqtProperty(${1:type}, ${2:fget}, ${3:fset}, ${4:freset}, ${5:fdel}, ${6:doc}, ${7:designable}, ${8:scriptable}, ${9:stored}, ${10:user}, ${11:constant}, ${12:final}, ${13:notify})" },
+		{ "trigger": "pyqtProperty(type)", "contents": "QtCore.pyqtProperty(${1:type})" },
+		{ "trigger": "SIGNAL(name)", "contents": "QtCore.SIGNAL(${1:name})" },
+		{ "trigger": "SLOT(name)", "contents": "QtCore.SLOT(${1:name})" },
+		"uic",
+		"uic.widgetPluginPath",
+		{ "trigger": "compileUi(uifile, pyfile, execute, indent, pyqt3_wrapper, from_imports, resource_suffix)", "contents": "uic.compileUi(${1:uifile}, ${2:pyfile}, ${3:execute}, ${4:indent}, ${5:pyqt3_wrapper}, ${6:from_imports}, ${7:resource_suffix})" },
+		{ "trigger": "compileUi(uifile, pyfile)", "contents": "uic.compileUi(${1:uifile}, ${2:pyfile})" },
+		{ "trigger": "compileUiDir(dir, recurse, map, compileUi_args)", "contents": "uic.compileUiDir(${1:dir}, ${2:recurse}, ${3:map}, ${4:compileUi_args})" },
+		{ "trigger": "compileUiDir(dir)", "contents": "uic.compileUiDir(${1:dir})" },
+		{ "trigger": "loadUiType(uifile, from_imports, resource_suffix)", "contents": "uic.loadUiType(${1:uifile}, ${2:from_imports}, ${3:resource_suffix})" },
+		{ "trigger": "loadUiType(uifile)", "contents": "uic.loadUiType(${1:uifile})" },
+		{ "trigger": "loadUi(uifile, baseinstance, package, resource_suffix)", "contents": "uic.loadUi(${1:uifile}, ${2:baseinstance}, ${3:package}, ${4:resource_suffix})" },
+		{ "trigger": "loadUi(uifile)", "contents": "uic.loadUi(${1:uifile})" },
+		{ "trigger": "connect(handler)", "contents": "connect(${1:handler})" }
+	]
+}

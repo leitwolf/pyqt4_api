@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[worldMatrixEnabled()]]></content>
+    <tabTrigger>worldMatrixEnabled()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

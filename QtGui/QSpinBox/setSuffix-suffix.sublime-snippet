@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setSuffix(${1:suffix})]]></content>
+    <tabTrigger>setSuffix(suffix)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSpinBox</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[hiResGlobalX()]]></content>
+    <tabTrigger>hiResGlobalX()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTabletEvent</description>
+</snippet>

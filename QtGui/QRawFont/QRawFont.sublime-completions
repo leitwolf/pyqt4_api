@@ -1,0 +1,15 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QRawFont", "contents": "QtGui.QRawFont" },
+		{ "trigger": "QRawFont.PixelAntialiasing", "contents": "QtGui.QRawFont.PixelAntialiasing" },
+		{ "trigger": "QRawFont.SubPixelAntialiasing", "contents": "QtGui.QRawFont.SubPixelAntialiasing" },
+		{ "trigger": "QRawFont()", "contents": "QtGui.QRawFont()" },
+		{ "trigger": "QRawFont(fileName, pixelSize, hintingPreference)", "contents": "QtGui.QRawFont(${1:fileName}, ${2:pixelSize}, ${3:hintingPreference})" },
+		{ "trigger": "QRawFont(fontData, pixelSize, hintingPreference)", "contents": "QtGui.QRawFont(${1:fontData}, ${2:pixelSize}, ${3:hintingPreference})" },
+		{ "trigger": "QRawFont(other)", "contents": "QtGui.QRawFont(${1:other})" },
+		{ "trigger": "QRawFont.fromFont(font, writingSystem)", "contents": "QtGui.QRawFont.fromFont(${1:font}, ${2:writingSystem})" }
+	]
+}

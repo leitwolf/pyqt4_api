@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[clearSelection()]]></content>
+    <tabTrigger>clearSelection()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractItemView(Slot)</description>
+</snippet>

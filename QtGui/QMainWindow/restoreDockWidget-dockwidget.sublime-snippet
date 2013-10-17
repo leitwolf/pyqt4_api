@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[restoreDockWidget(${1:dockwidget})]]></content>
+    <tabTrigger>restoreDockWidget(dockwidget)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMainWindow</description>
+</snippet>

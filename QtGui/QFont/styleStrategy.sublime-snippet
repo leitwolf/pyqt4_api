@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[styleStrategy()]]></content>
+    <tabTrigger>styleStrategy()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFont</description>
+</snippet>

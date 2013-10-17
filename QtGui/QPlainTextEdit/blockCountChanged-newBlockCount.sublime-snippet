@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[blockCountChanged(${1:newBlockCount})]]></content>
+    <tabTrigger>blockCountChanged(newBlockCount)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPlainTextEdit(Signal)</description>
+</snippet>

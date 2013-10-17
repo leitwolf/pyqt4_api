@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[drawImage(${1:rectangle}, ${2:image})]]></content>
+    <tabTrigger>drawImage(rectangle, image)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

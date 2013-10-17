@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[leftRef(${1:n})]]></content>
+    <tabTrigger>leftRef(n)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QString</description>
+</snippet>

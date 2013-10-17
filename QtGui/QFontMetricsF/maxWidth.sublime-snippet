@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[maxWidth()]]></content>
+    <tabTrigger>maxWidth()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFontMetricsF</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[boundingRect(${1:x}, ${2:y}, ${3:w}, ${4:h}, ${5:flags}, ${6:text})]]></content>
+    <tabTrigger>boundingRect(x, y, w, h, flags, text)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

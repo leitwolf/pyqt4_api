@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[read(${1:in})]]></content>
+    <tabTrigger>read(in)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStandardItem</description>
+</snippet>

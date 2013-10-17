@@ -1,0 +1,37 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QImage", "contents": "QtGui.QImage" },
+		{ "trigger": "QImage.Format_Invalid", "contents": "QtGui.QImage.Format_Invalid" },
+		{ "trigger": "QImage.Format_Mono", "contents": "QtGui.QImage.Format_Mono" },
+		{ "trigger": "QImage.Format_MonoLSB", "contents": "QtGui.QImage.Format_MonoLSB" },
+		{ "trigger": "QImage.Format_Indexed8", "contents": "QtGui.QImage.Format_Indexed8" },
+		{ "trigger": "QImage.Format_RGB32", "contents": "QtGui.QImage.Format_RGB32" },
+		{ "trigger": "QImage.Format_ARGB32", "contents": "QtGui.QImage.Format_ARGB32" },
+		{ "trigger": "QImage.Format_ARGB32_Premultiplied", "contents": "QtGui.QImage.Format_ARGB32_Premultiplied" },
+		{ "trigger": "QImage.Format_RGB16", "contents": "QtGui.QImage.Format_RGB16" },
+		{ "trigger": "QImage.Format_ARGB8565_Premultiplied", "contents": "QtGui.QImage.Format_ARGB8565_Premultiplied" },
+		{ "trigger": "QImage.Format_RGB666", "contents": "QtGui.QImage.Format_RGB666" },
+		{ "trigger": "QImage.Format_ARGB6666_Premultiplied", "contents": "QtGui.QImage.Format_ARGB6666_Premultiplied" },
+		{ "trigger": "QImage.Format_RGB555", "contents": "QtGui.QImage.Format_RGB555" },
+		{ "trigger": "QImage.Format_ARGB8555_Premultiplied", "contents": "QtGui.QImage.Format_ARGB8555_Premultiplied" },
+		{ "trigger": "QImage.Format_RGB888", "contents": "QtGui.QImage.Format_RGB888" },
+		{ "trigger": "QImage.Format_RGB444", "contents": "QtGui.QImage.Format_RGB444" },
+		{ "trigger": "QImage.Format_ARGB4444_Premultiplied", "contents": "QtGui.QImage.Format_ARGB4444_Premultiplied" },
+		{ "trigger": "QImage.InvertRgb", "contents": "QtGui.QImage.InvertRgb" },
+		{ "trigger": "QImage.InvertRgba", "contents": "QtGui.QImage.InvertRgba" },
+		{ "trigger": "QImage()", "contents": "QtGui.QImage()" },
+		{ "trigger": "QImage(size, format)", "contents": "QtGui.QImage(${1:size}, ${2:format})" },
+		{ "trigger": "QImage(width, height, format)", "contents": "QtGui.QImage(${1:width}, ${2:height}, ${3:format})" },
+		{ "trigger": "QImage(data, width, height, format)", "contents": "QtGui.QImage(${1:data}, ${2:width}, ${3:height}, ${4:format})" },
+		{ "trigger": "QImage(data, width, height, bytesPerLine, format)", "contents": "QtGui.QImage(${1:data}, ${2:width}, ${3:height}, ${4:bytesPerLine}, ${5:format})" },
+		{ "trigger": "QImage(xpm)", "contents": "QtGui.QImage(${1:xpm})" },
+		{ "trigger": "QImage(fileName, format)", "contents": "QtGui.QImage(${1:fileName}, ${2:format})" },
+		{ "trigger": "QImage(image)", "contents": "QtGui.QImage(${1:image})" },
+		{ "trigger": "QImage.fromData(data, size, format)", "contents": "QtGui.QImage.fromData(${1:data}, ${2:size}, ${3:format})" },
+		{ "trigger": "QImage.fromData(data, format)", "contents": "QtGui.QImage.fromData(${1:data}, ${2:format})" },
+		{ "trigger": "QImage.trueMatrix(matrix, width, height)", "contents": "QtGui.QImage.trueMatrix(${1:matrix}, ${2:width}, ${3:height})" }
+	]
+}

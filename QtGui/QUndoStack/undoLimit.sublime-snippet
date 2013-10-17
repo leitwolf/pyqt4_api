@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[undoLimit()]]></content>
+    <tabTrigger>undoLimit()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QUndoStack</description>
+</snippet>

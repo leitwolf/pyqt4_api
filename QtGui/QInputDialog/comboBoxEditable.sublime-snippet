@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[comboBoxEditable]]></content>
+    <tabTrigger>comboBoxEditable</tabTrigger>
+    <scope>source.python</scope>
+    <description>QInputDialog</description>
+</snippet>

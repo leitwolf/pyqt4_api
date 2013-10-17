@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[isAutoRepeat()]]></content>
+    <tabTrigger>isAutoRepeat()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QKeyEvent</description>
+</snippet>

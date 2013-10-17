@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[textVisible]]></content>
+    <tabTrigger>textVisible</tabTrigger>
+    <scope>source.python</scope>
+    <description>QProgressBar</description>
+</snippet>

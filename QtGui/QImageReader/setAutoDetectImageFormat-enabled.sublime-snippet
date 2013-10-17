@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setAutoDetectImageFormat(${1:enabled})]]></content>
+    <tabTrigger>setAutoDetectImageFormat(enabled)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QImageReader</description>
+</snippet>

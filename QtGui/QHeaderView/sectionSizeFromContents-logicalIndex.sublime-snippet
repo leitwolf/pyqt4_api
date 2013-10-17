@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[sectionSizeFromContents(${1:logicalIndex})]]></content>
+    <tabTrigger>sectionSizeFromContents(logicalIndex)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QHeaderView</description>
+</snippet>

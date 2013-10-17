@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[nativeScanCode()]]></content>
+    <tabTrigger>nativeScanCode()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QKeyEvent</description>
+</snippet>

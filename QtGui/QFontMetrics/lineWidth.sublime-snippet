@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[lineWidth()]]></content>
+    <tabTrigger>lineWidth()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFontMetrics</description>
+</snippet>

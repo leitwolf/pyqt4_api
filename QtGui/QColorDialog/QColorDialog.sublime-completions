@@ -1,0 +1,19 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QColorDialog", "contents": "QtGui.QColorDialog" },
+		{ "trigger": "QColorDialog.ShowAlphaChannel", "contents": "QtGui.QColorDialog.ShowAlphaChannel" },
+		{ "trigger": "QColorDialog.NoButtons", "contents": "QtGui.QColorDialog.NoButtons" },
+		{ "trigger": "QColorDialog.DontUseNativeDialog", "contents": "QtGui.QColorDialog.DontUseNativeDialog" },
+		{ "trigger": "QColorDialog(parent)", "contents": "QtGui.QColorDialog(${1:parent})" },
+		{ "trigger": "QColorDialog(initial, parent)", "contents": "QtGui.QColorDialog(${1:initial}, ${2:parent})" },
+		{ "trigger": "QColorDialog.customColor(index)", "contents": "QtGui.QColorDialog.customColor(${1:index})" },
+		{ "trigger": "QColorDialog.customCount()", "contents": "QtGui.QColorDialog.customCount()" },
+		{ "trigger": "QColorDialog.getColor(initial, parent, title, options)", "contents": "QtGui.QColorDialog.getColor(${1:initial}, ${2:parent}, ${3:title}, ${4:options})" },
+		{ "trigger": "QColorDialog.getColor(initial, parent)", "contents": "QtGui.QColorDialog.getColor(${1:initial}, ${2:parent})" },
+		{ "trigger": "QColorDialog.setCustomColor(index, color)", "contents": "QtGui.QColorDialog.setCustomColor(${1:index}, ${2:color})" },
+		{ "trigger": "QColorDialog.setStandardColor(index, color)", "contents": "QtGui.QColorDialog.setStandardColor(${1:index}, ${2:color})" }
+	]
+}

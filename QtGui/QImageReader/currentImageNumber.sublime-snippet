@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[currentImageNumber()]]></content>
+    <tabTrigger>currentImageNumber()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QImageReader</description>
+</snippet>

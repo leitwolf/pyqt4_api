@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[displayedSections()]]></content>
+    <tabTrigger>displayedSections()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDateTimeEdit</description>
+</snippet>

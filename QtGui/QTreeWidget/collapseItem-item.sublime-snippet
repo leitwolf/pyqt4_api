@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[collapseItem(${1:item})]]></content>
+    <tabTrigger>collapseItem(item)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTreeWidget(Slot)</description>
+</snippet>

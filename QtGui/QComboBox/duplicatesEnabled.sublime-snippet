@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[duplicatesEnabled()]]></content>
+    <tabTrigger>duplicatesEnabled()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QComboBox</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[map(${1:l})]]></content>
+    <tabTrigger>map(l)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTransform</description>
+</snippet>

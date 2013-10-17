@@ -1,0 +1,31 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QColor", "contents": "QtGui.QColor" },
+		{ "trigger": "QColor.Rgb", "contents": "QtGui.QColor.Rgb" },
+		{ "trigger": "QColor.Hsv", "contents": "QtGui.QColor.Hsv" },
+		{ "trigger": "QColor.Cmyk", "contents": "QtGui.QColor.Cmyk" },
+		{ "trigger": "QColor.Hsl", "contents": "QtGui.QColor.Hsl" },
+		{ "trigger": "QColor.Invalid", "contents": "QtGui.QColor.Invalid" },
+		{ "trigger": "QColor()", "contents": "QtGui.QColor()" },
+		{ "trigger": "QColor(r, g, b, a)", "contents": "QtGui.QColor(${1:r}, ${2:g}, ${3:b}, ${4:a})" },
+		{ "trigger": "QColor(color)", "contents": "QtGui.QColor(${1:color})" },
+		{ "trigger": "QColor(name)", "contents": "QtGui.QColor(${1:name})" },
+		{ "trigger": "QColor.allowX11ColorNames()", "contents": "QtGui.QColor.allowX11ColorNames()" },
+		{ "trigger": "QColor.colorNames()", "contents": "QtGui.QColor.colorNames()" },
+		{ "trigger": "QColor.fromCmyk(c, m, y, k, a)", "contents": "QtGui.QColor.fromCmyk(${1:c}, ${2:m}, ${3:y}, ${4:k}, ${5:a})" },
+		{ "trigger": "QColor.fromCmykF(c, m, y, k, a)", "contents": "QtGui.QColor.fromCmykF(${1:c}, ${2:m}, ${3:y}, ${4:k}, ${5:a})" },
+		{ "trigger": "QColor.fromHsl(h, s, l, a)", "contents": "QtGui.QColor.fromHsl(${1:h}, ${2:s}, ${3:l}, ${4:a})" },
+		{ "trigger": "QColor.fromHslF(h, s, l, a)", "contents": "QtGui.QColor.fromHslF(${1:h}, ${2:s}, ${3:l}, ${4:a})" },
+		{ "trigger": "QColor.fromHsv(h, s, v, a)", "contents": "QtGui.QColor.fromHsv(${1:h}, ${2:s}, ${3:v}, ${4:a})" },
+		{ "trigger": "QColor.fromHsvF(h, s, v, a)", "contents": "QtGui.QColor.fromHsvF(${1:h}, ${2:s}, ${3:v}, ${4:a})" },
+		{ "trigger": "QColor.fromRgb(rgb)", "contents": "QtGui.QColor.fromRgb(${1:rgb})" },
+		{ "trigger": "QColor.fromRgb(r, g, b, a)", "contents": "QtGui.QColor.fromRgb(${1:r}, ${2:g}, ${3:b}, ${4:a})" },
+		{ "trigger": "QColor.fromRgbF(r, g, b, a)", "contents": "QtGui.QColor.fromRgbF(${1:r}, ${2:g}, ${3:b}, ${4:a})" },
+		{ "trigger": "QColor.fromRgba(rgba)", "contents": "QtGui.QColor.fromRgba(${1:rgba})" },
+		{ "trigger": "QColor.isValidColor(name)", "contents": "QtGui.QColor.isValidColor(${1:name})" },
+		{ "trigger": "QColor.setAllowX11ColorNames(enabled)", "contents": "QtGui.QColor.setAllowX11ColorNames(${1:enabled})" }
+	]
+}

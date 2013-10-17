@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[columnCount()]]></content>
+    <tabTrigger>columnCount()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStandardItem</description>
+</snippet>

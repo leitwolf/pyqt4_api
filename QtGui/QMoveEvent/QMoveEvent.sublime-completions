@@ -1,0 +1,9 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QMoveEvent", "contents": "QtGui.QMoveEvent" },
+		{ "trigger": "QMoveEvent(pos, oldPos)", "contents": "QtGui.QMoveEvent(${1:pos}, ${2:oldPos})" }
+	]
+}

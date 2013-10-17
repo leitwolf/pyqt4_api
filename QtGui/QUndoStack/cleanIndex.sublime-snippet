@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[cleanIndex()]]></content>
+    <tabTrigger>cleanIndex()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QUndoStack</description>
+</snippet>

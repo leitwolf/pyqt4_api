@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[contentsRect()]]></content>
+    <tabTrigger>contentsRect()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLayout</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[globalPos()]]></content>
+    <tabTrigger>globalPos()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMouseEvent</description>
+</snippet>

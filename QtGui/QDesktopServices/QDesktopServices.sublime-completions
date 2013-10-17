@@ -1,0 +1,23 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QDesktopServices", "contents": "QtGui.QDesktopServices" },
+		{ "trigger": "QDesktopServices.DesktopLocation", "contents": "QtGui.QDesktopServices.DesktopLocation" },
+		{ "trigger": "QDesktopServices.DocumentsLocation", "contents": "QtGui.QDesktopServices.DocumentsLocation" },
+		{ "trigger": "QDesktopServices.FontsLocation", "contents": "QtGui.QDesktopServices.FontsLocation" },
+		{ "trigger": "QDesktopServices.ApplicationsLocation", "contents": "QtGui.QDesktopServices.ApplicationsLocation" },
+		{ "trigger": "QDesktopServices.MusicLocation", "contents": "QtGui.QDesktopServices.MusicLocation" },
+		{ "trigger": "QDesktopServices.MoviesLocationPicturesLocation", "contents": "QtGui.QDesktopServices.MoviesLocationPicturesLocation" },
+		{ "trigger": "QDesktopServices.TempLocation", "contents": "QtGui.QDesktopServices.TempLocation" },
+		{ "trigger": "QDesktopServices.HomeLocation", "contents": "QtGui.QDesktopServices.HomeLocation" },
+		{ "trigger": "QDesktopServices.DataLocation", "contents": "QtGui.QDesktopServices.DataLocation" },
+		{ "trigger": "QDesktopServices.CacheLocation", "contents": "QtGui.QDesktopServices.CacheLocation" },
+		{ "trigger": "QDesktopServices.displayName(type)", "contents": "QtGui.QDesktopServices.displayName(${1:type})" },
+		{ "trigger": "QDesktopServices.openUrl(url)", "contents": "QtGui.QDesktopServices.openUrl(${1:url})" },
+		{ "trigger": "QDesktopServices.setUrlHandler(scheme, receiver, method)", "contents": "QtGui.QDesktopServices.setUrlHandler(${1:scheme}, ${2:receiver}, ${3:method})" },
+		{ "trigger": "QDesktopServices.storageLocation(type)", "contents": "QtGui.QDesktopServices.storageLocation(${1:type})" },
+		{ "trigger": "QDesktopServices.unsetUrlHandler(scheme)", "contents": "QtGui.QDesktopServices.unsetUrlHandler(${1:scheme})" }
+	]
+}

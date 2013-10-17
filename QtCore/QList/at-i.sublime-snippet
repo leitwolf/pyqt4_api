@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[at(${1:i})]]></content>
+    <tabTrigger>at(i)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QList</description>
+</snippet>

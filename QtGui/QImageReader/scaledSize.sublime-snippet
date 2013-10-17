@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[scaledSize()]]></content>
+    <tabTrigger>scaledSize()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QImageReader</description>
+</snippet>

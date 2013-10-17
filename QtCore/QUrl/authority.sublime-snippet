@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[authority()]]></content>
+    <tabTrigger>authority()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QUrl</description>
+</snippet>

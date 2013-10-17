@@ -1,0 +1,9 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QDragMoveEvent", "contents": "QtGui.QDragMoveEvent" },
+		{ "trigger": "QDragMoveEvent(pos, actions, data, buttons, modifiers, type)", "contents": "QtGui.QDragMoveEvent(${1:pos}, ${2:actions}, ${3:data}, ${4:buttons}, ${5:modifiers}, ${6:type})" }
+	]
+}

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setChild(${1:row}, ${2:column}, ${3:item})]]></content>
+    <tabTrigger>setChild(row, column, item)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStandardItem</description>
+</snippet>

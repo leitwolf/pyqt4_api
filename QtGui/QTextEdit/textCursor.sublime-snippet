@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[textCursor()]]></content>
+    <tabTrigger>textCursor()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextEdit</description>
+</snippet>

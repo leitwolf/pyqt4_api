@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[textValue()]]></content>
+    <tabTrigger>textValue()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QInputDialog</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setOpenExternalLinks(${1:open})]]></content>
+    <tabTrigger>setOpenExternalLinks(open)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLabel</description>
+</snippet>

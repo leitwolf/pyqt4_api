@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[chop(${1:n})]]></content>
+    <tabTrigger>chop(n)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QString</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setStyleSheet(${1:styleSheet})]]></content>
+    <tabTrigger>setStyleSheet(styleSheet)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QWidget(Slot)</description>
+</snippet>

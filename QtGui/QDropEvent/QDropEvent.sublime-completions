@@ -1,0 +1,9 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QDropEvent", "contents": "QtGui.QDropEvent" },
+		{ "trigger": "QDropEvent(pos, actions, data, buttons, modifiers, type)", "contents": "QtGui.QDropEvent(${1:pos}, ${2:actions}, ${3:data}, ${4:buttons}, ${5:modifiers}, ${6:type})" }
+	]
+}

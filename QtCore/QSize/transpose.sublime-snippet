@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[transpose()]]></content>
+    <tabTrigger>transpose()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSize</description>
+</snippet>

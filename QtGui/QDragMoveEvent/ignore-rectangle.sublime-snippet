@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[ignore(${1:rectangle})]]></content>
+    <tabTrigger>ignore(rectangle)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDragMoveEvent</description>
+</snippet>

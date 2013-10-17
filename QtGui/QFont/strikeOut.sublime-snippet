@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[strikeOut()]]></content>
+    <tabTrigger>strikeOut()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFont</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setIntStep(${1:step})]]></content>
+    <tabTrigger>setIntStep(step)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QInputDialog</description>
+</snippet>

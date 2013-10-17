@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[currentIndexChanged(${1:index})]]></content>
+    <tabTrigger>currentIndexChanged(index)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QComboBox(Signal)</description>
+</snippet>

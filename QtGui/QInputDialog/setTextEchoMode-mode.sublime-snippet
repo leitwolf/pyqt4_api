@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setTextEchoMode(${1:mode})]]></content>
+    <tabTrigger>setTextEchoMode(mode)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QInputDialog</description>
+</snippet>

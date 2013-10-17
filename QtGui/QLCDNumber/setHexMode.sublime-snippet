@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setHexMode()]]></content>
+    <tabTrigger>setHexMode()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLCDNumber(Slot)</description>
+</snippet>

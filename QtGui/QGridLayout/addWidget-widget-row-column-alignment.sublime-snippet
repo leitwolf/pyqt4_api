@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[addWidget(${1:widget}, ${2:row}, ${3:column}, ${4:alignment})]]></content>
+    <tabTrigger>addWidget(widget, row, column, alignment)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QGridLayout</description>
+</snippet>

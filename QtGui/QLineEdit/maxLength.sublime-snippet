@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[maxLength()]]></content>
+    <tabTrigger>maxLength()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLineEdit</description>
+</snippet>

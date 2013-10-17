@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[hitButton(${1:pos})]]></content>
+    <tabTrigger>hitButton(pos)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractButton</description>
+</snippet>

@@ -1,0 +1,16 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QWidget", "contents": "QtGui.QWidget" },
+		{ "trigger": "QWidget.DrawWindowBackground", "contents": "QtGui.QWidget.DrawWindowBackground" },
+		{ "trigger": "QWidget.DrawChildren", "contents": "QtGui.QWidget.DrawChildren" },
+		{ "trigger": "QWidget.IgnoreMask", "contents": "QtGui.QWidget.IgnoreMask" },
+		{ "trigger": "QWidget(parent, f)", "contents": "QtGui.QWidget(${1:parent}, ${2:f})" },
+		{ "trigger": "QWidget.find(id)", "contents": "QtGui.QWidget.find(${1:id})" },
+		{ "trigger": "QWidget.keyboardGrabber()", "contents": "QtGui.QWidget.keyboardGrabber()" },
+		{ "trigger": "QWidget.mouseGrabber()", "contents": "QtGui.QWidget.mouseGrabber()" },
+		{ "trigger": "QWidget.setTabOrder(first, second)", "contents": "QtGui.QWidget.setTabOrder(${1:first}, ${2:second})" }
+	]
+}

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[triggered(${1:checked})]]></content>
+    <tabTrigger>triggered(checked)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAction(Signal)</description>
+</snippet>

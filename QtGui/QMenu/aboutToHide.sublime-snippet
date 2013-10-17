@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[aboutToHide()]]></content>
+    <tabTrigger>aboutToHide()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMenu(Signal)</description>
+</snippet>

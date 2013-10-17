@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[escape(${1:plain})]]></content>
+    <tabTrigger>escape(plain)</tabTrigger>
+    <scope>source.python</scope>
+    <description>Qt</description>
+</snippet>

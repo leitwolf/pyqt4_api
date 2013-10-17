@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setDefaultSuffix(${1:suffix})]]></content>
+    <tabTrigger>setDefaultSuffix(suffix)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFileDialog</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setDisabled(${1:disable})]]></content>
+    <tabTrigger>setDisabled(disable)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QWidget(Slot)</description>
+</snippet>

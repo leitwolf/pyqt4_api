@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[timerEvent(${1:event})]]></content>
+    <tabTrigger>timerEvent(event)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QObject</description>
+</snippet>

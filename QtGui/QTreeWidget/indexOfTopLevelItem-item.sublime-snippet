@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[indexOfTopLevelItem(${1:item})]]></content>
+    <tabTrigger>indexOfTopLevelItem(item)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTreeWidget</description>
+</snippet>

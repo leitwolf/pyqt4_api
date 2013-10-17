@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setLineWidth(${1:width})]]></content>
+    <tabTrigger>setLineWidth(width)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextLine</description>
+</snippet>

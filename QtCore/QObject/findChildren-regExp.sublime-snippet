@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[findChildren(${1:regExp})]]></content>
+    <tabTrigger>findChildren(regExp)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QObject</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[alternatingRowColors()]]></content>
+    <tabTrigger>alternatingRowColors()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractItemView</description>
+</snippet>

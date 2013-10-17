@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[addMenu(${1:menu})]]></content>
+    <tabTrigger>addMenu(menu)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMenuBar</description>
+</snippet>

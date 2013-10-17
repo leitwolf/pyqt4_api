@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[toLower()]]></content>
+    <tabTrigger>toLower()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QByteArray</description>
+</snippet>

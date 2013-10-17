@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[availableGeometry(${1:p})]]></content>
+    <tabTrigger>availableGeometry(p)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDesktopWidget</description>
+</snippet>

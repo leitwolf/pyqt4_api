@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[helpRequested()]]></content>
+    <tabTrigger>helpRequested()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDialogButtonBox(Signal)</description>
+</snippet>

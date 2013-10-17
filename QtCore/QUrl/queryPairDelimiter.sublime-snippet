@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[queryPairDelimiter()]]></content>
+    <tabTrigger>queryPairDelimiter()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QUrl</description>
+</snippet>

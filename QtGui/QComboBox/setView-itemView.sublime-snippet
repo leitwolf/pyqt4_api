@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setView(${1:itemView})]]></content>
+    <tabTrigger>setView(itemView)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QComboBox</description>
+</snippet>

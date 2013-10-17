@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[dark()]]></content>
+    <tabTrigger>dark()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPalette</description>
+</snippet>

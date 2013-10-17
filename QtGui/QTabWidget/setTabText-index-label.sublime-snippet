@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setTabText(${1:index}, ${2:label})]]></content>
+    <tabTrigger>setTabText(index, label)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTabWidget</description>
+</snippet>

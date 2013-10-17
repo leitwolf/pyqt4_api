@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setMinimumDate(${1:date})]]></content>
+    <tabTrigger>setMinimumDate(date)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QCalendarWidget</description>
+</snippet>

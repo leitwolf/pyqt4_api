@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[open(${1:receiver}, ${2:member})]]></content>
+    <tabTrigger>open(receiver, member)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMessageBox</description>
+</snippet>

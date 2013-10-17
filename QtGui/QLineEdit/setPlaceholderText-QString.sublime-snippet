@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setPlaceholderText(${1:QString})]]></content>
+    <tabTrigger>setPlaceholderText(QString)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLineEdit</description>
+</snippet>

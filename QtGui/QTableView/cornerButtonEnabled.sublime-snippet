@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[cornerButtonEnabled]]></content>
+    <tabTrigger>cornerButtonEnabled</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTableView</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[toTime()]]></content>
+    <tabTrigger>toTime()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QVariant</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[removeItem(${1:item})]]></content>
+    <tabTrigger>removeItem(item)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLayout</description>
+</snippet>

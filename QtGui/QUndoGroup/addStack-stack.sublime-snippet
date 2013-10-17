@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[addStack(${1:stack})]]></content>
+    <tabTrigger>addStack(stack)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QUndoGroup</description>
+</snippet>

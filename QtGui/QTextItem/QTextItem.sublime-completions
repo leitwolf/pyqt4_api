@@ -1,0 +1,12 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QTextItem", "contents": "QtGui.QTextItem" },
+		{ "trigger": "QTextItem.RightToLeft", "contents": "QtGui.QTextItem.RightToLeft" },
+		{ "trigger": "QTextItem.Overline", "contents": "QtGui.QTextItem.Overline" },
+		{ "trigger": "QTextItem.Underline", "contents": "QtGui.QTextItem.Underline" },
+		{ "trigger": "QTextItem.StrikeOut", "contents": "QtGui.QTextItem.StrikeOut" }
+	]
+}

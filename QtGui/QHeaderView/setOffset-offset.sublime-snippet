@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setOffset(${1:offset})]]></content>
+    <tabTrigger>setOffset(offset)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QHeaderView(Slot)</description>
+</snippet>

@@ -1,0 +1,12 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QToolButton", "contents": "QtGui.QToolButton" },
+		{ "trigger": "QToolButton.DelayedPopup", "contents": "QtGui.QToolButton.DelayedPopup" },
+		{ "trigger": "QToolButton.MenuButtonPopup", "contents": "QtGui.QToolButton.MenuButtonPopup" },
+		{ "trigger": "QToolButton.InstantPopup", "contents": "QtGui.QToolButton.InstantPopup" },
+		{ "trigger": "QToolButton(parent)", "contents": "QtGui.QToolButton(${1:parent})" }
+	]
+}

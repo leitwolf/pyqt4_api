@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[iniCodec()]]></content>
+    <tabTrigger>iniCodec()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSettings</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[tabifiedDockWidgets(${1:dockwidget})]]></content>
+    <tabTrigger>tabifiedDockWidgets(dockwidget)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMainWindow</description>
+</snippet>

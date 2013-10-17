@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setPlatformWindowFormat(${1:format})]]></content>
+    <tabTrigger>setPlatformWindowFormat(format)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QWidget</description>
+</snippet>

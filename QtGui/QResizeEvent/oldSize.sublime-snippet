@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[oldSize()]]></content>
+    <tabTrigger>oldSize()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QResizeEvent</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[replace(${1:before}, ${2:blen}, ${3:after}, ${4:alen}, ${5:cs})]]></content>
+    <tabTrigger>replace(before, blen, after, alen, cs)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QString</description>
+</snippet>

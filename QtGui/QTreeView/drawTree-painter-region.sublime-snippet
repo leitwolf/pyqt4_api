@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[drawTree(${1:painter}, ${2:region})]]></content>
+    <tabTrigger>drawTree(painter, region)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTreeView</description>
+</snippet>

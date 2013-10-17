@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[activeStackChanged(${1:stack})]]></content>
+    <tabTrigger>activeStackChanged(stack)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QUndoGroup(Signal)</description>
+</snippet>

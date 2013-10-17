@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setFontItalic(${1:italic})]]></content>
+    <tabTrigger>setFontItalic(italic)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextEdit(Slot)</description>
+</snippet>

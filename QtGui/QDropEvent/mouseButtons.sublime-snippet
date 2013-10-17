@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[mouseButtons()]]></content>
+    <tabTrigger>mouseButtons()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDropEvent</description>
+</snippet>

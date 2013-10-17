@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[addButton(${1:button}, ${2:role})]]></content>
+    <tabTrigger>addButton(button, role)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMessageBox</description>
+</snippet>

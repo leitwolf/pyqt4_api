@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[parentWidget()]]></content>
+    <tabTrigger>parentWidget()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAction</description>
+</snippet>

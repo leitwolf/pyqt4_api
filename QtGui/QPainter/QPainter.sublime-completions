@@ -1,0 +1,21 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QPainter", "contents": "QtGui.QPainter" },
+		{ "trigger": "QPainter.CompositionMode_SourceOver", "contents": "QtGui.QPainter.CompositionMode_SourceOver" },
+		{ "trigger": "QPainter.CompositionMode_DestinationOver", "contents": "QtGui.QPainter.CompositionMode_DestinationOver" },
+		{ "trigger": "QPainter.CompositionMode_Clear", "contents": "QtGui.QPainter.CompositionMode_Clear" },
+		{ "trigger": "QPainter.CompositionMode_Source", "contents": "QtGui.QPainter.CompositionMode_Source" },
+		{ "trigger": "QPainter.RasterOp_SourceAndNotDestination", "contents": "QtGui.QPainter.RasterOp_SourceAndNotDestination" },
+		{ "trigger": "QPainter.OpaqueHint", "contents": "QtGui.QPainter.OpaqueHint" },
+		{ "trigger": "QPainter.Antialiasing", "contents": "QtGui.QPainter.Antialiasing" },
+		{ "trigger": "QPainter.TextAntialiasing", "contents": "QtGui.QPainter.TextAntialiasing" },
+		{ "trigger": "QPainter.SmoothPixmapTransform", "contents": "QtGui.QPainter.SmoothPixmapTransform" },
+		{ "trigger": "QPainter.HighQualityAntialiasing", "contents": "QtGui.QPainter.HighQualityAntialiasing" },
+		{ "trigger": "QPainter.NonCosmeticDefaultPen", "contents": "QtGui.QPainter.NonCosmeticDefaultPen" },
+		{ "trigger": "QPainter()", "contents": "QtGui.QPainter()" },
+		{ "trigger": "QPainter(device)", "contents": "QtGui.QPainter(${1:device})" }
+	]
+}

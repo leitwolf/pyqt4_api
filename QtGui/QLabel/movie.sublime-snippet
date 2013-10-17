@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[movie()]]></content>
+    <tabTrigger>movie()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLabel</description>
+</snippet>

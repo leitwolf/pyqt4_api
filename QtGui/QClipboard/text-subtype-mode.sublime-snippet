@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[text(${1:subtype}, ${2:mode})]]></content>
+    <tabTrigger>text(subtype, mode)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QClipboard</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[load(${1:fileName}, ${2:format}, ${3:flags})]]></content>
+    <tabTrigger>load(fileName, format, flags)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPixmap</description>
+</snippet>

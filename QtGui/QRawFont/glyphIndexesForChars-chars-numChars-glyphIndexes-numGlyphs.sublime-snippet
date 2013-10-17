@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[glyphIndexesForChars(${1:chars}, ${2:numChars}, ${3:glyphIndexes}, ${4:numGlyphs})]]></content>
+    <tabTrigger>glyphIndexesForChars(chars, numChars, glyphIndexes, numGlyphs)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QRawFont</description>
+</snippet>

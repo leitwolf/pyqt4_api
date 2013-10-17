@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[count(${1:str})]]></content>
+    <tabTrigger>count(str)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QByteArray</description>
+</snippet>

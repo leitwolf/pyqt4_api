@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setClipRegion(${1:region}, ${2:operation})]]></content>
+    <tabTrigger>setClipRegion(region, operation)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

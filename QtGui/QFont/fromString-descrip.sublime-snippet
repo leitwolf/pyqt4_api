@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[fromString(${1:descrip})]]></content>
+    <tabTrigger>fromString(descrip)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFont</description>
+</snippet>

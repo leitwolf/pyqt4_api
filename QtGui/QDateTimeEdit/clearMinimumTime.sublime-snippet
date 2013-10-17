@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[clearMinimumTime()]]></content>
+    <tabTrigger>clearMinimumTime()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDateTimeEdit</description>
+</snippet>

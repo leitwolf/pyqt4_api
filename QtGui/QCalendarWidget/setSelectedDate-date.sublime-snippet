@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setSelectedDate(${1:date})]]></content>
+    <tabTrigger>setSelectedDate(date)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QCalendarWidget(Slot)</description>
+</snippet>

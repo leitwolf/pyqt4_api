@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[showMessage(${1:message}, ${2:timeout})]]></content>
+    <tabTrigger>showMessage(message, timeout)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStatusBar(Slot)</description>
+</snippet>

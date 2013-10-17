@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[copy(${1:x}, ${2:y}, ${3:width}, ${4:height})]]></content>
+    <tabTrigger>copy(x, y, width, height)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QImage</description>
+</snippet>

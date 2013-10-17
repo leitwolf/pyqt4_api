@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[ungrabGesture(${1:gesture})]]></content>
+    <tabTrigger>ungrabGesture(gesture)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QWidget</description>
+</snippet>

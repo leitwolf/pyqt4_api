@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[removeQueryItem(${1:key})]]></content>
+    <tabTrigger>removeQueryItem(key)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QUrl</description>
+</snippet>

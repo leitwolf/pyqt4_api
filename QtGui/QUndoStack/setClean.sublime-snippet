@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setClean()]]></content>
+    <tabTrigger>setClean()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QUndoStack(Slot)</description>
+</snippet>

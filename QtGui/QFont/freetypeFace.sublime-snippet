@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[freetypeFace()]]></content>
+    <tabTrigger>freetypeFace()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFont</description>
+</snippet>

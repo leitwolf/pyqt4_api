@@ -1,0 +1,13 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QPen", "contents": "QtGui.QPen" },
+		{ "trigger": "QPen()", "contents": "QtGui.QPen()" },
+		{ "trigger": "QPen(style)", "contents": "QtGui.QPen(${1:style})" },
+		{ "trigger": "QPen(color)", "contents": "QtGui.QPen(${1:color})" },
+		{ "trigger": "QPen(brush, width, style, cap, join)", "contents": "QtGui.QPen(${1:brush}, ${2:width}, ${3:style}, ${4:cap}, ${5:join})" },
+		{ "trigger": "QPen(pen)", "contents": "QtGui.QPen(${1:pen})" }
+	]
+}

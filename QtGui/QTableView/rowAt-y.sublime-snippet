@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[rowAt(${1:y})]]></content>
+    <tabTrigger>rowAt(y)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTableView</description>
+</snippet>

@@ -1,0 +1,16 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QSlider", "contents": "QtGui.QSlider" },
+		{ "trigger": "QSlider.NoTicks", "contents": "QtGui.QSlider.NoTicks" },
+		{ "trigger": "QSlider.TicksBothSides", "contents": "QtGui.QSlider.TicksBothSides" },
+		{ "trigger": "QSlider.TicksAbove", "contents": "QtGui.QSlider.TicksAbove" },
+		{ "trigger": "QSlider.TicksBelow", "contents": "QtGui.QSlider.TicksBelow" },
+		{ "trigger": "QSlider.TicksLeft", "contents": "QtGui.QSlider.TicksLeft" },
+		{ "trigger": "QSlider.TicksRight", "contents": "QtGui.QSlider.TicksRight" },
+		{ "trigger": "QSlider(parent)", "contents": "QtGui.QSlider(${1:parent})" },
+		{ "trigger": "QSlider(orientation, parent)", "contents": "QtGui.QSlider(${1:orientation}, ${2:parent})" }
+	]
+}

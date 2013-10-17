@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[mid()]]></content>
+    <tabTrigger>mid()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPalette</description>
+</snippet>

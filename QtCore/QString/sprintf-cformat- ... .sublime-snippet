@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[sprintf(${1:cformat}, ${2: ... })]]></content>
+    <tabTrigger>sprintf(cformat,  ... )</tabTrigger>
+    <scope>source.python</scope>
+    <description>QString</description>
+</snippet>

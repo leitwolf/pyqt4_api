@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setBaseSize(${1:QSize})]]></content>
+    <tabTrigger>setBaseSize(QSize)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QWidget</description>
+</snippet>

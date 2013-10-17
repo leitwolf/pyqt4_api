@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[removeDockWidget(${1:dockwidget})]]></content>
+    <tabTrigger>removeDockWidget(dockwidget)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMainWindow</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[dockLocationChanged(${1:area})]]></content>
+    <tabTrigger>dockLocationChanged(area)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDockWidget(Signal)</description>
+</snippet>

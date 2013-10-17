@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setY(${1:y})]]></content>
+    <tabTrigger>setY(y)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPointF</description>
+</snippet>

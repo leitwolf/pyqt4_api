@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setAlignment(${1:alignment})]]></content>
+    <tabTrigger>setAlignment(alignment)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QProgressBar</description>
+</snippet>

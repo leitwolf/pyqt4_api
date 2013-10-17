@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setWidget(${1:widget})]]></content>
+    <tabTrigger>setWidget(widget)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDockWidget</description>
+</snippet>

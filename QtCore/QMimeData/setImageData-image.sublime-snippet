@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setImageData(${1:image})]]></content>
+    <tabTrigger>setImageData(image)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMimeData</description>
+</snippet>

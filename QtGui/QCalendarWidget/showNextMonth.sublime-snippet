@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[showNextMonth()]]></content>
+    <tabTrigger>showNextMonth()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QCalendarWidget(Slot)</description>
+</snippet>

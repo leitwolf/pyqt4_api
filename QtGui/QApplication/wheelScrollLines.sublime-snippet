@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[wheelScrollLines]]></content>
+    <tabTrigger>wheelScrollLines</tabTrigger>
+    <scope>source.python</scope>
+    <description>QApplication</description>
+</snippet>

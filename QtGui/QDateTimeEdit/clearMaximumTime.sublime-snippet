@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[clearMaximumTime()]]></content>
+    <tabTrigger>clearMaximumTime()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDateTimeEdit</description>
+</snippet>

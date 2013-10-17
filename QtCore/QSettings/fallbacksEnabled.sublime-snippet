@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[fallbacksEnabled()]]></content>
+    <tabTrigger>fallbacksEnabled()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSettings</description>
+</snippet>

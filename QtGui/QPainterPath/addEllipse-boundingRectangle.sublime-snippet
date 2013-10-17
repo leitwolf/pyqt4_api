@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[addEllipse(${1:boundingRectangle})]]></content>
+    <tabTrigger>addEllipse(boundingRectangle)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainterPath</description>
+</snippet>

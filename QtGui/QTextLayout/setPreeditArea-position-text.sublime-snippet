@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setPreeditArea(${1:position}, ${2:text})]]></content>
+    <tabTrigger>setPreeditArea(position, text)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextLayout</description>
+</snippet>

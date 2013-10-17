@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setActive(${1:active})]]></content>
+    <tabTrigger>setActive(active)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QUndoStack(Slot)</description>
+</snippet>

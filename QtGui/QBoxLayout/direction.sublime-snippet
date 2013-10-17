@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[direction()]]></content>
+    <tabTrigger>direction()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QBoxLayout</description>
+</snippet>

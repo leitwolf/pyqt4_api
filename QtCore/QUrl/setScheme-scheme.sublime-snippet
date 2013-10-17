@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setScheme(${1:scheme})]]></content>
+    <tabTrigger>setScheme(scheme)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QUrl</description>
+</snippet>

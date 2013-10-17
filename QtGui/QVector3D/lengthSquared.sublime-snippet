@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[lengthSquared()]]></content>
+    <tabTrigger>lengthSquared()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QVector3D</description>
+</snippet>

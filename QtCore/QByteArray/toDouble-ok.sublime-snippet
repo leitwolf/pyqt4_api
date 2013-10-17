@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[toDouble(${1:ok})]]></content>
+    <tabTrigger>toDouble(ok)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QByteArray</description>
+</snippet>

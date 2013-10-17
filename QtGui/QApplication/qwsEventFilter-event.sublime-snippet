@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[qwsEventFilter(${1:event})]]></content>
+    <tabTrigger>qwsEventFilter(event)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QApplication</description>
+</snippet>

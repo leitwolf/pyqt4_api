@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[undoTextChanged(${1:undoText})]]></content>
+    <tabTrigger>undoTextChanged(undoText)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QUndoStack(Signal)</description>
+</snippet>

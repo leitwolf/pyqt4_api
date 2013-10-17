@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[intMinimum()]]></content>
+    <tabTrigger>intMinimum()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QInputDialog</description>
+</snippet>

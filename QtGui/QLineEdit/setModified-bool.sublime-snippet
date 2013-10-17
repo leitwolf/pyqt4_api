@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setModified(${1:bool})]]></content>
+    <tabTrigger>setModified(bool)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLineEdit</description>
+</snippet>

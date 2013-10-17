@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[dateEditAcceptDelay()]]></content>
+    <tabTrigger>dateEditAcceptDelay()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QCalendarWidget</description>
+</snippet>

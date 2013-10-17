@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setHorizontalPolicy(${1:policy})]]></content>
+    <tabTrigger>setHorizontalPolicy(policy)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSizePolicy</description>
+</snippet>

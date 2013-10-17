@@ -1,0 +1,19 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QTabletEvent", "contents": "QtGui.QTabletEvent" },
+		{ "trigger": "QTabletEvent.UnknownPointer", "contents": "QtGui.QTabletEvent.UnknownPointer" },
+		{ "trigger": "QTabletEvent.Pen", "contents": "QtGui.QTabletEvent.Pen" },
+		{ "trigger": "QTabletEvent.Cursor", "contents": "QtGui.QTabletEvent.Cursor" },
+		{ "trigger": "QTabletEvent.Eraser", "contents": "QtGui.QTabletEvent.Eraser" },
+		{ "trigger": "QTabletEvent.NoDevice", "contents": "QtGui.QTabletEvent.NoDevice" },
+		{ "trigger": "QTabletEvent.Puck", "contents": "QtGui.QTabletEvent.Puck" },
+		{ "trigger": "QTabletEvent.Stylus", "contents": "QtGui.QTabletEvent.Stylus" },
+		{ "trigger": "QTabletEvent.Airbrush", "contents": "QtGui.QTabletEvent.Airbrush" },
+		{ "trigger": "QTabletEvent.FourDMouse", "contents": "QtGui.QTabletEvent.FourDMouse" },
+		{ "trigger": "QTabletEvent.RotationStylus", "contents": "QtGui.QTabletEvent.RotationStylus" },
+		{ "trigger": "QTabletEvent(type, pos, globalPos, hiResGlobalPos, device, pointerType, pressure, xTilt, yTilt, tangentialPressure, rotation, z, keyState, uniqueID)", "contents": "QtGui.QTabletEvent(${1:type}, ${2:pos}, ${3:globalPos}, ${4:hiResGlobalPos}, ${5:device}, ${6:pointerType}, ${7:pressure}, ${8:xTilt}, ${9:yTilt}, ${10:tangentialPressure}, ${11:rotation}, ${12:z}, ${13:keyState}, ${14:uniqueID})" }
+	]
+}

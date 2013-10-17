@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[isCheckable()]]></content>
+    <tabTrigger>isCheckable()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStandardItem</description>
+</snippet>

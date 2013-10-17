@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[numColors(${1:const})]]></content>
+    <tabTrigger>numColors(const)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPaintDevice</description>
+</snippet>

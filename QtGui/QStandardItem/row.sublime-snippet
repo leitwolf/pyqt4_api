@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[row()]]></content>
+    <tabTrigger>row()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStandardItem</description>
+</snippet>

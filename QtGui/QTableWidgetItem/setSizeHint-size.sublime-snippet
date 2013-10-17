@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setSizeHint(${1:size})]]></content>
+    <tabTrigger>setSizeHint(size)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTableWidgetItem</description>
+</snippet>

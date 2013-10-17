@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setAutoRaise(${1:enable})]]></content>
+    <tabTrigger>setAutoRaise(enable)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QToolButton</description>
+</snippet>

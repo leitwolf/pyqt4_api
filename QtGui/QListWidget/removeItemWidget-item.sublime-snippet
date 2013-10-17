@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[removeItemWidget(${1:item})]]></content>
+    <tabTrigger>removeItemWidget(item)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QListWidget</description>
+</snippet>

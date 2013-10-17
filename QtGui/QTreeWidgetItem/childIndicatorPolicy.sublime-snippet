@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[childIndicatorPolicy()]]></content>
+    <tabTrigger>childIndicatorPolicy()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTreeWidgetItem</description>
+</snippet>

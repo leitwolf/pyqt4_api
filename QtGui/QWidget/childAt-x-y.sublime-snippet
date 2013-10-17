@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[childAt(${1:x}, ${2:y})]]></content>
+    <tabTrigger>childAt(x, y)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QWidget</description>
+</snippet>

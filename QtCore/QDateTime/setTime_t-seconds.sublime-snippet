@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setTime_t(${1:seconds})]]></content>
+    <tabTrigger>setTime_t(seconds)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDateTime</description>
+</snippet>

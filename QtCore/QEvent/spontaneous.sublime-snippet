@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[spontaneous()]]></content>
+    <tabTrigger>spontaneous()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QEvent</description>
+</snippet>

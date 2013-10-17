@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[toString(${1:options})]]></content>
+    <tabTrigger>toString(options)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QUrl</description>
+</snippet>

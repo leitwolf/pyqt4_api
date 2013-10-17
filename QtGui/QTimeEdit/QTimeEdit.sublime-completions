@@ -1,0 +1,10 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QTimeEdit", "contents": "QtGui.QTimeEdit" },
+		{ "trigger": "QTimeEdit(parent)", "contents": "QtGui.QTimeEdit(${1:parent})" },
+		{ "trigger": "QTimeEdit(time, parent)", "contents": "QtGui.QTimeEdit(${1:time}, ${2:parent})" }
+	]
+}

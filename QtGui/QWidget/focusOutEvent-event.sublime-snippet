@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[focusOutEvent(${1:event})]]></content>
+    <tabTrigger>focusOutEvent(event)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QWidget</description>
+</snippet>

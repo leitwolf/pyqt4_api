@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[section(${1:reg}, ${2:start}, ${3:end}, ${4:flags})]]></content>
+    <tabTrigger>section(reg, start, end, flags)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QString</description>
+</snippet>

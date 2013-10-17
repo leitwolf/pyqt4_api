@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[intersects(${1:rectangle})]]></content>
+    <tabTrigger>intersects(rectangle)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainterPath</description>
+</snippet>

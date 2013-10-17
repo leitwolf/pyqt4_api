@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[supportsFindBuffer()]]></content>
+    <tabTrigger>supportsFindBuffer()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QClipboard</description>
+</snippet>

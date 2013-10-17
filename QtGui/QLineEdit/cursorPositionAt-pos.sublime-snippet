@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[cursorPositionAt(${1:pos})]]></content>
+    <tabTrigger>cursorPositionAt(pos)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLineEdit</description>
+</snippet>

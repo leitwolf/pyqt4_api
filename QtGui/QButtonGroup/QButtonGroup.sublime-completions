@@ -1,0 +1,9 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QButtonGroup", "contents": "QtGui.QButtonGroup" },
+		{ "trigger": "QButtonGroup(parent)", "contents": "QtGui.QButtonGroup(${1:parent})" }
+	]
+}

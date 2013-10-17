@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[timeChanged(${1:time})]]></content>
+    <tabTrigger>timeChanged(time)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDateTimeEdit(Signal)</description>
+</snippet>

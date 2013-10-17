@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[released()]]></content>
+    <tabTrigger>released()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractButton(Signal)</description>
+</snippet>

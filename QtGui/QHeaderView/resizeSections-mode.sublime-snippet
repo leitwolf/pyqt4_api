@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[resizeSections(${1:mode})]]></content>
+    <tabTrigger>resizeSections(mode)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QHeaderView</description>
+</snippet>

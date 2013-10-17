@@ -1,0 +1,9 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QShowEvent", "contents": "QtGui.QShowEvent" },
+		{ "trigger": "QShowEvent()", "contents": "QtGui.QShowEvent()" }
+	]
+}

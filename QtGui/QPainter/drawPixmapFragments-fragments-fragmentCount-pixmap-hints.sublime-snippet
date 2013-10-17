@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[drawPixmapFragments(${1:fragments}, ${2:fragmentCount}, ${3:pixmap}, ${4:hints})]]></content>
+    <tabTrigger>drawPixmapFragments(fragments, fragmentCount, pixmap, hints)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

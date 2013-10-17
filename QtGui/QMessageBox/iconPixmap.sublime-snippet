@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[iconPixmap()]]></content>
+    <tabTrigger>iconPixmap()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMessageBox</description>
+</snippet>

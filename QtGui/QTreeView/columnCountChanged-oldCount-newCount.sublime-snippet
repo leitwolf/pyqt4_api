@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[columnCountChanged(${1:oldCount}, ${2:newCount})]]></content>
+    <tabTrigger>columnCountChanged(oldCount, newCount)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTreeView(Slot)</description>
+</snippet>

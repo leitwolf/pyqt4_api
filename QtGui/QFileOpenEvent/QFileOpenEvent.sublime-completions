@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QFileOpenEvent", "contents": "QtGui.QFileOpenEvent" }
+	]
+}

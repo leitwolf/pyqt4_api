@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setBackgroundColor(${1:color})]]></content>
+    <tabTrigger>setBackgroundColor(color)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QImageReader</description>
+</snippet>

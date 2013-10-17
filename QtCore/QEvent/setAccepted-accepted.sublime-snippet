@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setAccepted(${1:accepted})]]></content>
+    <tabTrigger>setAccepted(accepted)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QEvent</description>
+</snippet>

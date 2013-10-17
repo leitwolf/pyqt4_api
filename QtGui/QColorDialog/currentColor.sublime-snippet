@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[currentColor()]]></content>
+    <tabTrigger>currentColor()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QColorDialog</description>
+</snippet>

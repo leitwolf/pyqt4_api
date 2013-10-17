@@ -1,0 +1,20 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QComboBox", "contents": "QtGui.QComboBox" },
+		{ "trigger": "QComboBox.NoInsert", "contents": "QtGui.QComboBox.NoInsert" },
+		{ "trigger": "QComboBox.InsertAtTop", "contents": "QtGui.QComboBox.InsertAtTop" },
+		{ "trigger": "QComboBox.InsertAtCurrent", "contents": "QtGui.QComboBox.InsertAtCurrent" },
+		{ "trigger": "QComboBox.InsertAtBottom", "contents": "QtGui.QComboBox.InsertAtBottom" },
+		{ "trigger": "QComboBox.InsertAfterCurrent", "contents": "QtGui.QComboBox.InsertAfterCurrent" },
+		{ "trigger": "QComboBox.InsertBeforeCurrent", "contents": "QtGui.QComboBox.InsertBeforeCurrent" },
+		{ "trigger": "QComboBox.InsertAlphabetically", "contents": "QtGui.QComboBox.InsertAlphabetically" },
+		{ "trigger": "QComboBox.AdjustToContents", "contents": "QtGui.QComboBox.AdjustToContents" },
+		{ "trigger": "QComboBox.AdjustToContentsOnFirstShow", "contents": "QtGui.QComboBox.AdjustToContentsOnFirstShow" },
+		{ "trigger": "QComboBox.AdjustToMinimumContentsLength", "contents": "QtGui.QComboBox.AdjustToMinimumContentsLength" },
+		{ "trigger": "QComboBox.AdjustToMinimumContentsLengthWithIcon", "contents": "QtGui.QComboBox.AdjustToMinimumContentsLengthWithIcon" },
+		{ "trigger": "QComboBox(parent)", "contents": "QtGui.QComboBox(${1:parent})" }
+	]
+}

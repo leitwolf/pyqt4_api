@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[entryList(${1:nameFilters}, ${2:filters}, ${3:sort})]]></content>
+    <tabTrigger>entryList(nameFilters, filters, sort)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDir</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setValidator(${1:validator})]]></content>
+    <tabTrigger>setValidator(validator)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QComboBox</description>
+</snippet>

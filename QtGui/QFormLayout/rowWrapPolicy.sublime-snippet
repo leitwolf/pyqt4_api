@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[rowWrapPolicy()]]></content>
+    <tabTrigger>rowWrapPolicy()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFormLayout</description>
+</snippet>

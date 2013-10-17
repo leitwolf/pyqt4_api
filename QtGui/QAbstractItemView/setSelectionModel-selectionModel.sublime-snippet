@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setSelectionModel(${1:selectionModel})]]></content>
+    <tabTrigger>setSelectionModel(selectionModel)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractItemView</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[isCopyOf(${1:f})]]></content>
+    <tabTrigger>isCopyOf(f)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFont</description>
+</snippet>

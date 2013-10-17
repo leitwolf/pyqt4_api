@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[modified]]></content>
+    <tabTrigger>modified</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLineEdit</description>
+</snippet>

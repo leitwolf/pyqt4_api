@@ -1,0 +1,9 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QListWidget", "contents": "QtGui.QListWidget" },
+		{ "trigger": "QListWidget(parent)", "contents": "QtGui.QListWidget(${1:parent})" }
+	]
+}

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[depth()]]></content>
+    <tabTrigger>depth()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QImage</description>
+</snippet>

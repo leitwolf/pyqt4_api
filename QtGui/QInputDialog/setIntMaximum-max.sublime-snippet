@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setIntMaximum(${1:max})]]></content>
+    <tabTrigger>setIntMaximum(max)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QInputDialog</description>
+</snippet>

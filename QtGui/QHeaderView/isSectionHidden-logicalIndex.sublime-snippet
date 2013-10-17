@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[isSectionHidden(${1:logicalIndex})]]></content>
+    <tabTrigger>isSectionHidden(logicalIndex)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QHeaderView</description>
+</snippet>

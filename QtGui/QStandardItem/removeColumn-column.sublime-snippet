@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[removeColumn(${1:column})]]></content>
+    <tabTrigger>removeColumn(column)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStandardItem</description>
+</snippet>

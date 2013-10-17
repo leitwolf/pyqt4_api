@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[commitData(${1:editor})]]></content>
+    <tabTrigger>commitData(editor)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractItemView(Slot)</description>
+</snippet>

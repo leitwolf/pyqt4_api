@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[itemsExpandable()]]></content>
+    <tabTrigger>itemsExpandable()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTreeView</description>
+</snippet>

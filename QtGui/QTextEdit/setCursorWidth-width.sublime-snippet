@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setCursorWidth(${1:width})]]></content>
+    <tabTrigger>setCursorWidth(width)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextEdit</description>
+</snippet>

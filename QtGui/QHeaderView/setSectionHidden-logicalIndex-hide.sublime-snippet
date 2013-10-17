@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setSectionHidden(${1:logicalIndex}, ${2:hide})]]></content>
+    <tabTrigger>setSectionHidden(logicalIndex, hide)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QHeaderView</description>
+</snippet>

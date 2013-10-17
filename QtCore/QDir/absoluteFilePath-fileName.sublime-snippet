@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[absoluteFilePath(${1:fileName})]]></content>
+    <tabTrigger>absoluteFilePath(fileName)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDir</description>
+</snippet>

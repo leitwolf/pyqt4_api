@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setColorTable(${1:colors})]]></content>
+    <tabTrigger>setColorTable(colors)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QImage</description>
+</snippet>

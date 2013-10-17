@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[clearMask()]]></content>
+    <tabTrigger>clearMask()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QWidget</description>
+</snippet>

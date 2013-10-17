@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setRed(${1:red})]]></content>
+    <tabTrigger>setRed(red)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QColor</description>
+</snippet>

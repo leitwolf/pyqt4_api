@@ -1,0 +1,10 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QRegExpValidator", "contents": "QtGui.QRegExpValidator" },
+		{ "trigger": "QRegExpValidator(parent)", "contents": "QtGui.QRegExpValidator(${1:parent})" },
+		{ "trigger": "QRegExpValidator(rx, parent)", "contents": "QtGui.QRegExpValidator(${1:rx}, ${2:parent})" }
+	]
+}

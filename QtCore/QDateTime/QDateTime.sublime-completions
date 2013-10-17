@@ -1,0 +1,18 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QDateTime", "contents": "QtCore.QDateTime" },
+		{ "trigger": "QDateTime()", "contents": "QtCore.QDateTime()" },
+		{ "trigger": "QDateTime(date)", "contents": "QtCore.QDateTime(${1:date})" },
+		{ "trigger": "QDateTime(date, time, spec)", "contents": "QtCore.QDateTime(${1:date}, ${2:time}, ${3:spec})" },
+		{ "trigger": "QDateTime(other)", "contents": "QtCore.QDateTime(${1:other})" },
+		{ "trigger": "QDateTime.currentDateTime()", "contents": "QtCore.QDateTime.currentDateTime()" },
+		{ "trigger": "QDateTime.currentDateTimeUtc()", "contents": "QtCore.QDateTime.currentDateTimeUtc()" },
+		{ "trigger": "QDateTime.currentMSecsSinceEpoch()", "contents": "QtCore.QDateTime.currentMSecsSinceEpoch()" },
+		{ "trigger": "QDateTime.fromMSecsSinceEpoch(msecs)", "contents": "QtCore.QDateTime.fromMSecsSinceEpoch(${1:msecs})" },
+		{ "trigger": "QDateTime.fromString(string, format)", "contents": "QtCore.QDateTime.fromString(${1:string}, ${2:format})" },
+		{ "trigger": "QDateTime.fromTime_t(seconds)", "contents": "QtCore.QDateTime.fromTime_t(${1:seconds})" }
+	]
+}

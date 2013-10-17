@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[sync()]]></content>
+    <tabTrigger>sync()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSettings</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setAutoExpandDelay(${1:delay})]]></content>
+    <tabTrigger>setAutoExpandDelay(delay)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTreeView</description>
+</snippet>

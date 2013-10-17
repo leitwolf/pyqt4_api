@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[kerning()]]></content>
+    <tabTrigger>kerning()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFont</description>
+</snippet>

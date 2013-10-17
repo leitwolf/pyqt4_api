@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[columnAt(${1:x})]]></content>
+    <tabTrigger>columnAt(x)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTreeView</description>
+</snippet>

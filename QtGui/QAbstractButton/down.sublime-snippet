@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[down]]></content>
+    <tabTrigger>down</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractButton</description>
+</snippet>

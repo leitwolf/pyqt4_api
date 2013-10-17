@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[toPlainText()]]></content>
+    <tabTrigger>toPlainText()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextEdit</description>
+</snippet>

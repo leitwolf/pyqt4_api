@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setViewMode(${1:mode})]]></content>
+    <tabTrigger>setViewMode(mode)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QListView</description>
+</snippet>

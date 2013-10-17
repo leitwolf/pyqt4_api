@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setUrl(${1:url}, ${2:parsingMode})]]></content>
+    <tabTrigger>setUrl(url, parsingMode)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QUrl</description>
+</snippet>

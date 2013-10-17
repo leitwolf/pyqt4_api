@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[hasColor()]]></content>
+    <tabTrigger>hasColor()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMimeData</description>
+</snippet>

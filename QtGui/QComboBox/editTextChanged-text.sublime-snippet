@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[editTextChanged(${1:text})]]></content>
+    <tabTrigger>editTextChanged(text)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QComboBox(Signal)</description>
+</snippet>

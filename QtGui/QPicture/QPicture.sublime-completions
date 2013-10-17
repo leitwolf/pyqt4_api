@@ -1,0 +1,10 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QPicture", "contents": "QtGui.QPicture" },
+		{ "trigger": "QPicture(formatVersion)", "contents": "QtGui.QPicture(${1:formatVersion})" },
+		{ "trigger": "QPicture(pic)", "contents": "QtGui.QPicture(${1:pic})" }
+	]
+}

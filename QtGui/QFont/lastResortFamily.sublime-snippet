@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[lastResortFamily()]]></content>
+    <tabTrigger>lastResortFamily()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFont</description>
+</snippet>

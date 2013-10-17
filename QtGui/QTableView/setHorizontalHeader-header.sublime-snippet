@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setHorizontalHeader(${1:header})]]></content>
+    <tabTrigger>setHorizontalHeader(header)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTableView</description>
+</snippet>

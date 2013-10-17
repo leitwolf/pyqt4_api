@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[currentWidget()]]></content>
+    <tabTrigger>currentWidget()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStackedLayout</description>
+</snippet>

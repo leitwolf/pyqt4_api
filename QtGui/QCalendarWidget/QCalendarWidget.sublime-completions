@@ -1,0 +1,17 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QCalendarWidget", "contents": "QtGui.QCalendarWidget" },
+		{ "trigger": "QCalendarWidget.SingleLetterDayNames", "contents": "QtGui.QCalendarWidget.SingleLetterDayNames" },
+		{ "trigger": "QCalendarWidget.ShortDayNames", "contents": "QtGui.QCalendarWidget.ShortDayNames" },
+		{ "trigger": "QCalendarWidget.LongDayNames", "contents": "QtGui.QCalendarWidget.LongDayNames" },
+		{ "trigger": "QCalendarWidget.NoHorizontalHeader", "contents": "QtGui.QCalendarWidget.NoHorizontalHeader" },
+		{ "trigger": "QCalendarWidget.NoSelection", "contents": "QtGui.QCalendarWidget.NoSelection" },
+		{ "trigger": "QCalendarWidget.SingleSelection", "contents": "QtGui.QCalendarWidget.SingleSelection" },
+		{ "trigger": "QCalendarWidget.ISOWeekNumbers", "contents": "QtGui.QCalendarWidget.ISOWeekNumbers" },
+		{ "trigger": "QCalendarWidget.NoVerticalHeader", "contents": "QtGui.QCalendarWidget.NoVerticalHeader" },
+		{ "trigger": "QCalendarWidget(parent)", "contents": "QtGui.QCalendarWidget(${1:parent})" }
+	]
+}

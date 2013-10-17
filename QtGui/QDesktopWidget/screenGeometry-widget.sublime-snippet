@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[screenGeometry(${1:widget})]]></content>
+    <tabTrigger>screenGeometry(widget)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDesktopWidget</description>
+</snippet>

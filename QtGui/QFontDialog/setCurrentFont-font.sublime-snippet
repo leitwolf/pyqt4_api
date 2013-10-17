@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setCurrentFont(${1:font})]]></content>
+    <tabTrigger>setCurrentFont(font)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFontDialog</description>
+</snippet>

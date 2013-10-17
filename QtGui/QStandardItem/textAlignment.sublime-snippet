@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[textAlignment()]]></content>
+    <tabTrigger>textAlignment()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStandardItem</description>
+</snippet>

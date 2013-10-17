@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[toInt(${1:ok}, ${2:base})]]></content>
+    <tabTrigger>toInt(ok, base)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QByteArray</description>
+</snippet>

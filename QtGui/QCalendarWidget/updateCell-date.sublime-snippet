@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[updateCell(${1:date})]]></content>
+    <tabTrigger>updateCell(date)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QCalendarWidget</description>
+</snippet>

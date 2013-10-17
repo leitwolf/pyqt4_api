@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setId(${1:button}, ${2:id})]]></content>
+    <tabTrigger>setId(button, id)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QButtonGroup</description>
+</snippet>

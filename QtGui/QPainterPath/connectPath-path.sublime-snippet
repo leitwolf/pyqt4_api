@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[connectPath(${1:path})]]></content>
+    <tabTrigger>connectPath(path)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainterPath</description>
+</snippet>

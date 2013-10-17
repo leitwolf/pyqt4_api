@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[disconnect(${1:signal}, ${2:receiver}, ${3:method})]]></content>
+    <tabTrigger>disconnect(signal, receiver, method)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QObject</description>
+</snippet>

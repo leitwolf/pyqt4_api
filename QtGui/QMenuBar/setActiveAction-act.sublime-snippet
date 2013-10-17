@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setActiveAction(${1:act})]]></content>
+    <tabTrigger>setActiveAction(act)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMenuBar</description>
+</snippet>

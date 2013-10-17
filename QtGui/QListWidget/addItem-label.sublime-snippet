@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[addItem(${1:label})]]></content>
+    <tabTrigger>addItem(label)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QListWidget</description>
+</snippet>

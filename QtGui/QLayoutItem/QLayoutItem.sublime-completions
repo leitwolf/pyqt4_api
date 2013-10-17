@@ -1,0 +1,9 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QLayoutItem", "contents": "QtGui.QLayoutItem" },
+		{ "trigger": "QLayoutItem(alignment)", "contents": "QtGui.QLayoutItem(${1:alignment})" }
+	]
+}

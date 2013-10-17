@@ -1,0 +1,25 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QKeySequence", "contents": "QtGui.QKeySequence" },
+		{ "trigger": "QKeySequence.NativeText", "contents": "QtGui.QKeySequence.NativeText" },
+		{ "trigger": "QKeySequence.PortableText", "contents": "QtGui.QKeySequence.PortableText" },
+		{ "trigger": "QKeySequence.NoMatch", "contents": "QtGui.QKeySequence.NoMatch" },
+		{ "trigger": "QKeySequence.PartialMatch", "contents": "QtGui.QKeySequence.PartialMatch" },
+		{ "trigger": "QKeySequence.ExactMatch", "contents": "QtGui.QKeySequence.ExactMatch" },
+		{ "trigger": "QKeySequence.AddTab", "contents": "QtGui.QKeySequence.AddTab" },
+		{ "trigger": "QKeySequence.Back", "contents": "QtGui.QKeySequence.Back" },
+		{ "trigger": "QKeySequence.Bold", "contents": "QtGui.QKeySequence.Bold" },
+		{ "trigger": "QKeySequence.Close", "contents": "QtGui.QKeySequence.Close" },
+		{ "trigger": "QKeySequence.ZoomOut", "contents": "QtGui.QKeySequence.ZoomOut" },
+		{ "trigger": "QKeySequence()", "contents": "QtGui.QKeySequence()" },
+		{ "trigger": "QKeySequence(key)", "contents": "QtGui.QKeySequence(${1:key})" },
+		{ "trigger": "QKeySequence(key, format)", "contents": "QtGui.QKeySequence(${1:key}, ${2:format})" },
+		{ "trigger": "QKeySequence(k1, k2, k3, k4)", "contents": "QtGui.QKeySequence(${1:k1}, ${2:k2}, ${3:k3}, ${4:k4})" },
+		{ "trigger": "QKeySequence(keysequence)", "contents": "QtGui.QKeySequence(${1:keysequence})" },
+		{ "trigger": "QKeySequence.fromString(str, format)", "contents": "QtGui.QKeySequence.fromString(${1:str}, ${2:format})" },
+		{ "trigger": "QKeySequence.mnemonic(text)", "contents": "QtGui.QKeySequence.mnemonic(${1:text})" }
+	]
+}

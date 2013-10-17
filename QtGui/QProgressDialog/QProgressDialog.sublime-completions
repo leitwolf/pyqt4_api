@@ -1,0 +1,10 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QProgressDialog", "contents": "QtGui.QProgressDialog" },
+		{ "trigger": "QProgressDialog(parent, f)", "contents": "QtGui.QProgressDialog(${1:parent}, ${2:f})" },
+		{ "trigger": "QProgressDialog(labelText, cancelButtonText, minimum, maximum, parent, f)", "contents": "QtGui.QProgressDialog(${1:labelText}, ${2:cancelButtonText}, ${3:minimum}, ${4:maximum}, ${5:parent}, ${6:f})" }
+	]
+}

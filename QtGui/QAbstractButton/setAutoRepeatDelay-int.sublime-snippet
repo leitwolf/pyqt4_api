@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setAutoRepeatDelay(${1:int})]]></content>
+    <tabTrigger>setAutoRepeatDelay(int)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractButton</description>
+</snippet>

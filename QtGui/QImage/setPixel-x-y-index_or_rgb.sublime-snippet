@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setPixel(${1:x}, ${2:y}, ${3:index_or_rgb})]]></content>
+    <tabTrigger>setPixel(x, y, index_or_rgb)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QImage</description>
+</snippet>

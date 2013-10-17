@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[secsTo(${1:other})]]></content>
+    <tabTrigger>secsTo(other)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDateTime</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[cascadingSectionResizes()]]></content>
+    <tabTrigger>cascadingSectionResizes()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QHeaderView</description>
+</snippet>

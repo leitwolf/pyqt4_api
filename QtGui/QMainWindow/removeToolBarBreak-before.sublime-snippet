@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[removeToolBarBreak(${1:before})]]></content>
+    <tabTrigger>removeToolBarBreak(before)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMainWindow</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[toSizeF()]]></content>
+    <tabTrigger>toSizeF()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QVariant</description>
+</snippet>

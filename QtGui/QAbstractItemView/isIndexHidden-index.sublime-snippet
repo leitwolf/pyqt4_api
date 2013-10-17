@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[isIndexHidden(${1:index})]]></content>
+    <tabTrigger>isIndexHidden(index)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractItemView</description>
+</snippet>

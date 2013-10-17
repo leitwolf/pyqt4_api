@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[drawArc(${1:rectangle}, ${2:startAngle}, ${3:spanAngle})]]></content>
+    <tabTrigger>drawArc(rectangle, startAngle, spanAngle)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

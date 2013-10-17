@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[isSeparator()]]></content>
+    <tabTrigger>isSeparator()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAction</description>
+</snippet>

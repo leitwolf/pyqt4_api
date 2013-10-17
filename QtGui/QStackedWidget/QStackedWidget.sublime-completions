@@ -1,0 +1,9 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QStackedWidget", "contents": "QtGui.QStackedWidget" },
+		{ "trigger": "QStackedWidget(parent)", "contents": "QtGui.QStackedWidget(${1:parent})" }
+	]
+}

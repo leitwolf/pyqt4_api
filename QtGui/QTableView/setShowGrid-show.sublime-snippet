@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setShowGrid(${1:show})]]></content>
+    <tabTrigger>setShowGrid(show)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTableView(Slot)</description>
+</snippet>

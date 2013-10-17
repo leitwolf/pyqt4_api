@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[eraseRect(${1:rectangle})]]></content>
+    <tabTrigger>eraseRect(rectangle)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

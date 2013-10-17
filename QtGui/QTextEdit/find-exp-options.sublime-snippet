@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[find(${1:exp}, ${2:options})]]></content>
+    <tabTrigger>find(exp, options)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextEdit</description>
+</snippet>

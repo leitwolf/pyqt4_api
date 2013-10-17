@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[overline()]]></content>
+    <tabTrigger>overline()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFont</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setFormat(${1:format})]]></content>
+    <tabTrigger>setFormat(format)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QProgressBar</description>
+</snippet>

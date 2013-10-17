@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[oldState()]]></content>
+    <tabTrigger>oldState()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QWindowStateChangeEvent</description>
+</snippet>

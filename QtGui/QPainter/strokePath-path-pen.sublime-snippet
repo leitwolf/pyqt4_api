@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[strokePath(${1:path}, ${2:pen})]]></content>
+    <tabTrigger>strokePath(path, pen)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

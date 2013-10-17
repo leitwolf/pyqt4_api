@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[saveState(${1:manager})]]></content>
+    <tabTrigger>saveState(manager)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QApplication</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[toStringList()]]></content>
+    <tabTrigger>toStringList()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QVariant</description>
+</snippet>

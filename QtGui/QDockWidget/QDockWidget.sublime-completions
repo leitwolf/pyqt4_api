@@ -1,0 +1,16 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QDockWidget", "contents": "QtGui.QDockWidget" },
+		{ "trigger": "QDockWidget.DockWidgetClosable", "contents": "QtGui.QDockWidget.DockWidgetClosable" },
+		{ "trigger": "QDockWidget.DockWidgetMovable", "contents": "QtGui.QDockWidget.DockWidgetMovable" },
+		{ "trigger": "QDockWidget.DockWidgetFloatable", "contents": "QtGui.QDockWidget.DockWidgetFloatable" },
+		{ "trigger": "QDockWidget.DockWidgetVerticalTitleBar", "contents": "QtGui.QDockWidget.DockWidgetVerticalTitleBar" },
+		{ "trigger": "QDockWidget.AllDockWidgetFeatures", "contents": "QtGui.QDockWidget.AllDockWidgetFeatures" },
+		{ "trigger": "QDockWidget.NoDockWidgetFeatures", "contents": "QtGui.QDockWidget.NoDockWidgetFeatures" },
+		{ "trigger": "QDockWidget(title, parent, flags)", "contents": "QtGui.QDockWidget(${1:title}, ${2:parent}, ${3:flags})" },
+		{ "trigger": "QDockWidget(parent, flags)", "contents": "QtGui.QDockWidget(${1:parent}, ${2:flags})" }
+	]
+}

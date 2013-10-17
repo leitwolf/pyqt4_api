@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[minimumContentsLength()]]></content>
+    <tabTrigger>minimumContentsLength()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QComboBox</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setTitle(${1:title})]]></content>
+    <tabTrigger>setTitle(title)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QGroupBox</description>
+</snippet>

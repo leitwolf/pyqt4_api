@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setAutoRepeat(${1:on})]]></content>
+    <tabTrigger>setAutoRepeat(on)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QShortcut</description>
+</snippet>

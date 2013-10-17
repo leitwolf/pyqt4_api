@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[uniqueId()]]></content>
+    <tabTrigger>uniqueId()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTabletEvent</description>
+</snippet>

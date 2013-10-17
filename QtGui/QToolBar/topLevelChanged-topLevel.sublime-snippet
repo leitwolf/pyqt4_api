@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[topLevelChanged(${1:topLevel})]]></content>
+    <tabTrigger>topLevelChanged(topLevel)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QToolBar(Signal)</description>
+</snippet>

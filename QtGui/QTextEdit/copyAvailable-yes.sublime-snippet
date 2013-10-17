@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[copyAvailable(${1:yes})]]></content>
+    <tabTrigger>copyAvailable(yes)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextEdit(Signal)</description>
+</snippet>

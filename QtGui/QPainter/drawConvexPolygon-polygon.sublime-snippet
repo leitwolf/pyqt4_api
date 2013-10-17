@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[drawConvexPolygon(${1:polygon})]]></content>
+    <tabTrigger>drawConvexPolygon(polygon)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[removeAt(${1:i})]]></content>
+    <tabTrigger>removeAt(i)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QList</description>
+</snippet>

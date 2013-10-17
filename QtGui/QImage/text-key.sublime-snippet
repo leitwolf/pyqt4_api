@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[text(${1:key})]]></content>
+    <tabTrigger>text(key)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QImage</description>
+</snippet>

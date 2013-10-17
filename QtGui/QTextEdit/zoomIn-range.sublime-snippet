@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[zoomIn(${1:range})]]></content>
+    <tabTrigger>zoomIn(range)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextEdit(Slot)</description>
+</snippet>

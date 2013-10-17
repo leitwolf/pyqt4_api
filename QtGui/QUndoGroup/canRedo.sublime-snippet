@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[canRedo()]]></content>
+    <tabTrigger>canRedo()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QUndoGroup</description>
+</snippet>

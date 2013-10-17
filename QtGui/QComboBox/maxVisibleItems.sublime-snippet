@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[maxVisibleItems()]]></content>
+    <tabTrigger>maxVisibleItems()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QComboBox</description>
+</snippet>

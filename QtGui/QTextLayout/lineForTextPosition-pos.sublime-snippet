@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[lineForTextPosition(${1:pos})]]></content>
+    <tabTrigger>lineForTextPosition(pos)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextLayout</description>
+</snippet>

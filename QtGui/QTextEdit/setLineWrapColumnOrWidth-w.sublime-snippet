@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setLineWrapColumnOrWidth(${1:w})]]></content>
+    <tabTrigger>setLineWrapColumnOrWidth(w)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextEdit</description>
+</snippet>

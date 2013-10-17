@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[paintCell(${1:painter}, ${2:rect}, ${3:date})]]></content>
+    <tabTrigger>paintCell(painter, rect, date)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QCalendarWidget</description>
+</snippet>

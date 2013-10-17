@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[checkOverflow(${1:num})]]></content>
+    <tabTrigger>checkOverflow(num)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLCDNumber</description>
+</snippet>

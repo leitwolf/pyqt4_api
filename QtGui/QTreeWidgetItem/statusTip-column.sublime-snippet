@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[statusTip(${1:column})]]></content>
+    <tabTrigger>statusTip(column)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTreeWidgetItem</description>
+</snippet>

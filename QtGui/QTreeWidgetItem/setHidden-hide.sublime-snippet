@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setHidden(${1:hide})]]></content>
+    <tabTrigger>setHidden(hide)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTreeWidgetItem</description>
+</snippet>

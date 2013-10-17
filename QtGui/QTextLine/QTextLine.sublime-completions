@@ -1,0 +1,13 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QTextLine", "contents": "QtGui.QTextLine" },
+		{ "trigger": "QTextLine.CursorBetweenCharacters", "contents": "QtGui.QTextLine.CursorBetweenCharacters" },
+		{ "trigger": "QTextLine.CursorOnCharacter", "contents": "QtGui.QTextLine.CursorOnCharacter" },
+		{ "trigger": "QTextLine.Leading", "contents": "QtGui.QTextLine.Leading" },
+		{ "trigger": "QTextLine.Trailing", "contents": "QtGui.QTextLine.Trailing" },
+		{ "trigger": "QTextLine()", "contents": "QtGui.QTextLine()" }
+	]
+}

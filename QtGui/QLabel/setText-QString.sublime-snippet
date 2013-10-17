@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setText(${1:QString})]]></content>
+    <tabTrigger>setText(QString)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLabel(Slot)</description>
+</snippet>

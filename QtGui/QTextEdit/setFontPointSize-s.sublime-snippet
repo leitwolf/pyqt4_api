@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setFontPointSize(${1:s})]]></content>
+    <tabTrigger>setFontPointSize(s)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextEdit(Slot)</description>
+</snippet>

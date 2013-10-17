@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setItemEnabled(${1:index}, ${2:enabled})]]></content>
+    <tabTrigger>setItemEnabled(index, enabled)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QToolBox</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[isEqual(${1:cg1}, ${2:cg2})]]></content>
+    <tabTrigger>isEqual(cg1, cg2)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPalette</description>
+</snippet>

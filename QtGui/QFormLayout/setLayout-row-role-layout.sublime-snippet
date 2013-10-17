@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setLayout(${1:row}, ${2:role}, ${3:layout})]]></content>
+    <tabTrigger>setLayout(row, role, layout)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFormLayout</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[macFontID()]]></content>
+    <tabTrigger>macFontID()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFont</description>
+</snippet>

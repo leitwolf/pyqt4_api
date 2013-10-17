@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[installEventFilter(${1:filterObj})]]></content>
+    <tabTrigger>installEventFilter(filterObj)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QObject</description>
+</snippet>

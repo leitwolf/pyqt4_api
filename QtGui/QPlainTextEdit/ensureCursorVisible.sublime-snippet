@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[ensureCursorVisible()]]></content>
+    <tabTrigger>ensureCursorVisible()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPlainTextEdit</description>
+</snippet>

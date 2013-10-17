@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[hovered()]]></content>
+    <tabTrigger>hovered()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAction(Signal)</description>
+</snippet>

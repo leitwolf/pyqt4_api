@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setRegExp(${1:rx})]]></content>
+    <tabTrigger>setRegExp(rx)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QRegExpValidator</description>
+</snippet>

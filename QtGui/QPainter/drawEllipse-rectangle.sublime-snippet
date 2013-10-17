@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[drawEllipse(${1:rectangle})]]></content>
+    <tabTrigger>drawEllipse(rectangle)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

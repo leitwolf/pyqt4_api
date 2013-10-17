@@ -1,0 +1,15 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QStandardItem", "contents": "QtGui.QStandardItem" },
+		{ "trigger": "QStandardItem.Type", "contents": "QtGui.QStandardItem.Type" },
+		{ "trigger": "QStandardItem.UserType", "contents": "QtGui.QStandardItem.UserType" },
+		{ "trigger": "QStandardItem()", "contents": "QtGui.QStandardItem()" },
+		{ "trigger": "QStandardItem(text)", "contents": "QtGui.QStandardItem(${1:text})" },
+		{ "trigger": "QStandardItem(icon, text)", "contents": "QtGui.QStandardItem(${1:icon}, ${2:text})" },
+		{ "trigger": "QStandardItem(rows, columns)", "contents": "QtGui.QStandardItem(${1:rows}, ${2:columns})" },
+		{ "trigger": "QStandardItem(other)", "contents": "QtGui.QStandardItem(${1:other})" }
+	]
+}

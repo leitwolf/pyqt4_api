@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[yearShown()]]></content>
+    <tabTrigger>yearShown()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QCalendarWidget</description>
+</snippet>

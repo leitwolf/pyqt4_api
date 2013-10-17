@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[tabRect(${1:index})]]></content>
+    <tabTrigger>tabRect(index)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTabBar</description>
+</snippet>

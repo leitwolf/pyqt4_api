@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[subtracted(${1:p})]]></content>
+    <tabTrigger>subtracted(p)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainterPath</description>
+</snippet>

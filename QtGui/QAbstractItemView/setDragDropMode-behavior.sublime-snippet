@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setDragDropMode(${1:behavior})]]></content>
+    <tabTrigger>setDragDropMode(behavior)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractItemView</description>
+</snippet>

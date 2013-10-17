@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[beginNativePainting()]]></content>
+    <tabTrigger>beginNativePainting()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

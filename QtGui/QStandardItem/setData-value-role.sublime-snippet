@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setData(${1:value}, ${2:role})]]></content>
+    <tabTrigger>setData(value, role)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStandardItem</description>
+</snippet>

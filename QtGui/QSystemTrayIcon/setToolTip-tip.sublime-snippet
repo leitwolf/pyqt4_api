@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setToolTip(${1:tip})]]></content>
+    <tabTrigger>setToolTip(tip)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSystemTrayIcon</description>
+</snippet>

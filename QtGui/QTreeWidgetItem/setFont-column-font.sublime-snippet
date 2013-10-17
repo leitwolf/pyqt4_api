@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setFont(${1:column}, ${2:font})]]></content>
+    <tabTrigger>setFont(column, font)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTreeWidgetItem</description>
+</snippet>

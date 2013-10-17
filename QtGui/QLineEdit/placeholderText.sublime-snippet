@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[placeholderText()]]></content>
+    <tabTrigger>placeholderText()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLineEdit</description>
+</snippet>

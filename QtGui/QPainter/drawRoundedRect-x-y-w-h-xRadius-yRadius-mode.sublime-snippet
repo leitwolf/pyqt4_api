@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[drawRoundedRect(${1:x}, ${2:y}, ${3:w}, ${4:h}, ${5:xRadius}, ${6:yRadius}, ${7:mode})]]></content>
+    <tabTrigger>drawRoundedRect(x, y, w, h, xRadius, yRadius, mode)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

@@ -1,0 +1,12 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QPlainTextEdit", "contents": "QtGui.QPlainTextEdit" },
+		{ "trigger": "QPlainTextEdit.NoWrap", "contents": "QtGui.QPlainTextEdit.NoWrap" },
+		{ "trigger": "QPlainTextEdit.WidgetWidth", "contents": "QtGui.QPlainTextEdit.WidgetWidth" },
+		{ "trigger": "QPlainTextEdit(parent)", "contents": "QtGui.QPlainTextEdit(${1:parent})" },
+		{ "trigger": "QPlainTextEdit(text, parent)", "contents": "QtGui.QPlainTextEdit(${1:text}, ${2:parent})" }
+	]
+}

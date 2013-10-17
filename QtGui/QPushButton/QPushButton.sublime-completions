@@ -1,0 +1,11 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QPushButton", "contents": "QtGui.QPushButton" },
+		{ "trigger": "QPushButton(parent)", "contents": "QtGui.QPushButton(${1:parent})" },
+		{ "trigger": "QPushButton(text, parent)", "contents": "QtGui.QPushButton(${1:text}, ${2:parent})" },
+		{ "trigger": "QPushButton(icon, text, parent)", "contents": "QtGui.QPushButton(${1:icon}, ${2:text}, ${3:parent})" }
+	]
+}

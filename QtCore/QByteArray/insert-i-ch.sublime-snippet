@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[insert(${1:i}, ${2:ch})]]></content>
+    <tabTrigger>insert(i, ch)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QByteArray</description>
+</snippet>

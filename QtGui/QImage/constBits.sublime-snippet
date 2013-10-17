@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[constBits()]]></content>
+    <tabTrigger>constBits()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QImage</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[addEllipse(${1:center}, ${2:rx}, ${3:ry})]]></content>
+    <tabTrigger>addEllipse(center, rx, ry)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainterPath</description>
+</snippet>

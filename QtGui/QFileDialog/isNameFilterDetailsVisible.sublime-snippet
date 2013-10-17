@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[isNameFilterDetailsVisible()]]></content>
+    <tabTrigger>isNameFilterDetailsVisible()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFileDialog</description>
+</snippet>

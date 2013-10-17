@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setCurrentWidget(${1:widget})]]></content>
+    <tabTrigger>setCurrentWidget(widget)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTabWidget(Slot)</description>
+</snippet>

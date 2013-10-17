@@ -1,0 +1,35 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QFileDialog", "contents": "QtGui.QFileDialog" },
+		{ "trigger": "QFileDialog.AcceptOpen", "contents": "QtGui.QFileDialog.AcceptOpen" },
+		{ "trigger": "QFileDialog.AcceptSave", "contents": "QtGui.QFileDialog.AcceptSave" },
+		{ "trigger": "QFileDialog.LookIn", "contents": "QtGui.QFileDialog.LookIn" },
+		{ "trigger": "QFileDialog.FileName", "contents": "QtGui.QFileDialog.FileName" },
+		{ "trigger": "QFileDialog.FileType", "contents": "QtGui.QFileDialog.FileType" },
+		{ "trigger": "QFileDialog.Accept", "contents": "QtGui.QFileDialog.Accept" },
+		{ "trigger": "QFileDialog.Reject", "contents": "QtGui.QFileDialog.Reject" },
+		{ "trigger": "QFileDialog.AnyFile", "contents": "QtGui.QFileDialog.AnyFile" },
+		{ "trigger": "QFileDialog.ExistingFile", "contents": "QtGui.QFileDialog.ExistingFile" },
+		{ "trigger": "QFileDialog.Directory", "contents": "QtGui.QFileDialog.Directory" },
+		{ "trigger": "QFileDialog.ExistingFiles", "contents": "QtGui.QFileDialog.ExistingFiles" },
+		{ "trigger": "QFileDialog.DirectoryOnly", "contents": "QtGui.QFileDialog.DirectoryOnly" },
+		{ "trigger": "QFileDialog.ShowDirsOnly", "contents": "QtGui.QFileDialog.ShowDirsOnly" },
+		{ "trigger": "QFileDialog.DontResolveSymlinks", "contents": "QtGui.QFileDialog.DontResolveSymlinks" },
+		{ "trigger": "QFileDialog.DontConfirmOverwrite", "contents": "QtGui.QFileDialog.DontConfirmOverwrite" },
+		{ "trigger": "QFileDialog.DontUseNativeDialog", "contents": "QtGui.QFileDialog.DontUseNativeDialog" },
+		{ "trigger": "QFileDialog.ReadOnly", "contents": "QtGui.QFileDialog.ReadOnly" },
+		{ "trigger": "QFileDialog.HideNameFilterDetails", "contents": "QtGui.QFileDialog.HideNameFilterDetails" },
+		{ "trigger": "QFileDialog.DontUseSheet", "contents": "QtGui.QFileDialog.DontUseSheet" },
+		{ "trigger": "QFileDialog.Detail", "contents": "QtGui.QFileDialog.Detail" },
+		{ "trigger": "QFileDialog.List", "contents": "QtGui.QFileDialog.List" },
+		{ "trigger": "QFileDialog(parent, flags)", "contents": "QtGui.QFileDialog(${1:parent}, ${2:flags})" },
+		{ "trigger": "QFileDialog(parent, caption)", "contents": "QtGui.QFileDialog(${1:parent}, ${2:caption})" },
+		{ "trigger": "QFileDialog.getExistingDirectory(parent, caption, dir, options)", "contents": "QtGui.QFileDialog.getExistingDirectory(${1:parent}, ${2:caption}, ${3:dir}, ${4:options})" },
+		{ "trigger": "QFileDialog.getOpenFileName(parent, caption, dir, filter, selectedFilter, options)", "contents": "QtGui.QFileDialog.getOpenFileName(${1:parent}, ${2:caption}, ${3:dir}, ${4:filter}, ${5:selectedFilter}, ${6:options})" },
+		{ "trigger": "QFileDialog.getOpenFileNames(parent, caption, dir, filter, selectedFilter, options)", "contents": "QtGui.QFileDialog.getOpenFileNames(${1:parent}, ${2:caption}, ${3:dir}, ${4:filter}, ${5:selectedFilter}, ${6:options})" },
+		{ "trigger": "QFileDialog.getSaveFileName(parent, caption, dir, filter, selectedFilter, options)", "contents": "QtGui.QFileDialog.getSaveFileName(${1:parent}, ${2:caption}, ${3:dir}, ${4:filter}, ${5:selectedFilter}, ${6:options})" }
+	]
+}

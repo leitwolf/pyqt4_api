@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[hasImage()]]></content>
+    <tabTrigger>hasImage()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMimeData</description>
+</snippet>

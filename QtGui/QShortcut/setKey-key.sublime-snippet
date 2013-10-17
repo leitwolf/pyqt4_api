@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setKey(${1:key})]]></content>
+    <tabTrigger>setKey(key)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QShortcut</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[addStretch(${1:stretch})]]></content>
+    <tabTrigger>addStretch(stretch)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QBoxLayout</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setRowHidden(${1:row}, ${2:parent}, ${3:hide})]]></content>
+    <tabTrigger>setRowHidden(row, parent, hide)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTreeView</description>
+</snippet>

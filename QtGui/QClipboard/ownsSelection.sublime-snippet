@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[ownsSelection()]]></content>
+    <tabTrigger>ownsSelection()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QClipboard</description>
+</snippet>

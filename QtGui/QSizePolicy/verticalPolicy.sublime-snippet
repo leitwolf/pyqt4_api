@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[verticalPolicy()]]></content>
+    <tabTrigger>verticalPolicy()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSizePolicy</description>
+</snippet>

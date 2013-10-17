@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[indexAt(${1:point})]]></content>
+    <tabTrigger>indexAt(point)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractItemView</description>
+</snippet>

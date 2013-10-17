@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[width(${1:text}, ${2:len})]]></content>
+    <tabTrigger>width(text, len)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFontMetrics</description>
+</snippet>

@@ -1,0 +1,21 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QDateTimeEdit", "contents": "QtGui.QDateTimeEdit" },
+		{ "trigger": "QDateTimeEdit.NoSection", "contents": "QtGui.QDateTimeEdit.NoSection" },
+		{ "trigger": "QDateTimeEdit.AmPmSection", "contents": "QtGui.QDateTimeEdit.AmPmSection" },
+		{ "trigger": "QDateTimeEdit.MSecSection", "contents": "QtGui.QDateTimeEdit.MSecSection" },
+		{ "trigger": "QDateTimeEdit.SecondSection", "contents": "QtGui.QDateTimeEdit.SecondSection" },
+		{ "trigger": "QDateTimeEdit.MinuteSection", "contents": "QtGui.QDateTimeEdit.MinuteSection" },
+		{ "trigger": "QDateTimeEdit.HourSection", "contents": "QtGui.QDateTimeEdit.HourSection" },
+		{ "trigger": "QDateTimeEdit.DaySection", "contents": "QtGui.QDateTimeEdit.DaySection" },
+		{ "trigger": "QDateTimeEdit.MonthSection", "contents": "QtGui.QDateTimeEdit.MonthSection" },
+		{ "trigger": "QDateTimeEdit.YearSection", "contents": "QtGui.QDateTimeEdit.YearSection" },
+		{ "trigger": "QDateTimeEdit(parent)", "contents": "QtGui.QDateTimeEdit(${1:parent})" },
+		{ "trigger": "QDateTimeEdit(datetime, parent)", "contents": "QtGui.QDateTimeEdit(${1:datetime}, ${2:parent})" },
+		{ "trigger": "QDateTimeEdit(date, parent)", "contents": "QtGui.QDateTimeEdit(${1:date}, ${2:parent})" },
+		{ "trigger": "QDateTimeEdit(time, parent)", "contents": "QtGui.QDateTimeEdit(${1:time}, ${2:parent})" }
+	]
+}

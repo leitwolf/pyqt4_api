@@ -1,0 +1,9 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QUndoGroup", "contents": "QtGui.QUndoGroup" },
+		{ "trigger": "QUndoGroup(parent)", "contents": "QtGui.QUndoGroup(${1:parent})" }
+	]
+}

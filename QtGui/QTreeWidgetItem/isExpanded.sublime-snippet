@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[isExpanded()]]></content>
+    <tabTrigger>isExpanded()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTreeWidgetItem</description>
+</snippet>

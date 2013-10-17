@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[previousCursorPosition(${1:oldPos}, ${2:mode})]]></content>
+    <tabTrigger>previousCursorPosition(oldPos, mode)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextLayout</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QMimeData", "contents": "QtCore.QMimeData" },
+		{ "trigger": "QMimeData()", "contents": "QtCore.QMimeData()" }
+	]
+}

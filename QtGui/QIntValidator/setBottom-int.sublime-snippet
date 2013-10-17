@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setBottom(${1:int})]]></content>
+    <tabTrigger>setBottom(int)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QIntValidator</description>
+</snippet>

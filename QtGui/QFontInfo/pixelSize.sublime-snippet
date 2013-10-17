@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[pixelSize()]]></content>
+    <tabTrigger>pixelSize()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFontInfo</description>
+</snippet>

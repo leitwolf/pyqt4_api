@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[minimumSize()]]></content>
+    <tabTrigger>minimumSize()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QWidget</description>
+</snippet>

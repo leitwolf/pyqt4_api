@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setNotchesVisible(${1:visible})]]></content>
+    <tabTrigger>setNotchesVisible(visible)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDial(Slot)</description>
+</snippet>

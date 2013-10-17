@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[originCorner()]]></content>
+    <tabTrigger>originCorner()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QGridLayout</description>
+</snippet>

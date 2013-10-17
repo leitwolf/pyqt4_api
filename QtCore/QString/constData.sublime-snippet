@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[constData()]]></content>
+    <tabTrigger>constData()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QString</description>
+</snippet>

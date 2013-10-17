@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[isMovable()]]></content>
+    <tabTrigger>isMovable()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QHeaderView</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setTickPosition(${1:position})]]></content>
+    <tabTrigger>setTickPosition(position)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSlider</description>
+</snippet>

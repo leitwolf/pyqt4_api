@@ -1,0 +1,11 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QPageSetupDialog", "contents": "QtGui.QPageSetupDialog" },
+		{ "trigger": "QPageSetupDialog.DontUseSheet", "contents": "QtGui.QPageSetupDialog.DontUseSheet" },
+		{ "trigger": "QPageSetupDialog(printer, parent)", "contents": "QtGui.QPageSetupDialog(${1:printer}, ${2:parent})" },
+		{ "trigger": "QPageSetupDialog(parent)", "contents": "QtGui.QPageSetupDialog(${1:parent})" }
+	]
+}

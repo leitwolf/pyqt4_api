@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setEncodedFragment(${1:fragment})]]></content>
+    <tabTrigger>setEncodedFragment(fragment)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QUrl</description>
+</snippet>

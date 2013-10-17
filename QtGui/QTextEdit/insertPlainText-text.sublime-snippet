@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[insertPlainText(${1:text})]]></content>
+    <tabTrigger>insertPlainText(text)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextEdit(Slot)</description>
+</snippet>

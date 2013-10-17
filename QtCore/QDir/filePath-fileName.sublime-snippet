@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[filePath(${1:fileName})]]></content>
+    <tabTrigger>filePath(fileName)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDir</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[mimeTypes()]]></content>
+    <tabTrigger>mimeTypes()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTreeWidget</description>
+</snippet>

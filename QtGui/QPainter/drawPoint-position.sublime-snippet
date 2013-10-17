@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[drawPoint(${1:position})]]></content>
+    <tabTrigger>drawPoint(position)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

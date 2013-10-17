@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[generatedIconPixmap(${1:iconMode}, ${2:pixmap}, ${3:option})]]></content>
+    <tabTrigger>generatedIconPixmap(iconMode, pixmap, option)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStyle</description>
+</snippet>

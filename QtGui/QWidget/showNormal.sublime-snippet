@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[showNormal()]]></content>
+    <tabTrigger>showNormal()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QWidget(Slot)</description>
+</snippet>

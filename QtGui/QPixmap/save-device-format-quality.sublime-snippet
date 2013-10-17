@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[save(${1:device}, ${2:format}, ${3:quality})]]></content>
+    <tabTrigger>save(device, format, quality)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPixmap</description>
+</snippet>

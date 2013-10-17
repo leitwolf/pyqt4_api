@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[quality()]]></content>
+    <tabTrigger>quality()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QImageReader</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[hideOrShow()]]></content>
+    <tabTrigger>hideOrShow()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStatusBar</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[addSpacerItem(${1:spacerItem})]]></content>
+    <tabTrigger>addSpacerItem(spacerItem)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QBoxLayout</description>
+</snippet>

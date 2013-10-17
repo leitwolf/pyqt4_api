@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[itemPixmapRect(${1:rectangle}, ${2:alignment}, ${3:pixmap})]]></content>
+    <tabTrigger>itemPixmapRect(rectangle, alignment, pixmap)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStyle</description>
+</snippet>

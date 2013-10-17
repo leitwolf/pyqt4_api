@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[contextMenu()]]></content>
+    <tabTrigger>contextMenu()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSystemTrayIcon</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setTimeRange(${1:min}, ${2:max})]]></content>
+    <tabTrigger>setTimeRange(min, max)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDateTimeEdit</description>
+</snippet>

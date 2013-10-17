@@ -1,0 +1,14 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QHeaderView", "contents": "QtGui.QHeaderView" },
+		{ "trigger": "QHeaderView.Interactive", "contents": "QtGui.QHeaderView.Interactive" },
+		{ "trigger": "QHeaderView.Fixed", "contents": "QtGui.QHeaderView.Fixed" },
+		{ "trigger": "QHeaderView.Stretch", "contents": "QtGui.QHeaderView.Stretch" },
+		{ "trigger": "QHeaderView.ResizeToContents", "contents": "QtGui.QHeaderView.ResizeToContents" },
+		{ "trigger": "QHeaderView.Custom", "contents": "QtGui.QHeaderView.Custom" },
+		{ "trigger": "QHeaderView(orientation, parent)", "contents": "QtGui.QHeaderView(${1:orientation}, ${2:parent})" }
+	]
+}

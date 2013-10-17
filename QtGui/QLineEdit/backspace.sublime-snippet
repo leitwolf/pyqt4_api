@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[backspace()]]></content>
+    <tabTrigger>backspace()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLineEdit</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[doubleMaximum()]]></content>
+    <tabTrigger>doubleMaximum()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QInputDialog</description>
+</snippet>

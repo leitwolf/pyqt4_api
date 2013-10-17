@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setShortcut(${1:key})]]></content>
+    <tabTrigger>setShortcut(key)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractButton</description>
+</snippet>

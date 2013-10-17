@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setColumnWidth(${1:column}, ${2:width})]]></content>
+    <tabTrigger>setColumnWidth(column, width)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTreeView</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[spec()]]></content>
+    <tabTrigger>spec()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QColor</description>
+</snippet>

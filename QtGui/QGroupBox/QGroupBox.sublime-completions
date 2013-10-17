@@ -1,0 +1,10 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QGroupBox", "contents": "QtGui.QGroupBox" },
+		{ "trigger": "QGroupBox(parent)", "contents": "QtGui.QGroupBox(${1:parent})" },
+		{ "trigger": "QGroupBox(title, parent)", "contents": "QtGui.QGroupBox(${1:title}, ${2:parent})" }
+	]
+}

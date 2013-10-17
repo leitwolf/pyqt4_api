@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[sortItems(${1:order})]]></content>
+    <tabTrigger>sortItems(order)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QListWidget</description>
+</snippet>

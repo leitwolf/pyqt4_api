@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[iconVisibleInMenu]]></content>
+    <tabTrigger>iconVisibleInMenu</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAction</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[moveTab(${1:from}, ${2:to})]]></content>
+    <tabTrigger>moveTab(from, to)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTabBar</description>
+</snippet>

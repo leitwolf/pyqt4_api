@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setHeaderLabels(${1:labels})]]></content>
+    <tabTrigger>setHeaderLabels(labels)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTreeWidget</description>
+</snippet>

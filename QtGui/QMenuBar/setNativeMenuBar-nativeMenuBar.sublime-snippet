@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setNativeMenuBar(${1:nativeMenuBar})]]></content>
+    <tabTrigger>setNativeMenuBar(nativeMenuBar)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMenuBar</description>
+</snippet>

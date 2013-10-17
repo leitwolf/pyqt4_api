@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[testAttribute(${1:attribute})]]></content>
+    <tabTrigger>testAttribute(attribute)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QWidget</description>
+</snippet>

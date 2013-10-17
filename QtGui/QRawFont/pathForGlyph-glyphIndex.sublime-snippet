@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[pathForGlyph(${1:glyphIndex})]]></content>
+    <tabTrigger>pathForGlyph(glyphIndex)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QRawFont</description>
+</snippet>

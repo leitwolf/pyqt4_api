@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[qwsSetCustomColors(${1:colorTable}, ${2:start}, ${3:numColors})]]></content>
+    <tabTrigger>qwsSetCustomColors(colorTable, start, numColors)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QApplication</description>
+</snippet>

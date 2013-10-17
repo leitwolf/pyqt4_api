@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[defaultWidget()]]></content>
+    <tabTrigger>defaultWidget()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QWidgetAction</description>
+</snippet>

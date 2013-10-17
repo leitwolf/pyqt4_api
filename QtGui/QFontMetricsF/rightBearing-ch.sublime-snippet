@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[rightBearing(${1:ch})]]></content>
+    <tabTrigger>rightBearing(ch)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFontMetricsF</description>
+</snippet>

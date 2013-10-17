@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[buttonReleased(${1:id})]]></content>
+    <tabTrigger>buttonReleased(id)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QButtonGroup(Signal)</description>
+</snippet>

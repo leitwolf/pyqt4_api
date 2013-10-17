@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[linkVisited()]]></content>
+    <tabTrigger>linkVisited()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPalette</description>
+</snippet>

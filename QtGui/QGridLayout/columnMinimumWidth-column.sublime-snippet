@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[columnMinimumWidth(${1:column})]]></content>
+    <tabTrigger>columnMinimumWidth(column)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QGridLayout</description>
+</snippet>

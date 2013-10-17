@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[expandsOnDoubleClick()]]></content>
+    <tabTrigger>expandsOnDoubleClick()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTreeView</description>
+</snippet>

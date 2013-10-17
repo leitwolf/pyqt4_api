@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[unpolish(${1:widget})]]></content>
+    <tabTrigger>unpolish(widget)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStyle</description>
+</snippet>

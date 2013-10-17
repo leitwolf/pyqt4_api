@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[hasClipping()]]></content>
+    <tabTrigger>hasClipping()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

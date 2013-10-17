@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[echoMode()]]></content>
+    <tabTrigger>echoMode()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLineEdit</description>
+</snippet>

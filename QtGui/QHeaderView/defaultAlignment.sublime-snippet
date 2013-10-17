@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[defaultAlignment()]]></content>
+    <tabTrigger>defaultAlignment()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QHeaderView</description>
+</snippet>

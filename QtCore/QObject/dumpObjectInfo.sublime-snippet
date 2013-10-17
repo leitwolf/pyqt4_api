@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[dumpObjectInfo()]]></content>
+    <tabTrigger>dumpObjectInfo()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QObject</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[resetTransform()]]></content>
+    <tabTrigger>resetTransform()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

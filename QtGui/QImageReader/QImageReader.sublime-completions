@@ -1,0 +1,18 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QImageReader", "contents": "QtGui.QImageReader" },
+		{ "trigger": "QImageReader.FileNotFoundError", "contents": "QtGui.QImageReader.FileNotFoundError" },
+		{ "trigger": "QImageReader.DeviceError", "contents": "QtGui.QImageReader.DeviceError" },
+		{ "trigger": "QImageReader.UnsupportedFormatError", "contents": "QtGui.QImageReader.UnsupportedFormatError" },
+		{ "trigger": "QImageReader.InvalidDataError", "contents": "QtGui.QImageReader.InvalidDataError" },
+		{ "trigger": "QImageReader.UnknownError", "contents": "QtGui.QImageReader.UnknownError" },
+		{ "trigger": "QImageReader()", "contents": "QtGui.QImageReader()" },
+		{ "trigger": "QImageReader(device, format)", "contents": "QtGui.QImageReader(${1:device}, ${2:format})" },
+		{ "trigger": "QImageReader(fileName, format)", "contents": "QtGui.QImageReader(${1:fileName}, ${2:format})" },
+		{ "trigger": "QImageReader.imageFormat(fileName)", "contents": "QtGui.QImageReader.imageFormat(${1:fileName})" },
+		{ "trigger": "QImageReader.imageFormat(device)", "contents": "QtGui.QImageReader.imageFormat(${1:device})" }
+	]
+}

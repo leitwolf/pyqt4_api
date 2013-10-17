@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setDashPattern(${1:pattern})]]></content>
+    <tabTrigger>setDashPattern(pattern)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPen</description>
+</snippet>

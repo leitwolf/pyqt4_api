@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setStyleHint(${1:hint}, ${2:strategy})]]></content>
+    <tabTrigger>setStyleHint(hint, strategy)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFont</description>
+</snippet>

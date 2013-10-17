@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[horizontalAdvance()]]></content>
+    <tabTrigger>horizontalAdvance()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextLine</description>
+</snippet>

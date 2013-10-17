@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setLetterSpacing(${1:type}, ${2:spacing})]]></content>
+    <tabTrigger>setLetterSpacing(type, spacing)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFont</description>
+</snippet>

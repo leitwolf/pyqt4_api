@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setDisplayFormat(${1:format})]]></content>
+    <tabTrigger>setDisplayFormat(format)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDateTimeEdit</description>
+</snippet>

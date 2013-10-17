@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[doubleClickInterval]]></content>
+    <tabTrigger>doubleClickInterval</tabTrigger>
+    <scope>source.python</scope>
+    <description>QApplication</description>
+</snippet>

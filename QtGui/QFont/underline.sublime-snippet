@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[underline()]]></content>
+    <tabTrigger>underline()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFont</description>
+</snippet>

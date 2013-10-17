@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[angleAtPercent(${1:t})]]></content>
+    <tabTrigger>angleAtPercent(t)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainterPath</description>
+</snippet>

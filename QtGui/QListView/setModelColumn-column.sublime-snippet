@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setModelColumn(${1:column})]]></content>
+    <tabTrigger>setModelColumn(column)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QListView</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[regExp()]]></content>
+    <tabTrigger>regExp()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QRegExpValidator</description>
+</snippet>

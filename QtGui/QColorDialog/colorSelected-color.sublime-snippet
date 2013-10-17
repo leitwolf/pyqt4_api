@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[colorSelected(${1:color})]]></content>
+    <tabTrigger>colorSelected(color)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QColorDialog(Signal)</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[autoDefault()]]></content>
+    <tabTrigger>autoDefault()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPushButton</description>
+</snippet>

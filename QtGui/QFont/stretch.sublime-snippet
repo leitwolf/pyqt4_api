@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[stretch()]]></content>
+    <tabTrigger>stretch()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFont</description>
+</snippet>

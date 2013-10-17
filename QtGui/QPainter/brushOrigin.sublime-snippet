@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[brushOrigin()]]></content>
+    <tabTrigger>brushOrigin()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

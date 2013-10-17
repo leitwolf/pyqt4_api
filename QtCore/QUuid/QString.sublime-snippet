@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[QString()]]></content>
+    <tabTrigger>QString()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QUuid</description>
+</snippet>

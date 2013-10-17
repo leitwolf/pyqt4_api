@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[usesScrollButtons()]]></content>
+    <tabTrigger>usesScrollButtons()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTabBar</description>
+</snippet>

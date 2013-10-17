@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setTextFormat(${1:format})]]></content>
+    <tabTrigger>setTextFormat(format)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QMessageBox</description>
+</snippet>

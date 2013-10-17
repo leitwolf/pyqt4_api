@@ -1,0 +1,22 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QPalette", "contents": "QtGui.QPalette" },
+		{ "trigger": "QPalette.Disabled", "contents": "QtGui.QPalette.Disabled" },
+		{ "trigger": "QPalette.Active", "contents": "QtGui.QPalette.Active" },
+		{ "trigger": "QPalette.Inactive", "contents": "QtGui.QPalette.Inactive" },
+		{ "trigger": "QPalette.Normal", "contents": "QtGui.QPalette.Normal" },
+		{ "trigger": "QPalette.Window", "contents": "QtGui.QPalette.Window" },
+		{ "trigger": "QPalette.Background", "contents": "QtGui.QPalette.Background" },
+		{ "trigger": "QPalette.WindowText", "contents": "QtGui.QPalette.WindowText" },
+		{ "trigger": "QPalette.Foreground", "contents": "QtGui.QPalette.Foreground" },
+		{ "trigger": "QPalette.NoRole", "contents": "QtGui.QPalette.NoRole" },
+		{ "trigger": "QPalette()", "contents": "QtGui.QPalette()" },
+		{ "trigger": "QPalette(button)", "contents": "QtGui.QPalette(${1:button})" },
+		{ "trigger": "QPalette(button, window)", "contents": "QtGui.QPalette(${1:button}, ${2:window})" },
+		{ "trigger": "QPalette(windowText, button, light, dark, mid, text, bright_text, base, window)", "contents": "QtGui.QPalette(${1:windowText}, ${2:button}, ${3:light}, ${4:dark}, ${5:mid}, ${6:text}, ${7:bright_text}, ${8:base}, ${9:window})" },
+		{ "trigger": "QPalette(p)", "contents": "QtGui.QPalette(${1:p})" }
+	]
+}

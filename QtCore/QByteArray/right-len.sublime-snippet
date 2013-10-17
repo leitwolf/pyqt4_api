@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[right(${1:len})]]></content>
+    <tabTrigger>right(len)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QByteArray</description>
+</snippet>

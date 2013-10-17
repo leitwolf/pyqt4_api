@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setEncodedHost(${1:host})]]></content>
+    <tabTrigger>setEncodedHost(host)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QUrl</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[description()]]></content>
+    <tabTrigger>description()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QCommandLinkButton</description>
+</snippet>

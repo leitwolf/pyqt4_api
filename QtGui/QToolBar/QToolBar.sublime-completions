@@ -1,0 +1,10 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QToolBar", "contents": "QtGui.QToolBar" },
+		{ "trigger": "QToolBar(title, parent)", "contents": "QtGui.QToolBar(${1:title}, ${2:parent})" },
+		{ "trigger": "QToolBar(parent)", "contents": "QtGui.QToolBar(${1:parent})" }
+	]
+}

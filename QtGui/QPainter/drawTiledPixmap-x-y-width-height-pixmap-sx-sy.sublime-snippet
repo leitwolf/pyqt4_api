@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[drawTiledPixmap(${1:x}, ${2:y}, ${3:width}, ${4:height}, ${5:pixmap}, ${6:sx}, ${7:sy})]]></content>
+    <tabTrigger>drawTiledPixmap(x, y, width, height, pixmap, sx, sy)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[contains(${1:position})]]></content>
+    <tabTrigger>contains(position)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextBlock</description>
+</snippet>

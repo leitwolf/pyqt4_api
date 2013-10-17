@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[addWidget(${1:widget}, ${2:stretch}, ${3:alignment})]]></content>
+    <tabTrigger>addWidget(widget, stretch, alignment)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QBoxLayout</description>
+</snippet>

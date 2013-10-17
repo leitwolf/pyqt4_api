@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[verticalHeaderFormat()]]></content>
+    <tabTrigger>verticalHeaderFormat()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QCalendarWidget</description>
+</snippet>

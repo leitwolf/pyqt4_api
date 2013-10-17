@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[addRow(${1:label}, ${2:field})]]></content>
+    <tabTrigger>addRow(label, field)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QFormLayout</description>
+</snippet>

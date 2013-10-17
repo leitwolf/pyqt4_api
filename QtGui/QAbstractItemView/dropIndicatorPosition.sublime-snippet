@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[dropIndicatorPosition()]]></content>
+    <tabTrigger>dropIndicatorPosition()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QAbstractItemView</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[currentTextChanged(${1:currentText})]]></content>
+    <tabTrigger>currentTextChanged(currentText)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QListWidget(Signal)</description>
+</snippet>

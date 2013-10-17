@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[pixel(${1:x}, ${2:y})]]></content>
+    <tabTrigger>pixel(x, y)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QImage</description>
+</snippet>

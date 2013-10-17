@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[clicked(${1:button})]]></content>
+    <tabTrigger>clicked(button)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDialogButtonBox(Signal)</description>
+</snippet>

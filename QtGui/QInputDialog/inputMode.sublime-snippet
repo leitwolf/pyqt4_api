@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[inputMode()]]></content>
+    <tabTrigger>inputMode()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QInputDialog</description>
+</snippet>

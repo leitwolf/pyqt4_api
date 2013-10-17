@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[acceptRichText()]]></content>
+    <tabTrigger>acceptRichText()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QTextEdit</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setFlat(${1:flat})]]></content>
+    <tabTrigger>setFlat(flat)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QGroupBox</description>
+</snippet>

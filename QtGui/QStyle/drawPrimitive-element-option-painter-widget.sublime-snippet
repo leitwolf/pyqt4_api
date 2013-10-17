@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[drawPrimitive(${1:element}, ${2:option}, ${3:painter}, ${4:widget})]]></content>
+    <tabTrigger>drawPrimitive(element, option, painter, widget)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QStyle</description>
+</snippet>

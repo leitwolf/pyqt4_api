@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[rootModelIndex()]]></content>
+    <tabTrigger>rootModelIndex()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QComboBox</description>
+</snippet>

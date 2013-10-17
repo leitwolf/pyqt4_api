@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setOrientation(${1:orientation})]]></content>
+    <tabTrigger>setOrientation(orientation)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QSplitterHandle</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[toHex()]]></content>
+    <tabTrigger>toHex()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QByteArray</description>
+</snippet>

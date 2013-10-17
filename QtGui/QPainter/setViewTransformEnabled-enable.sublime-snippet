@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setViewTransformEnabled(${1:enable})]]></content>
+    <tabTrigger>setViewTransformEnabled(enable)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QPainter</description>
+</snippet>

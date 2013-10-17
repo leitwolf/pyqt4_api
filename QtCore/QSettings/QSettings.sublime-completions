@@ -1,0 +1,25 @@
+
+{
+	"scope": "source.python",
+	"completions": 
+	[
+		{ "trigger": "QSettings", "contents": "QtCore.QSettings" },
+		{ "trigger": "QSettings.NativeFormat", "contents": "QtCore.QSettings.NativeFormat" },
+		{ "trigger": "QSettings.IniFormat", "contents": "QtCore.QSettings.IniFormat" },
+		{ "trigger": "QSettings.InvalidFormat", "contents": "QtCore.QSettings.InvalidFormat" },
+		{ "trigger": "QSettings.UserScope", "contents": "QtCore.QSettings.UserScope" },
+		{ "trigger": "QSettings.SystemScope", "contents": "QtCore.QSettings.SystemScope" },
+		{ "trigger": "QSettings.NoError", "contents": "QtCore.QSettings.NoError" },
+		{ "trigger": "QSettings.AccessError", "contents": "QtCore.QSettings.AccessError" },
+		{ "trigger": "QSettings.FormatError", "contents": "QtCore.QSettings.FormatError" },
+		{ "trigger": "QSettings(organization, application, parent)", "contents": "QtCore.QSettings(${1:organization}, ${2:application}, ${3:parent})" },
+		{ "trigger": "QSettings(scope, organization, application, parent)", "contents": "QtCore.QSettings(${1:scope}, ${2:organization}, ${3:application}, ${4:parent})" },
+		{ "trigger": "QSettings(format, scope, organization, application, parent)", "contents": "QtCore.QSettings(${1:format}, ${2:scope}, ${3:organization}, ${4:application}, ${5:parent})" },
+		{ "trigger": "QSettings(fileName, format, parent)", "contents": "QtCore.QSettings(${1:fileName}, ${2:format}, ${3:parent})" },
+		{ "trigger": "QSettings(parent)", "contents": "QtCore.QSettings(${1:parent})" },
+		{ "trigger": "QSettings.defaultFormat()", "contents": "QtCore.QSettings.defaultFormat()" },
+		{ "trigger": "QSettings.registerFormat(extension, readFunc, writeFunc, caseSensitivity)", "contents": "QtCore.QSettings.registerFormat(${1:extension}, ${2:readFunc}, ${3:writeFunc}, ${4:caseSensitivity})" },
+		{ "trigger": "QSettings.setDefaultFormat(format)", "contents": "QtCore.QSettings.setDefaultFormat(${1:format})" },
+		{ "trigger": "QSettings.setPath(format, scope, path)", "contents": "QtCore.QSettings.setPath(${1:format}, ${2:scope}, ${3:path})" }
+	]
+}

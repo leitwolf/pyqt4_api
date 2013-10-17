@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setMinimum(${1:minimum})]]></content>
+    <tabTrigger>setMinimum(minimum)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QProgressDialog(Slot)</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[featuresChanged(${1:features})]]></content>
+    <tabTrigger>featuresChanged(features)</tabTrigger>
+    <scope>source.python</scope>
+    <description>QDockWidget(Signal)</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setDecMode()]]></content>
+    <tabTrigger>setDecMode()</tabTrigger>
+    <scope>source.python</scope>
+    <description>QLCDNumber(Slot)</description>
+</snippet>
